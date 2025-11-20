@@ -11,7 +11,9 @@ const inputFiles = [
   '4.txt',
   '5.txt',
   'baycikmis1.txt',
+  'Baycikmis2.txt',
   'baycikmis3.txt',
+  'Baycikmis4.txt',
 ];
 const outputFile = path.join(workspace, 'data', 'questions.json');
 
@@ -26,9 +28,13 @@ const isLikelyQuestionStart = (line) => {
   const trimmed = line.trimStart();
   // Nokta ile başlayan sorular: "1. Soru metni" veya "Soru 1) Soru metni" veya "S-1) Soru"
   // Boşlukla başlayanlar da: " 5. Soru metni"
+  // "•" ile başlayan sorular: "• Soru metni"
+  // "1)" ile başlayan sorular (soru numarası olmadan sadece parantez)
   return questionStartRegex.test(trimmed) || 
          /^\s*\d+\.\s+[A-ZÇĞİÖŞÜĞ]/.test(trimmed) ||
-         /^\s*S-\d+\)/.test(trimmed);
+         /^\s*S-\d+\)/.test(trimmed) ||
+         /^\s*\d+\)/.test(trimmed) ||
+         /^\s*[•]\s*[A-ZÇĞİÖŞÜĞ]/.test(trimmed);
 };
 
 const splitBlocks = (content) => {
@@ -42,7 +48,7 @@ const splitBlocks = (content) => {
       if (current) {
         blocks.push(current);
       }
-      // Farklı formatları destekle: "1)", "Soru 1)", "1.", "S-1)", " 5.", vb.
+      // Farklı formatları destekle: "1)", "Soru 1)", "1.", "S-1)", " 5.", "•" vb.
       let numberMatch = line.match(questionStartRegex);
       if (!numberMatch) {
         // "1. Soru metni" veya " 5. Soru metni" formatı için
@@ -57,11 +63,24 @@ const splitBlocks = (content) => {
             numberMatch = ['', sFormatMatch[1]];
           }
         }
+        // "1) Soru" formatı için (sadece parantez)
+        if (!numberMatch) {
+          const parenMatch = line.match(/^\s*(\d+)\)/);
+          if (parenMatch) {
+            numberMatch = ['', parenMatch[1]];
+          }
+        }
+        // "• Soru" formatı için - blok numarası kullan
+        if (!numberMatch && /^\s*[•]/.test(line)) {
+          numberMatch = ['', String(blocks.length + 1)];
+        }
       }
       const number = numberMatch ? Number(numberMatch[1]) : 0;
       // Soru satırını temizle - tüm formatları destekle
       const cleanedLine = line
         .replace(/^\s*\**\s*(?:Soru\s*)?(?:S-)?\d+[\)\.]\s*/, '')
+        .replace(/^\s*\d+\)\s*/, '')  // "1)" formatı için
+        .replace(/^\s*[•]\s*/, '')     // "•" formatı için
         .replace(/^ABDULAZİZ\s+BEHÇET\s+/, '')
         .trim();
       current = {

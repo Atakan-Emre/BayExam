@@ -609,7 +609,7 @@
       "label": "",
       "text": "Hayal yoluyla"
     },
-    "explanation": "•\tOtorite •\tAkıl (rasyonel) •\tDeney •\tGelenek Bilgi edinme yollarıdır. Hayal → kişisel tasavvur, bilgi kaynağı değildir."
+    "explanation": ""
   },
   {
     "id": 52,
@@ -7541,6 +7541,1260 @@
   },
   {
     "id": 284,
+    "source": "Baycikmis2.txt",
+    "number": 1,
+    "question": "Bilim bazı temel niteliklere sahip olmalıdır. Aşağıdaki seçeneklerden hangisi bu temel niteliklere en uzak niteliktir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Evrenseldir"
+      },
+      {
+        "label": "B",
+        "text": "İnovatiftir"
+      },
+      {
+        "label": "C",
+        "text": "Deneyseldir"
+      },
+      {
+        "label": "D",
+        "text": "Mantıksaldır"
+      },
+      {
+        "label": "E",
+        "text": "Gözlemseldir"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "İnovatiftir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 285,
+    "source": "Baycikmis2.txt",
+    "number": 2,
+    "question": "“Bilimsel bir araştırma için literatür araştırmasına, araştırma problemi ile ilgili ………… şeçilmesi ile başlanır.” İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "İsim"
+      },
+      {
+        "label": "B",
+        "text": "Başlığın"
+      },
+      {
+        "label": "C",
+        "text": "Özetin"
+      },
+      {
+        "label": "D",
+        "text": "Giriş kısmının"
+      },
+      {
+        "label": "E",
+        "text": "Anahtar kelimelerin"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Anahtar kelimelerin"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 286,
+    "source": "Baycikmis2.txt",
+    "number": 3,
+    "question": "Bir derginin etki faktörü hangi kritere dayanılarak belirlenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dergide yayımlanan makalelerin aldığı atıf sayısına göre"
+      },
+      {
+        "label": "B",
+        "text": "Derginin bir yılda yayımladığı makale adedine göre"
+      },
+      {
+        "label": "C",
+        "text": "Derginin türüne göre"
+      },
+      {
+        "label": "D",
+        "text": "Derginin tarandığı alan indekslerine göre"
+      },
+      {
+        "label": "E",
+        "text": "Derginin bilimsel popülerliğine göre"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Dergide yayımlanan makalelerin aldığı atıf sayısına göre"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 287,
+    "source": "Baycikmis2.txt",
+    "number": 4,
+    "question": "Başkalarının fikirlerini, yazılarını vb. izinsiz yayımlamak aşağıdaki hangi etik ihlale girer?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aşırma"
+      },
+      {
+        "label": "B",
+        "text": "Çarpıtma"
+      },
+      {
+        "label": "C",
+        "text": "Uydurma"
+      },
+      {
+        "label": "D",
+        "text": "Tekrar Yayım"
+      },
+      {
+        "label": "E",
+        "text": "Dilimleme"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Aşırma"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 288,
+    "source": "Baycikmis2.txt",
+    "number": 5,
+    "question": "MENDELEY nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Referans yönetim programı"
+      },
+      {
+        "label": "B",
+        "text": "Dergi adı"
+      },
+      {
+        "label": "C",
+        "text": "Form 24"
+      },
+      {
+        "label": "D",
+        "text": "Tez düzenleme şablonu"
+      },
+      {
+        "label": "E",
+        "text": "Kaynak yönetim aracı"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Referans yönetim programı"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 289,
+    "source": "Baycikmis2.txt",
+    "number": 6,
+    "question": "Proje ekibi seçiminde dikkat edilmesi gereken değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Konu ile ilgili ve bilgili, sorun çözme yeteneğine sahip olmalı"
+      },
+      {
+        "label": "B",
+        "text": "Gerektiğinde analitik ve gerektiğinde yaratıcı olabilen özgün ve esnek düşünen."
+      },
+      {
+        "label": "C",
+        "text": "Katkı yapabilecek özelliklerde ve buna istekli olmalı."
+      },
+      {
+        "label": "D",
+        "text": "Sorumluluk alabilen, geniş zaman dilimi içinde çalışabilen özellikte olmalı."
+      },
+      {
+        "label": "E",
+        "text": "Diğer ekip üyeleri ile uyumlu çalışan, iletişim kurabilen özelliğe sahip olmalı."
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Sorumluluk alabilen, geniş zaman dilimi içinde çalışabilen özellikte olmalı."
+    },
+    "explanation": ""
+  },
+  {
+    "id": 290,
+    "source": "Baycikmis2.txt",
+    "number": 7,
+    "question": "Aşağıdakilerden hangisi olgu ve olayları nesnelleştirerek gözlemlenebilir, ölçülebilir ve sayısal olarak ifade edebilir bir şekilde ortaya koyan bir araştırma türüdür.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nicel araştırma"
+      },
+      {
+        "label": "B",
+        "text": "Nitel araştırma"
+      },
+      {
+        "label": "C",
+        "text": "Tarihsel araştırma"
+      },
+      {
+        "label": "D",
+        "text": "Betimsel araştırma"
+      },
+      {
+        "label": "E",
+        "text": "Fenomenolojik araştırma"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Nicel araştırma"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 291,
+    "source": "Baycikmis2.txt",
+    "number": 8,
+    "question": "…………: Başkalarına ait olan araştırma verilerinin, olduğu gibi kaynak gösterilmeden ve kendi araştırma verileriymiş gibi yayımlanmasıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aldatmaca"
+      },
+      {
+        "label": "B",
+        "text": "Sahtecilik"
+      },
+      {
+        "label": "C",
+        "text": "Saptırmaca"
+      },
+      {
+        "label": "D",
+        "text": "Uydurmacılık"
+      },
+      {
+        "label": "E",
+        "text": "İntihal"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "İntihal"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 292,
+    "source": "Baycikmis2.txt",
+    "number": 9,
+    "question": "“Bir tezin yazı bölümünde yer alan, herhangi bir bilginin kaynağının ne olduğunun yine bulunduğu yerde belirtirmesidir.” Cümlesi aşağıdaki terimlerden hangisini açıklar ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Etik"
+      },
+      {
+        "label": "B",
+        "text": "İntihal"
+      },
+      {
+        "label": "C",
+        "text": "Atıf"
+      },
+      {
+        "label": "D",
+        "text": "Kaynak Yönetim Aracı"
+      },
+      {
+        "label": "E",
+        "text": "Tez Yazım Kuralları"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Atıf"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 293,
+    "source": "Baycikmis2.txt",
+    "number": 10,
+    "question": "Aşağıdaki TÜBİTAK destek programlarından hangisi sürekli başvuruya açıktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1000-Üniversitelerin Araştırma ve Geliştirme Potansiyelinin Artırılmasına Yönelik Destek Programı"
+      },
+      {
+        "label": "B",
+        "text": "1001-Bilimsel ve Teknolojik Araştırma Projelerini Destekleme Programı"
+      },
+      {
+        "label": "C",
+        "text": "1003-Öncelikli Alanlar Ar-Ge Projeleri Destekleme Programı"
+      },
+      {
+        "label": "D",
+        "text": "1004-Mükemmeliyet Merkezi Destek Programı"
+      },
+      {
+        "label": "E",
+        "text": "1005-Ulusal Yeni Fikirler ve Ürünler Araştırma Destek Programı"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "1005-Ulusal Yeni Fikirler ve Ürünler Araştırma Destek Programı"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 294,
+    "source": "Baycikmis2.txt",
+    "number": 11,
+    "question": "TÜBİTAK projelerinin ortak özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teşvik ödülü"
+      },
+      {
+        "label": "B",
+        "text": "Bütçeleri"
+      },
+      {
+        "label": "C",
+        "text": "Destek süreleri"
+      },
+      {
+        "label": "D",
+        "text": "Başvuru dönemi"
+      },
+      {
+        "label": "E",
+        "text": "Kimlerin başvuracağı"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Teşvik ödülü"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 295,
+    "source": "Baycikmis2.txt",
+    "number": 12,
+    "question": "Bir başlangıç noktasına göre durumların her birinin uzaklığına ya da olanaklı zamanın fakat durumlar arasındaki farklılıkların boyutuna ve uzaklığa, yöntem ve sorun olanağı tanıyan ölçme tekniği aşağıdaki seçeneklerden hangisi ile tanımlanır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sınıflandırma ölçekleri"
+      },
+      {
+        "label": "B",
+        "text": "Sıralama ölçeği"
+      },
+      {
+        "label": "C",
+        "text": "Aralıklı ölçeği"
+      },
+      {
+        "label": "D",
+        "text": "Oran ölçeği"
+      },
+      {
+        "label": "E",
+        "text": "Bağımsız ölçek"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Aralıklı ölçeği"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 296,
+    "source": "Baycikmis2.txt",
+    "number": 13,
+    "question": "Aşağıdakilerden hangisi literatür taraması kazanımlarından değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araştırmacının araştırma problemini gözden geçirmesini sağlaması"
+      },
+      {
+        "label": "B",
+        "text": "Konu ile ilgili daha fazla araştırma gerektiren soruları ortaya koyması"
+      },
+      {
+        "label": "C",
+        "text": "Konuyla dayanakların öğrenilmesini sağlaması"
+      },
+      {
+        "label": "D",
+        "text": "Konuyla ilgili alanın ve araştırmacıların belirlenmesi"
+      },
+      {
+        "label": "E",
+        "text": "Kaynakların belirlenmesi"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Konu ile ilgili daha fazla araştırma gerektiren soruları ortaya koyması"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 297,
+    "source": "Baycikmis2.txt",
+    "number": 14,
+    "question": "Önceden belirlenen hipotezin sınanması amacıyla değişkenler arasındaki ilişkilerin kontrollü bir ortamda incelenmesi aşağıdaki nicel araştırma türlerinden hangisi ile ifade edilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deney"
+      },
+      {
+        "label": "B",
+        "text": "Yarı Deney"
+      },
+      {
+        "label": "C",
+        "text": "Survey"
+      },
+      {
+        "label": "D",
+        "text": "Anket"
+      },
+      {
+        "label": "E",
+        "text": "Yapılandırılmış Görüşme"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Deney"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 298,
+    "source": "Baycikmis2.txt",
+    "number": 15,
+    "question": "Temmuz ayı boyunca üçer günlük aralarla Elazığ'da ölçülen öğlen sıcaklık değerleri sırasıyla: Sıcaklık 29; 31; 30; 32; 31; 33; 31; 34; 32; 35; 30dur. Buna göre medyan (ortanca) sıcaklık değeri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "31.5"
+      },
+      {
+        "label": "C",
+        "text": "32"
+      },
+      {
+        "label": "D",
+        "text": "32.5"
+      },
+      {
+        "label": "E",
+        "text": "33"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "31.5"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 299,
+    "source": "Baycikmis2.txt",
+    "number": 16,
+    "question": "Tez konusu önerisi ikinci defa reddedilen öğrencinin ilgili mevzuat gereğince; …… Yukarıdaki cümlede yer alan boşluğa aşağıdakilerden hangisi getirilmelidir:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Almış olduğu dersleri tekrar almalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Öğrenci danışman değişikliği talep edebilir."
+      },
+      {
+        "label": "C",
+        "text": "Danışman ile birlikte yeni bir tez konusu önerisi hazırlamalıdır"
+      },
+      {
+        "label": "D",
+        "text": "Tez çalışmasına başlayabilir"
+      },
+      {
+        "label": "E",
+        "text": "Enstitü ile ilişiği kesilir"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Enstitü ile ilişiği kesilir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 300,
+    "source": "Baycikmis2.txt",
+    "number": 18,
+    "question": "Bir öğrenci bir yıldan en fazla kaç kez yeterlik sınavına girebilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "text": "5"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "2"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 301,
+    "source": "Baycikmis2.txt",
+    "number": 19,
+    "question": "Aşağıdakilerden hangisi bilim etiğinin temel ilkelerinden değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dürüstlük"
+      },
+      {
+        "label": "B",
+        "text": "Açıklık"
+      },
+      {
+        "label": "C",
+        "text": "Yasallık"
+      },
+      {
+        "label": "D",
+        "text": "Özerklik"
+      },
+      {
+        "label": "E",
+        "text": "Verimlilik"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Özerklik"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 302,
+    "source": "Baycikmis2.txt",
+    "number": 20,
+    "question": "Bir bağımlı (açıklanan) ve bir bağımsız (açıklayıcı) değişken olmak üzere iki değişken arasındaki neden-sonuç ilişkisini matematiksel model olarak ortaya koyan yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "K-kare testi"
+      },
+      {
+        "label": "B",
+        "text": "T-testi"
+      },
+      {
+        "label": "C",
+        "text": "Kappa testi"
+      },
+      {
+        "label": "D",
+        "text": "Korelasyon analizi"
+      },
+      {
+        "label": "E",
+        "text": "Regrasyon analizi"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Regrasyon analizi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 303,
+    "source": "Baycikmis2.txt",
+    "number": 21,
+    "question": "Aşağıdaki seçeneklerden hangisi bilimsel yöntemi en iyi özetlemektedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teknolojiyle, düşüncelerde değişime, yenileşmeye ve bir olgunun sürdürülebilir olmasına"
+      },
+      {
+        "label": "B",
+        "text": "Sürdürülebilirlik, düşüncelerde değişme, destekleme ve bir olgunun sürdürme olmasına"
+      },
+      {
+        "label": "C",
+        "text": "İnovasyon, değişim, yenileşme, atılım ve bir olgunun sürdürülebilir olmasına"
+      },
+      {
+        "label": "D",
+        "text": "Bilimsel bir gelişme, düşüncelerde değişme, yenileşme ve bir olgunun sürdürülebilir olmasına"
+      },
+      {
+        "label": "E",
+        "text": "Yönetim, düşüncelerde değişme, deneme-yanılma ve bir olgunun sürdürülmesine"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Bilimsel bir gelişme, düşüncelerde değişme, yenileşme ve bir olgunun sürdürülebilir olmasına"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "source": "Baycikmis2.txt",
+    "number": 22,
+    "question": "Aşağıdakilerden hangisi bilimsel yöntemi en iyi açıklar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teknolojik değişim sürecidir"
+      },
+      {
+        "label": "B",
+        "text": "Sürdürülebilir destek süreçleri"
+      },
+      {
+        "label": "C",
+        "text": "İnovatif değişim süreci"
+      },
+      {
+        "label": "D",
+        "text": "Zihinsel gelişme ve düşüncelerde yenileşme süreci"
+      },
+      {
+        "label": "E",
+        "text": "Yönetim süreci"
+      }
+    ],
+    "answer": {
+      "label": "",
+      "text": "D (işaretli)"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "source": "Baycikmis2.txt",
+    "number": 23,
+    "question": "Bilimsel çalışmaların uluslararası kabul gören formatı hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "IMAD"
+      },
+      {
+        "label": "B",
+        "text": "IRAD"
+      },
+      {
+        "label": "C",
+        "text": "MRAD"
+      },
+      {
+        "label": "D",
+        "text": "IMRAD"
+      },
+      {
+        "label": "E",
+        "text": "Hepsi"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "IMRAD"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "source": "Baycikmis2.txt",
+    "number": 24,
+    "question": "Tamamlandığında ilgili alanda önemli yenilikler çıkarma potansiyeli olan, özgün değeri yüksek, yaygın etkisi ve katma değeri olan bilimsel ve sanatsal araştırma ve geliştirme projeleri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Altyapı projeleri"
+      },
+      {
+        "label": "B",
+        "text": "Doktora projeleri"
+      },
+      {
+        "label": "C",
+        "text": "Yüksek lisans projeleri"
+      },
+      {
+        "label": "D",
+        "text": "Performans projeleri"
+      },
+      {
+        "label": "E",
+        "text": "Kapsamlı araştırma projeleri"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Kapsamlı araştırma projeleri"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "source": "Baycikmis2.txt",
+    "number": 25,
+    "question": "Bilimsel yöntemlerle elde edilen bilgilere dayanarak, henüz kanıtlanmamış fakat mevcut bilgilerle mantıksal olarak çelişmeyen bilimsel araştırma sürecinde doğrulanmaya çalışan düz yazıya ne denir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sempozyum"
+      },
+      {
+        "label": "B",
+        "text": "Konferans"
+      },
+      {
+        "label": "C",
+        "text": "Tez"
+      },
+      {
+        "label": "D",
+        "text": "Seminer"
+      },
+      {
+        "label": "E",
+        "text": "Panel"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Konferans"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "source": "Baycikmis2.txt",
+    "number": 26,
+    "question": "Tezli yüksek lisans mezunları enstitüleri en fazla kaç AKTS kredisi gereklidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "60"
+      },
+      {
+        "label": "B",
+        "text": "90"
+      },
+      {
+        "label": "C",
+        "text": "120"
+      },
+      {
+        "label": "D",
+        "text": "180"
+      },
+      {
+        "label": "E",
+        "text": "240"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "120"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "source": "Baycikmis2.txt",
+    "number": 27,
+    "question": "Aşağıdakilerden hangisi \"Altın Açık Erişimli Dergi\" ler arasında yer almaz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Açık erişimli dergiler"
+      },
+      {
+        "label": "B",
+        "text": "Hibrit dergiler"
+      },
+      {
+        "label": "C",
+        "text": "Sübvanse edilen dergiler"
+      },
+      {
+        "label": "D",
+        "text": "Sübvanse edilemeyen dergiler"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbiri"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Sübvanse edilemeyen dergiler"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "source": "Baycikmis2.txt",
+    "number": 28,
+    "question": "Aşağıdakilerden hangisi bilimsel dergilerde makale değerlendirme yöntemlerinden biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tek-kör (single-blind)"
+      },
+      {
+        "label": "B",
+        "text": "Çift-kör (double-blind)"
+      },
+      {
+        "label": "C",
+        "text": "Açık inceleme (open review)"
+      },
+      {
+        "label": "D",
+        "text": "Parelel inceleme (Parallel review)"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbiri"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Parelel inceleme (Parallel review)"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 311,
+    "source": "Baycikmis2.txt",
+    "number": 29,
+    "question": "Bir öğrenci bir öğretim üyesinden kredili derslerin en fazla yüzde kaçını alabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "40"
+      },
+      {
+        "label": "C",
+        "text": "50"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      },
+      {
+        "label": "E",
+        "text": "70"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "50"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 312,
+    "source": "Baycikmis2.txt",
+    "number": 30,
+    "question": "Aşağıdakilerden hangisi bilimde etik dışı davranışların önlenmesi için kullanılan yöntemler arasındadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yönetimsel önlemler"
+      },
+      {
+        "label": "B",
+        "text": "Teknik önlemler"
+      },
+      {
+        "label": "C",
+        "text": "Sosyal önlemler"
+      },
+      {
+        "label": "D",
+        "text": "Genel önlemler"
+      },
+      {
+        "label": "E",
+        "text": "Eğitsel önlemler"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Yönetimsel önlemler"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 313,
+    "source": "Baycikmis2.txt",
+    "number": 31,
+    "question": "Yeterli sayıda bilimsel tarayıp, konuyu bugünkü bilgi ve teknoloji düzeyine özetleyen, değerlendirme yapan bulguları yayınlanması, yorumlanması, makale türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araştırma makaleleri"
+      },
+      {
+        "label": "B",
+        "text": "Derleme makaleleri"
+      },
+      {
+        "label": "C",
+        "text": "Editörün mektubu"
+      },
+      {
+        "label": "D",
+        "text": "Vaka notları"
+      },
+      {
+        "label": "E",
+        "text": "Lisansüstü tez makalesi"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Derleme makaleleri"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 314,
+    "source": "Baycikmis2.txt",
+    "number": 33,
+    "question": "Hem çevrim dışı hem de çevrim içi çalışma olanağı sağlayan referans yönetim aracı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mendeley"
+      },
+      {
+        "label": "B",
+        "text": "Zotero"
+      },
+      {
+        "label": "C",
+        "text": "RefWorks"
+      },
+      {
+        "label": "D",
+        "text": "EndNote"
+      },
+      {
+        "label": "E",
+        "text": "Turnitin"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "RefWorks"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 315,
+    "source": "Baycikmis2.txt",
+    "number": 34,
+    "question": "Aşağıdakilerden hangisi Doktora Tez Konusu Önerisi ve Yüksek Lisans Tez Konusu önerileri için ortak ve aynı özellikli iki formdur.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Form 30-31"
+      },
+      {
+        "label": "B",
+        "text": "Form 31-32"
+      },
+      {
+        "label": "C",
+        "text": "Form 32-33"
+      },
+      {
+        "label": "D",
+        "text": "Form 33-34"
+      },
+      {
+        "label": "E",
+        "text": "Form 34-35"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Form 31-32"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 316,
+    "source": "Baycikmis2.txt",
+    "number": 35,
+    "question": "Aşağıdaki şıklardan hangisi San-Tez Programının hedeflerini kapsamaz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Üniversite-sanayi-kamu iş birliğini kurumsallaştırmak"
+      },
+      {
+        "label": "B",
+        "text": "Üniversitede yapılan akademik bilginin ticarileşmesini sağlamak"
+      },
+      {
+        "label": "C",
+        "text": "Akademisyenler ve üniversite mezunu gençler arasında şirketleşme kültürünü yaygınlaştırarak yeni şirketlerin doğmasını sağlamak"
+      },
+      {
+        "label": "D",
+        "text": "KOBİ’lerin teknoloji ve AR-GE kültürü edinmelerinin sağlanması"
+      },
+      {
+        "label": "E",
+        "text": "Daha fazla sayıda yüksek lisans ve doktora öğrencisinin desteklenmesini sağlayarak nitelikli eleman sayısının arttırılmasına yardımcı olmak"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Daha fazla sayıda yüksek lisans ve doktora öğrencisinin desteklenmesini sağlayarak nitelikli eleman sayısının arttırılmasına yardımcı olmak"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 317,
+    "source": "Baycikmis2.txt",
+    "number": 36,
+    "question": "Yüksek lisans programına kayıtlı bir öğrenci, Genel Not Ortalaması yükseltmek amacıyla başarılı dersten olduğu derslerden hangi nota sahipse dersi tekrarlayabilir ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CB"
+      },
+      {
+        "label": "B",
+        "text": "BB"
+      },
+      {
+        "label": "C",
+        "text": "DD"
+      },
+      {
+        "label": "D",
+        "text": "FF"
+      },
+      {
+        "label": "E",
+        "text": "CC"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "CC"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "source": "Baycikmis2.txt",
+    "number": 37,
+    "question": "Bir seriyi özetleyen, katkıda kalıta tek bir değer olarak ifade eden, ama serinin tamamıyla istatistiksel olan ölçek aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ortalama"
+      },
+      {
+        "label": "B",
+        "text": "Frekans"
+      },
+      {
+        "label": "C",
+        "text": "Medyan"
+      },
+      {
+        "label": "D",
+        "text": "Aritmetik ortalama"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbiri"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Frekans"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 319,
+    "source": "Baycikmis2.txt",
+    "number": 38,
+    "question": "Dergiye makale gönderme, hakem değerlendirmesi ve yayınlama sürecinde dergi iletişimden birincil sorumlu olan kişi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Baş editör"
+      },
+      {
+        "label": "B",
+        "text": "Bölüm editörü"
+      },
+      {
+        "label": "C",
+        "text": "Sorumlu yazar"
+      },
+      {
+        "label": "D",
+        "text": "Yazar"
+      },
+      {
+        "label": "E",
+        "text": "Yayın sorumlusu"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Sorumlu yazar"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 320,
+    "source": "Baycikmis2.txt",
+    "number": 39,
+    "question": "Problemin tanımlandığı bölüm bilimsel bir makalenin hangi bölümüdür?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Özet"
+      },
+      {
+        "label": "B",
+        "text": "Giriş"
+      },
+      {
+        "label": "C",
+        "text": "Materyal ve Metot"
+      },
+      {
+        "label": "D",
+        "text": "Sonuçlar"
+      },
+      {
+        "label": "E",
+        "text": "Tartışma"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Giriş"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 321,
+    "source": "Baycikmis2.txt",
+    "number": 40,
+    "question": "\"Bilimsel dergilerin kendi grubunda ve kendi faktörlerinde değerlendirilen analitik değerin, derginin kendi grubu içindeki sıralamasını gösterir.\" Bu tanım aşağıdakilerden hangisine aittir.",
+    "options": [
+      {
+        "label": "A",
+        "text": "H-indeksi"
+      },
+      {
+        "label": "B",
+        "text": "I10-indeksi"
+      },
+      {
+        "label": "C",
+        "text": "Q faktörü"
+      },
+      {
+        "label": "D",
+        "text": "Etki faktörü"
+      },
+      {
+        "label": "E",
+        "text": "Impact faktörü"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Impact faktörü"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 322,
     "source": "baycikmis3.txt",
     "number": 1,
     "question": "Bilim, yüzyıllar süren bilimsel bilgi üretme sürecinde kendi niteliğini, geleneklerini ve standartlarını koymuştur. Bu süreçte çağdaş bilimin dört önemli niteliği oluşmuştur. Aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
@@ -7573,7 +8827,7 @@
     "explanation": ""
   },
   {
-    "id": 285,
+    "id": 323,
     "source": "baycikmis3.txt",
     "number": 2,
     "question": "Aşağıdakilerden hangisi birincil kaynaklardandır?",
@@ -7606,7 +8860,7 @@
     "explanation": ""
   },
   {
-    "id": 286,
+    "id": 324,
     "source": "baycikmis3.txt",
     "number": 3,
     "question": "İki grubun ortalamalarını karşılaştırarak aradaki farkın rastlantısal mı yoksa istatistiksel mi anlamlı olduğuna karar veren yöntem aşağıdakilerden hangisidir?",
@@ -7639,7 +8893,7 @@
     "explanation": ""
   },
   {
-    "id": 287,
+    "id": 325,
     "source": "baycikmis3.txt",
     "number": 4,
     "question": "Form–24 hangi konu ile ilgilidir?",
@@ -7672,7 +8926,7 @@
     "explanation": ""
   },
   {
-    "id": 288,
+    "id": 326,
     "source": "baycikmis3.txt",
     "number": 5,
     "question": "Yüksek Lisans ve Doktora tezlerinde Özgeçmiş sayfasına eklenmesi zorunlu olan hangisidir?",
@@ -7705,7 +8959,7 @@
     "explanation": ""
   },
   {
-    "id": 289,
+    "id": 327,
     "source": "baycikmis3.txt",
     "number": 6,
     "question": "Yeterlik sınavını başarmış bir doktora öğrencisi, Tez İzleme Komitesi üyeleri ile ilgili dilekçeyi ne zaman enstitüye göndermelidir?",
@@ -7738,7 +8992,7 @@
     "explanation": ""
   },
   {
-    "id": 290,
+    "id": 328,
     "source": "baycikmis3.txt",
     "number": 7,
     "question": "Aşağıdakilerden hangisi araştırmada açık uçlu sorular ve konuşma teknikleriyle veri toplayan yöntemdir?",
@@ -7771,7 +9025,7 @@
     "explanation": ""
   },
   {
-    "id": 291,
+    "id": 329,
     "source": "baycikmis3.txt",
     "number": 8,
     "question": "Bir öğrencinin notları: Vize1=65, Vize2=55, Final=70 Geçme notu: Vizeler %20, Final %60 Başarı notu kaçtır?",
@@ -7804,7 +9058,7 @@
     "explanation": ""
   },
   {
-    "id": 292,
+    "id": 330,
     "source": "baycikmis3.txt",
     "number": 9,
     "question": "Doktora tez savunma sınavı tarihi almak için aşağıdaki formlardan hangisi zorunlu değildir?",
@@ -7837,7 +9091,7 @@
     "explanation": ""
   },
   {
-    "id": 293,
+    "id": 331,
     "source": "baycikmis3.txt",
     "number": 10,
     "question": "Standart sapma ile ilgili verilen bilgilerden hangisi yanlıştır?",
@@ -7870,7 +9124,7 @@
     "explanation": ""
   },
   {
-    "id": 294,
+    "id": 332,
     "source": "baycikmis3.txt",
     "number": 11,
     "question": "Aşağıdaki birimlerden hangisi TÜBİTAK’a bağlı değildir?",
@@ -7903,7 +9157,7 @@
     "explanation": ""
   },
   {
-    "id": 295,
+    "id": 333,
     "source": "baycikmis3.txt",
     "number": 12,
     "question": "Tezli yüksek lisans programı mezuniyet şartı?",
@@ -7936,7 +9190,7 @@
     "explanation": ""
   },
   {
-    "id": 296,
+    "id": 334,
     "source": "baycikmis3.txt",
     "number": 13,
     "question": "Benzin fiyatlarının yıllık çarpanlarının ortalamasını bulma yöntemi?",
@@ -7969,7 +9223,7 @@
     "explanation": ""
   },
   {
-    "id": 297,
+    "id": 335,
     "source": "baycikmis3.txt",
     "number": 14,
     "question": "Bir ölçeğin orta noktası nedir?",
@@ -8002,7 +9256,7 @@
     "explanation": ""
   },
   {
-    "id": 298,
+    "id": 336,
     "source": "baycikmis3.txt",
     "number": 15,
     "question": "Literatür taramasında zorunlu olmayan hangisidir?",
@@ -8035,7 +9289,7 @@
     "explanation": ""
   },
   {
-    "id": 299,
+    "id": 337,
     "source": "baycikmis3.txt",
     "number": 16,
     "question": "Kaynak ve belgeleri inceleyerek veri toplamak hangi yöntemdir?",
@@ -8068,7 +9322,7 @@
     "explanation": ""
   },
   {
-    "id": 300,
+    "id": 338,
     "source": "baycikmis3.txt",
     "number": 17,
     "question": "Aşağıdakilerden hangisi bilimsel yöntemi en iyi özetler?",
@@ -8101,7 +9355,7 @@
     "explanation": ""
   },
   {
-    "id": 301,
+    "id": 339,
     "source": "baycikmis3.txt",
     "number": 18,
     "question": "Bir derginin impact factor’u neye göre belirlenir?",
@@ -8134,7 +9388,7 @@
     "explanation": ""
   },
   {
-    "id": 302,
+    "id": 340,
     "source": "baycikmis3.txt",
     "number": 19,
     "question": "Verilerde değişiklik yapmak/sonuçları değiştirmek hangi etik ihlaldir?",
@@ -8167,7 +9421,7 @@
     "explanation": ""
   },
   {
-    "id": 303,
+    "id": 341,
     "source": "baycikmis3.txt",
     "number": 20,
     "question": "Bilimin temel niteliklerinden en uzak olan hangisidir?",
@@ -8200,7 +9454,7 @@
     "explanation": ""
   },
   {
-    "id": 304,
+    "id": 342,
     "source": "baycikmis3.txt",
     "number": 21,
     "question": "Normal dağılımda Mod = Medyan = Ortalama ise dağılım nasıldır?",
@@ -8233,7 +9487,7 @@
     "explanation": ""
   },
   {
-    "id": 305,
+    "id": 343,
     "source": "baycikmis3.txt",
     "number": 22,
     "question": "Araştırma evrenini temsil eden küçük model oluşturma yöntemi nedir?",
@@ -8266,7 +9520,7 @@
     "explanation": ""
   },
   {
-    "id": 306,
+    "id": 344,
     "source": "baycikmis3.txt",
     "number": 23,
     "question": "Araştırma verilerinin işlenmesiyle ulaşılan bilimsel sonuçlara ne denir?",
@@ -8299,7 +9553,7 @@
     "explanation": ""
   },
   {
-    "id": 307,
+    "id": 345,
     "source": "baycikmis3.txt",
     "number": 24,
     "question": "Aşağıdakilerden hangisi nicel araştırmanın özelliğidir?",
@@ -8332,7 +9586,7 @@
     "explanation": ""
   },
   {
-    "id": 308,
+    "id": 346,
     "source": "baycikmis3.txt",
     "number": 25,
     "question": "Bir veri grubunda ölçümlerin toplamının ölçüm sayısına bölümü nedir?",
@@ -8365,7 +9619,7 @@
     "explanation": ""
   },
   {
-    "id": 309,
+    "id": 347,
     "source": "baycikmis3.txt",
     "number": 26,
     "question": "Aşağıdakilerden hangisi bağımlı değişkendir?",
@@ -8398,7 +9652,7 @@
     "explanation": ""
   },
   {
-    "id": 310,
+    "id": 348,
     "source": "baycikmis3.txt",
     "number": 27,
     "question": "Aşağıdakilerden hangisi parametre değildir?",
@@ -8431,7 +9685,7 @@
     "explanation": ""
   },
   {
-    "id": 311,
+    "id": 349,
     "source": "baycikmis3.txt",
     "number": 28,
     "question": "Aşağıdakilerden hangisi ölçek türlerinden biridir?",
@@ -8464,7 +9718,7 @@
     "explanation": ""
   },
   {
-    "id": 312,
+    "id": 350,
     "source": "baycikmis3.txt",
     "number": 29,
     "question": "Aşağıdaki veri türlerinden hangisi süreksiz değişkendir?",
@@ -8497,7 +9751,7 @@
     "explanation": ""
   },
   {
-    "id": 313,
+    "id": 351,
     "source": "baycikmis3.txt",
     "number": 30,
     "question": "Elde edilen veri önce hangi aşamaya tabi tutulur?",
@@ -8530,7 +9784,7 @@
     "explanation": ""
   },
   {
-    "id": 314,
+    "id": 352,
     "source": "baycikmis3.txt",
     "number": 31,
     "question": "N<10 veri ile yapılacak testler hangi gruba girer?",
@@ -8563,7 +9817,7 @@
     "explanation": ""
   },
   {
-    "id": 315,
+    "id": 353,
     "source": "baycikmis3.txt",
     "number": 32,
     "question": "Bir araştırmada yapılan aşırma (intihal) hangi etik kategoridedir?",
@@ -8596,7 +9850,7 @@
     "explanation": ""
   },
   {
-    "id": 316,
+    "id": 354,
     "source": "baycikmis3.txt",
     "number": 33,
     "question": "“Kasıtlı olarak veri değiştirme” hangi etik ihlaldir?",
@@ -8629,7 +9883,7 @@
     "explanation": ""
   },
   {
-    "id": 317,
+    "id": 355,
     "source": "baycikmis3.txt",
     "number": 34,
     "question": "Bilimsel araştırmada hangi nitelik amaç değildir?",
@@ -8662,7 +9916,7 @@
     "explanation": ""
   },
   {
-    "id": 318,
+    "id": 356,
     "source": "baycikmis3.txt",
     "number": 35,
     "question": "Araştırma sonunda ortaya çıkan bilimsel çıktılar hangi bölümde yer alır?",
@@ -8695,7 +9949,7 @@
     "explanation": ""
   },
   {
-    "id": 319,
+    "id": 357,
     "source": "baycikmis3.txt",
     "number": 36,
     "question": "Aşağıdaki kaynaklardan hangisi bilimsel araştırmada birincil kaynak değildir?",
@@ -8728,7 +9982,7 @@
     "explanation": ""
   },
   {
-    "id": 320,
+    "id": 358,
     "source": "baycikmis3.txt",
     "number": 37,
     "question": "Literatür taramasında yanıt aranan sorulardan biri değildir:",
@@ -8761,7 +10015,7 @@
     "explanation": ""
   },
   {
-    "id": 321,
+    "id": 359,
     "source": "baycikmis3.txt",
     "number": 38,
     "question": "Tezlerde Turnitin benzerlik oranı kaç olmalıdır?",
@@ -8794,7 +10048,7 @@
     "explanation": ""
   },
   {
-    "id": 322,
+    "id": 360,
     "source": "baycikmis3.txt",
     "number": 39,
     "question": "Bir araştırmanın amacına göre türlerinden biri değildir?",
@@ -8827,7 +10081,7 @@
     "explanation": ""
   },
   {
-    "id": 323,
+    "id": 361,
     "source": "baycikmis3.txt",
     "number": 40,
     "question": "Bir araştırmada en sık tekrar eden değer hangi ölçüyü verir?",
@@ -8860,7 +10114,7 @@
     "explanation": ""
   },
   {
-    "id": 324,
+    "id": 362,
     "source": "baycikmis3.txt",
     "number": 41,
     "question": "Aşağıdakilerden hangisi nitel araştırmanın özelliklerinden değildir?",
@@ -8893,7 +10147,7 @@
     "explanation": ""
   },
   {
-    "id": 325,
+    "id": 363,
     "source": "baycikmis3.txt",
     "number": 42,
     "question": "Araştırmanın geçerlik düzeyi neyi ifade eder?",
@@ -8926,7 +10180,7 @@
     "explanation": ""
   },
   {
-    "id": 326,
+    "id": 364,
     "source": "baycikmis3.txt",
     "number": 43,
     "question": "Aşağıdakilerden hangisi parametrik test değildir?",
@@ -8959,7 +10213,7 @@
     "explanation": ""
   },
   {
-    "id": 327,
+    "id": 365,
     "source": "baycikmis3.txt",
     "number": 44,
     "question": "Aşağıdakilerden hangisi araştırmada kullanılan bir veri toplama aracıdır?",
@@ -8992,7 +10246,7 @@
     "explanation": ""
   },
   {
-    "id": 328,
+    "id": 366,
     "source": "baycikmis3.txt",
     "number": 45,
     "question": "Ki-kare testi hangi veri türleri üzerinde çalışır?",
@@ -9025,7 +10279,7 @@
     "explanation": ""
   },
   {
-    "id": 329,
+    "id": 367,
     "source": "baycikmis3.txt",
     "number": 46,
     "question": "Aşağıdakilerden hangisi araştırma yöntemlerinden biri değildir?",
@@ -9058,7 +10312,7 @@
     "explanation": ""
   },
   {
-    "id": 330,
+    "id": 368,
     "source": "baycikmis3.txt",
     "number": 47,
     "question": "Bir ölçme aracının farklı uygulamacılara rağmen aynı sonucu vermesi hangi özelliktir?",
@@ -9091,7 +10345,7 @@
     "explanation": ""
   },
   {
-    "id": 331,
+    "id": 369,
     "source": "baycikmis3.txt",
     "number": 48,
     "question": "Aşağıdaki kavramlardan hangisi ölçme sürecinin bir parçası değildir?",
@@ -9124,7 +10378,7 @@
     "explanation": ""
   },
   {
-    "id": 332,
+    "id": 370,
     "source": "baycikmis3.txt",
     "number": 49,
     "question": "Bir veri grubunda varyans neyi ifade eder?",
@@ -9157,7 +10411,7 @@
     "explanation": ""
   },
   {
-    "id": 333,
+    "id": 371,
     "source": "baycikmis3.txt",
     "number": 50,
     "question": "Aşağıdakilerden hangisi araştırma raporunun tartışma bölümünde yer alır?",
@@ -9190,7 +10444,7 @@
     "explanation": ""
   },
   {
-    "id": 334,
+    "id": 372,
     "source": "baycikmis3.txt",
     "number": 51,
     "question": "Aşağıdakilerden hangisi non-parametrik testtir?",
@@ -9227,7 +10481,7 @@
     "explanation": ""
   },
   {
-    "id": 335,
+    "id": 373,
     "source": "baycikmis3.txt",
     "number": 52,
     "question": "Aşağıdakilerden hangisi bağımlı değişkendir?",
@@ -9260,7 +10514,7 @@
     "explanation": ""
   },
   {
-    "id": 336,
+    "id": 374,
     "source": "baycikmis3.txt",
     "number": 53,
     "question": "Bir değişkenin yalnızca sınıf isimleriyle gösterildiği ölçek türü hangisidir?",
@@ -9293,7 +10547,7 @@
     "explanation": ""
   },
   {
-    "id": 337,
+    "id": 375,
     "source": "baycikmis3.txt",
     "number": 54,
     "question": "Aşağıdaki seçeneklerden hangisi araştırma raporunda zorunlu olmayan bölümlerden biridir?",
@@ -9326,7 +10580,7 @@
     "explanation": ""
   },
   {
-    "id": 338,
+    "id": 376,
     "source": "baycikmis3.txt",
     "number": 55,
     "question": "Korelasyon katsayısı r=0.80 için ilişki nasıldır?",
@@ -9359,7 +10613,7 @@
     "explanation": ""
   },
   {
-    "id": 339,
+    "id": 377,
     "source": "baycikmis3.txt",
     "number": 56,
     "question": "Aşağıdakilerden hangisi nitel veri toplama tekniğidir?",
@@ -9392,7 +10646,7 @@
     "explanation": ""
   },
   {
-    "id": 340,
+    "id": 378,
     "source": "baycikmis3.txt",
     "number": 57,
     "question": "Nicel araştırmada örneklem genişliği arttıkça aşağıdakilerden hangisi artar?",
@@ -9425,7 +10679,7 @@
     "explanation": ""
   },
   {
-    "id": 341,
+    "id": 379,
     "source": "baycikmis3.txt",
     "number": 58,
     "question": "Aşağıdakilerden hangisi araştırma sürecinde yapılan etik ihlallerden değildir?",
@@ -9458,7 +10712,7 @@
     "explanation": ""
   },
   {
-    "id": 342,
+    "id": 380,
     "source": "baycikmis3.txt",
     "number": 59,
     "question": "Aşağıdakilerden hangisi bir araştırmada “evren” kavramını ifade eder?",
@@ -9491,7 +10745,7 @@
     "explanation": ""
   },
   {
-    "id": 343,
+    "id": 381,
     "source": "baycikmis3.txt",
     "number": 60,
     "question": "Veri analizinde en hızlı ve temel başlama adımı hangisidir?",
@@ -9524,7 +10778,7 @@
     "explanation": ""
   },
   {
-    "id": 344,
+    "id": 382,
     "source": "baycikmis3.txt",
     "number": 61,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmaların temel niteliklerinden değildir?",
@@ -9557,7 +10811,7 @@
     "explanation": ""
   },
   {
-    "id": 345,
+    "id": 383,
     "source": "baycikmis3.txt",
     "number": 62,
     "question": "Nitel araştırmada araştırmacı rolü nasıldır?",
@@ -9590,7 +10844,7 @@
     "explanation": ""
   },
   {
-    "id": 346,
+    "id": 384,
     "source": "baycikmis3.txt",
     "number": 63,
     "question": "Doğruluk derecesi yüksek, hata payı düşük ölçekler için kullanılan kavram hangisidir?",
@@ -9623,7 +10877,7 @@
     "explanation": ""
   },
   {
-    "id": 347,
+    "id": 385,
     "source": "baycikmis3.txt",
     "number": 64,
     "question": "Aşağıdakilerden hangisi nominal ölçek örneğidir?",
@@ -9656,7 +10910,7 @@
     "explanation": ""
   },
   {
-    "id": 348,
+    "id": 386,
     "source": "baycikmis3.txt",
     "number": 65,
     "question": "Aşağıdakilerden hangisi araştırmanın amacını karşılamaz?",
@@ -9689,7 +10943,7 @@
     "explanation": ""
   },
   {
-    "id": 349,
+    "id": 387,
     "source": "baycikmis3.txt",
     "number": 66,
     "question": "Aşağıdaki nicel veri toplama araçlarından hangisi doğru değildir?",
@@ -9722,7 +10976,7 @@
     "explanation": "(Mülakat nitel tekniktir.)"
   },
   {
-    "id": 350,
+    "id": 388,
     "source": "baycikmis3.txt",
     "number": 67,
     "question": "Evren parametresi olmayan seçenek hangisidir?",
@@ -9755,7 +11009,7 @@
     "explanation": ""
   },
   {
-    "id": 351,
+    "id": 389,
     "source": "baycikmis3.txt",
     "number": 68,
     "question": "Bir veri grubundaki orta değer hangi ölçüdür?",
@@ -9788,7 +11042,7 @@
     "explanation": ""
   },
   {
-    "id": 352,
+    "id": 390,
     "source": "baycikmis3.txt",
     "number": 69,
     "question": "Bir veri setinde standart sapma neyi gösterir?",
@@ -9821,7 +11075,7 @@
     "explanation": ""
   },
   {
-    "id": 353,
+    "id": 391,
     "source": "baycikmis3.txt",
     "number": 70,
     "question": "Aşağıdakilerden hangisi araştırma yöntemlerinden değildir?",
@@ -9854,7 +11108,7 @@
     "explanation": ""
   },
   {
-    "id": 354,
+    "id": 392,
     "source": "baycikmis3.txt",
     "number": 71,
     "question": "Korelasyon katsayısı r = 0 ise nasıl yorumlanır?",
@@ -9887,7 +11141,7 @@
     "explanation": ""
   },
   {
-    "id": 355,
+    "id": 393,
     "source": "baycikmis3.txt",
     "number": 72,
     "question": "ANOVA testi ne için kullanılır?",
@@ -9920,7 +11174,7 @@
     "explanation": ""
   },
   {
-    "id": 356,
+    "id": 394,
     "source": "baycikmis3.txt",
     "number": 73,
     "question": "Aşağıdakilerden hangisi nitel araştırma veri toplama araçlarından değildir?",
@@ -9953,7 +11207,7 @@
     "explanation": ""
   },
   {
-    "id": 357,
+    "id": 395,
     "source": "baycikmis3.txt",
     "number": 74,
     "question": "Araştırmanın sınırlılıkları hangi bölümde yer alır?",
@@ -9986,7 +11240,7 @@
     "explanation": ""
   },
   {
-    "id": 358,
+    "id": 396,
     "source": "baycikmis3.txt",
     "number": 75,
     "question": "Aşağıdakilerden hangisi veri analizinde kullanılan bir istatistik değildir?",
@@ -10019,7 +11273,7 @@
     "explanation": ""
   },
   {
-    "id": 359,
+    "id": 397,
     "source": "baycikmis3.txt",
     "number": 76,
     "question": "R = –0.40 değeri nasıl yorumlanır?",
@@ -10052,7 +11306,7 @@
     "explanation": ""
   },
   {
-    "id": 360,
+    "id": 398,
     "source": "baycikmis3.txt",
     "number": 77,
     "question": "Parametrik testlerin kullanılabilmesi için hangi koşul sağlanmalıdır?",
@@ -10085,7 +11339,7 @@
     "explanation": ""
   },
   {
-    "id": 361,
+    "id": 399,
     "source": "baycikmis3.txt",
     "number": 78,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmada etik ihlaldir?",
@@ -10118,7 +11372,7 @@
     "explanation": ""
   },
   {
-    "id": 362,
+    "id": 400,
     "source": "baycikmis3.txt",
     "number": 79,
     "question": "Survey araştırması hangi veriyle çalışır?",
@@ -10151,7 +11405,7 @@
     "explanation": ""
   },
   {
-    "id": 363,
+    "id": 401,
     "source": "baycikmis3.txt",
     "number": 80,
     "question": "Standart sapma düşükse dağılım nasıldır?",
@@ -10184,7 +11438,7 @@
     "explanation": ""
   },
   {
-    "id": 364,
+    "id": 402,
     "source": "baycikmis3.txt",
     "number": 81,
     "question": "Bir bilimsel araştırmanın giriş bölümünde aşağıdakilerden hangisi yer almaz?",
@@ -10217,7 +11471,7 @@
     "explanation": ""
   },
   {
-    "id": 365,
+    "id": 403,
     "source": "baycikmis3.txt",
     "number": 82,
     "question": "Aşağıdakilerden hangisi “betimsel araştırma” türüdür?",
@@ -10250,7 +11504,7 @@
     "explanation": ""
   },
   {
-    "id": 366,
+    "id": 404,
     "source": "baycikmis3.txt",
     "number": 83,
     "question": "Nitel araştırmalarda kullanılan analiz yöntemi aşağıdakilerden hangisidir?",
@@ -10283,7 +11537,7 @@
     "explanation": ""
   },
   {
-    "id": 367,
+    "id": 405,
     "source": "baycikmis3.txt",
     "number": 84,
     "question": "Aşağıdaki testlerden hangisi iki bağımsız grubun ortalamasını karşılaştırır?",
@@ -10320,7 +11574,7 @@
     "explanation": ""
   },
   {
-    "id": 368,
+    "id": 406,
     "source": "baycikmis3.txt",
     "number": 85,
     "question": "Aşağıdaki ifadelerden hangisi doğru değildir?",
@@ -10353,7 +11607,7 @@
     "explanation": ""
   },
   {
-    "id": 369,
+    "id": 407,
     "source": "baycikmis3.txt",
     "number": 86,
     "question": "Doğrusal ilişki katsayısı r hangi aralıkta değer alır?",
@@ -10386,7 +11640,7 @@
     "explanation": ""
   },
   {
-    "id": 370,
+    "id": 408,
     "source": "baycikmis3.txt",
     "number": 87,
     "question": "Aşağıdakilerden hangisi araştırmanın amacına göre türlerinden değildir?",
@@ -10419,7 +11673,7 @@
     "explanation": ""
   },
   {
-    "id": 371,
+    "id": 409,
     "source": "baycikmis3.txt",
     "number": 88,
     "question": "Aşağıdaki ölçek türlerinden hangisi en üst düzey ölçek sayılır?",
@@ -10452,7 +11706,7 @@
     "explanation": ""
   },
   {
-    "id": 372,
+    "id": 410,
     "source": "baycikmis3.txt",
     "number": 89,
     "question": "Nicel araştırmalarda en çok kullanılan ölçme aracı nedir?",
@@ -10485,7 +11739,7 @@
     "explanation": ""
   },
   {
-    "id": 373,
+    "id": 411,
     "source": "baycikmis3.txt",
     "number": 90,
     "question": "Nitel araştırmada örneklem nasıl seçilir?",
@@ -10518,7 +11772,7 @@
     "explanation": ""
   },
   {
-    "id": 374,
+    "id": 412,
     "source": "baycikmis3.txt",
     "number": 91,
     "question": "Parametrik testlerden biri aşağıdakilerden hangisidir?",
@@ -10551,7 +11805,7 @@
     "explanation": ""
   },
   {
-    "id": 375,
+    "id": 413,
     "source": "baycikmis3.txt",
     "number": 92,
     "question": "Aşağıdakilerden hangisi nitel araştırma deseni değildir?",
@@ -10584,7 +11838,7 @@
     "explanation": ""
   },
   {
-    "id": 376,
+    "id": 414,
     "source": "baycikmis3.txt",
     "number": 93,
     "question": "Bir çalışmada araştırmacının ön yargılarından arındırılmış olması hangi kavramdır?",
@@ -10617,7 +11871,7 @@
     "explanation": ""
   },
   {
-    "id": 377,
+    "id": 415,
     "source": "baycikmis3.txt",
     "number": 94,
     "question": "Aşağıdakilerden hangisi bilimsel etik ihlallerden biridir?",
@@ -10650,7 +11904,7 @@
     "explanation": ""
   },
   {
-    "id": 378,
+    "id": 416,
     "source": "baycikmis3.txt",
     "number": 95,
     "question": "Verilerin sınıflara ayrılması hangi işlemle yapılır?",
@@ -10683,7 +11937,7 @@
     "explanation": ""
   },
   {
-    "id": 379,
+    "id": 417,
     "source": "baycikmis3.txt",
     "number": 96,
     "question": "Aşağıdakilerden hangisi nitel bir teknik değildir?",
@@ -10716,7 +11970,7 @@
     "explanation": ""
   },
   {
-    "id": 380,
+    "id": 418,
     "source": "baycikmis3.txt",
     "number": 97,
     "question": "Aşağıdaki araştırmalardan hangisi nedensel ilişkiyi ölçer?",
@@ -10749,7 +12003,7 @@
     "explanation": ""
   },
   {
-    "id": 381,
+    "id": 419,
     "source": "baycikmis3.txt",
     "number": 98,
     "question": "“Bir değişkenin diğerini ne kadar açıkladığını” gösteren analiz hangisidir?",
@@ -10782,7 +12036,7 @@
     "explanation": ""
   },
   {
-    "id": 382,
+    "id": 420,
     "source": "baycikmis3.txt",
     "number": 99,
     "question": "Aşağıdaki seçeneklerden hangisi araştırmada kullanılan veri türlerinden değildir?",
@@ -10815,7 +12069,7 @@
     "explanation": ""
   },
   {
-    "id": 383,
+    "id": 421,
     "source": "baycikmis3.txt",
     "number": 100,
     "question": "Aşağıdakilerden hangisi araştırmanın problem cümlesi için uygun değildir?",
@@ -10848,7 +12102,7 @@
     "explanation": ""
   },
   {
-    "id": 384,
+    "id": 422,
     "source": "baycikmis3.txt",
     "number": 101,
     "question": "Aşağıdakilerden hangisi araştırma sürecinin aşamalarından değildir?",
@@ -10881,7 +12135,7 @@
     "explanation": ""
   },
   {
-    "id": 385,
+    "id": 423,
     "source": "baycikmis3.txt",
     "number": 102,
     "question": "Bir araştırmada verilerin analiz edilmesinden elde edilen sonuçlara ne ad verilir?",
@@ -10914,7 +12168,7 @@
     "explanation": ""
   },
   {
-    "id": 386,
+    "id": 424,
     "source": "baycikmis3.txt",
     "number": 103,
     "question": "Aşağıdakilerden hangisi nitel araştırmanın dezavantajlarındandır?",
@@ -10947,7 +12201,7 @@
     "explanation": ""
   },
   {
-    "id": 387,
+    "id": 425,
     "source": "baycikmis3.txt",
     "number": 104,
     "question": "Aşağıdakilerden hangisi aralıklı ölçek örneğidir?",
@@ -10980,7 +12234,7 @@
     "explanation": ""
   },
   {
-    "id": 388,
+    "id": 426,
     "source": "baycikmis3.txt",
     "number": 105,
     "question": "Aşağıdakilerden hangisi araştırmanın varsayım bölümünde yer alabilir?",
@@ -11013,7 +12267,7 @@
     "explanation": ""
   },
   {
-    "id": 389,
+    "id": 427,
     "source": "baycikmis3.txt",
     "number": 106,
     "question": "Bir araştırmada ölçme sonuçlarının tutarlılığı hangi kavramdır?",
@@ -11046,7 +12300,7 @@
     "explanation": ""
   },
   {
-    "id": 390,
+    "id": 428,
     "source": "baycikmis3.txt",
     "number": 107,
     "question": "Aşağıdakilerden hangisi bilimsel tutum ve davranıştır?",
@@ -11079,7 +12333,7 @@
     "explanation": ""
   },
   {
-    "id": 391,
+    "id": 429,
     "source": "baycikmis3.txt",
     "number": 108,
     "question": "Aşağıdakilerden hangisi ölçme hatası türüdür?",
@@ -11112,7 +12366,7 @@
     "explanation": ""
   },
   {
-    "id": 392,
+    "id": 430,
     "source": "baycikmis3.txt",
     "number": 109,
     "question": "Aşağıdakilerden hangisi araştırmada kullanılan non-parametrik bir testtir?",
@@ -11145,7 +12399,7 @@
     "explanation": ""
   },
   {
-    "id": 393,
+    "id": 431,
     "source": "baycikmis3.txt",
     "number": 110,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmaların en temel amacıdır?",
@@ -11178,7 +12432,7 @@
     "explanation": ""
   },
   {
-    "id": 394,
+    "id": 432,
     "source": "baycikmis3.txt",
     "number": 111,
     "question": "Aşağıdakilerden hangisi örnekleme hatası değildir?",
@@ -11211,7 +12465,7 @@
     "explanation": ""
   },
   {
-    "id": 395,
+    "id": 433,
     "source": "baycikmis3.txt",
     "number": 112,
     "question": "Aşağıdaki testlerden hangisi ikiden fazla grubun ortalamasını karşılaştırır?",
@@ -11244,7 +12498,7 @@
     "explanation": ""
   },
   {
-    "id": 396,
+    "id": 434,
     "source": "baycikmis3.txt",
     "number": 113,
     "question": "Aşağıdakilerden hangisi nicel araştırmanın özelliğidir?",
@@ -11277,7 +12531,7 @@
     "explanation": ""
   },
   {
-    "id": 397,
+    "id": 435,
     "source": "baycikmis3.txt",
     "number": 114,
     "question": "Aşağıdakilerden hangisi araştırmada kullanılan veri toplama tekniklerinden değildir?",
@@ -11310,7 +12564,7 @@
     "explanation": ""
   },
   {
-    "id": 398,
+    "id": 436,
     "source": "baycikmis3.txt",
     "number": 115,
     "question": "Korelasyon katsayısı r = –0.95 ise ilişki nasıldır?",
@@ -11343,7 +12597,7 @@
     "explanation": ""
   },
   {
-    "id": 399,
+    "id": 437,
     "source": "baycikmis3.txt",
     "number": 116,
     "question": "Nitel araştırmalarda kullanılan örnekleme yöntemi hangisidir?",
@@ -11376,7 +12630,7 @@
     "explanation": ""
   },
   {
-    "id": 400,
+    "id": 438,
     "source": "baycikmis3.txt",
     "number": 117,
     "question": "Aşağıdakilerden hangisi araştırma raporunda yer almaz?",
@@ -11409,7 +12663,7 @@
     "explanation": ""
   },
   {
-    "id": 401,
+    "id": 439,
     "source": "baycikmis3.txt",
     "number": 118,
     "question": "Standart sapma sıfıra yakınsa dağılım nasıldır?",
@@ -11442,7 +12696,7 @@
     "explanation": ""
   },
   {
-    "id": 402,
+    "id": 440,
     "source": "baycikmis3.txt",
     "number": 119,
     "question": "Aşağıdakilerden hangisi nitel araştırma veri toplama tekniğidir?",
@@ -11475,7 +12729,7 @@
     "explanation": ""
   },
   {
-    "id": 403,
+    "id": 441,
     "source": "baycikmis3.txt",
     "number": 120,
     "question": "Aşağıdakilerden hangisi araştırmanın problem cümlesiyle ilgili değildir?",
@@ -11508,7 +12762,7 @@
     "explanation": ""
   },
   {
-    "id": 404,
+    "id": 442,
     "source": "baycikmis3.txt",
     "number": 121,
     "question": "Aşağıdakilerden hangisi araştırma konusunun seçiminde kullanılan ölçütlerden değildir?",
@@ -11541,7 +12795,7 @@
     "explanation": ""
   },
   {
-    "id": 405,
+    "id": 443,
     "source": "baycikmis3.txt",
     "number": 122,
     "question": "Aşağıdakilerden hangisi temel araştırma özelliğinde değildir?",
@@ -11574,7 +12828,7 @@
     "explanation": ""
   },
   {
-    "id": 406,
+    "id": 444,
     "source": "baycikmis3.txt",
     "number": 123,
     "question": "Aşağıdakilerden hangisi “uygulamalı araştırma”dır?",
@@ -11607,7 +12861,7 @@
     "explanation": ""
   },
   {
-    "id": 407,
+    "id": 445,
     "source": "baycikmis3.txt",
     "number": 124,
     "question": "Aşağıdakilerden hangisi araştırmada kullanılan bir değişken türü değildir?",
@@ -11640,7 +12894,7 @@
     "explanation": ""
   },
   {
-    "id": 408,
+    "id": 446,
     "source": "baycikmis3.txt",
     "number": 125,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmaların gerekliliklerinden değildir?",
@@ -11673,7 +12927,7 @@
     "explanation": ""
   },
   {
-    "id": 409,
+    "id": 447,
     "source": "baycikmis3.txt",
     "number": 126,
     "question": "Aşağıdakilerden hangisi ölçme araçlarının özelliklerinden değildir?",
@@ -11706,7 +12960,7 @@
     "explanation": ""
   },
   {
-    "id": 410,
+    "id": 448,
     "source": "baycikmis3.txt",
     "number": 127,
     "question": "Fen bilimleri enstitüsünde danışman atanması hangi form ile yapılır?",
@@ -11739,7 +12993,7 @@
     "explanation": ""
   },
   {
-    "id": 411,
+    "id": 449,
     "source": "baycikmis3.txt",
     "number": 128,
     "question": "Aşağıdakilerden hangisi tez yazımında zorunlu olmayan bölümlerden biridir?",
@@ -11772,7 +13026,7 @@
     "explanation": ""
   },
   {
-    "id": 412,
+    "id": 450,
     "source": "baycikmis3.txt",
     "number": 129,
     "question": "Aşağıdakilerden hangisi araştırmalarda kullanılan temel istatistiksel ölçülerdendir?",
@@ -11805,7 +13059,7 @@
     "explanation": ""
   },
   {
-    "id": 413,
+    "id": 451,
     "source": "baycikmis3.txt",
     "number": 130,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmalarda kullanılan veri türlerinden değildir?",
@@ -11838,7 +13092,7 @@
     "explanation": ""
   },
   {
-    "id": 414,
+    "id": 452,
     "source": "baycikmis3.txt",
     "number": 131,
     "question": "Aşağıdakilerden hangisi bilimsel yöntem aşamalarından biridir?",
@@ -11871,7 +13125,7 @@
     "explanation": ""
   },
   {
-    "id": 415,
+    "id": 453,
     "source": "baycikmis3.txt",
     "number": 132,
     "question": "Aşağıdakilerden hangisi örneklem seçme yöntemlerinden değildir?",
@@ -11904,7 +13158,7 @@
     "explanation": ""
   },
   {
-    "id": 416,
+    "id": 454,
     "source": "baycikmis3.txt",
     "number": 133,
     "question": "Aşağıdakilerden hangisi araştırmada kullanılan “ölçme düzeyi” değildir?",
@@ -11937,7 +13191,7 @@
     "explanation": ""
   },
   {
-    "id": 417,
+    "id": 455,
     "source": "baycikmis3.txt",
     "number": 134,
     "question": "Aşağıdakilerden hangisi Sayısal veri türüdür?",
@@ -11970,7 +13224,7 @@
     "explanation": ""
   },
   {
-    "id": 418,
+    "id": 456,
     "source": "baycikmis3.txt",
     "number": 135,
     "question": "Aşağıdakilerden hangisi bilimsel etik ihlaldir?",
@@ -12003,7 +13257,7 @@
     "explanation": ""
   },
   {
-    "id": 419,
+    "id": 457,
     "source": "baycikmis3.txt",
     "number": 136,
     "question": "Aşağıdakilerden hangisi araştırmanın yöntem bölümünde bulunmaz?",
@@ -12036,7 +13290,7 @@
     "explanation": ""
   },
   {
-    "id": 420,
+    "id": 458,
     "source": "baycikmis3.txt",
     "number": 137,
     "question": "ANOVA testi hangi koşullarda tercih edilir?",
@@ -12069,7 +13323,7 @@
     "explanation": ""
   },
   {
-    "id": 421,
+    "id": 459,
     "source": "baycikmis3.txt",
     "number": 138,
     "question": "Aşağıdakilerden hangisi içerik analiziyle elde edilen bir sonuç değildir?",
@@ -12102,7 +13356,7 @@
     "explanation": ""
   },
   {
-    "id": 422,
+    "id": 460,
     "source": "baycikmis3.txt",
     "number": 139,
     "question": "Bir araştırmada bağımsız değişken neyi ifade eder?",
@@ -12135,7 +13389,7 @@
     "explanation": ""
   },
   {
-    "id": 423,
+    "id": 461,
     "source": "baycikmis3.txt",
     "number": 140,
     "question": "Aşağıdakilerden hangisi deneysel desen özelliğidir?",
@@ -12168,7 +13422,7 @@
     "explanation": ""
   },
   {
-    "id": 424,
+    "id": 462,
     "source": "baycikmis3.txt",
     "number": 141,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmada kullanılan veri toplama tekniklerinden değildir?",
@@ -12201,7 +13455,7 @@
     "explanation": ""
   },
   {
-    "id": 425,
+    "id": 463,
     "source": "baycikmis3.txt",
     "number": 142,
     "question": "Aşağıdakilerden hangisi bilimsel araştırma sürecinde yer alan aşamalardan biri değildir?",
@@ -12234,7 +13488,7 @@
     "explanation": ""
   },
   {
-    "id": 426,
+    "id": 464,
     "source": "baycikmis3.txt",
     "number": 143,
     "question": "Aşağıdakilerden hangisi nicel veri grubudur?",
@@ -12267,7 +13521,7 @@
     "explanation": ""
   },
   {
-    "id": 427,
+    "id": 465,
     "source": "baycikmis3.txt",
     "number": 144,
     "question": "Bir araştırmada hipotezin test edildiği bölüm hangisidir?",
@@ -12300,7 +13554,7 @@
     "explanation": ""
   },
   {
-    "id": 428,
+    "id": 466,
     "source": "baycikmis3.txt",
     "number": 145,
     "question": "Aşağıdakilerden hangisi bir ölçeğin geçerli olduğunu gösterir?",
@@ -12333,7 +13587,7 @@
     "explanation": ""
   },
   {
-    "id": 429,
+    "id": 467,
     "source": "baycikmis3.txt",
     "number": 146,
     "question": "Aşağıdakilerden hangisi aralıklı ölçek değildir?",
@@ -12366,7 +13620,7 @@
     "explanation": ""
   },
   {
-    "id": 430,
+    "id": 468,
     "source": "baycikmis3.txt",
     "number": 147,
     "question": "Bir veri grubunda en çok tekrar eden değer hangi ölçüdür?",
@@ -12399,7 +13653,7 @@
     "explanation": ""
   },
   {
-    "id": 431,
+    "id": 469,
     "source": "baycikmis3.txt",
     "number": 148,
     "question": "Non-parametrik testlerde kullanılan veri türü hangisidir?",
@@ -12432,7 +13686,7 @@
     "explanation": ""
   },
   {
-    "id": 432,
+    "id": 470,
     "source": "baycikmis3.txt",
     "number": 149,
     "question": "Bilimsel araştırmada güvenilir bir kaynağın özelliği değildir?",
@@ -12465,7 +13719,7 @@
     "explanation": ""
   },
   {
-    "id": 433,
+    "id": 471,
     "source": "baycikmis3.txt",
     "number": 150,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmalarda karşılaşılan etik dışı davranışlardandır?",
@@ -12498,7 +13752,7 @@
     "explanation": ""
   },
   {
-    "id": 434,
+    "id": 472,
     "source": "baycikmis3.txt",
     "number": 151,
     "question": "Aşağıdakilerden hangisi araştırmanın yöntem bölümünde bulunmaz?",
@@ -12531,7 +13785,7 @@
     "explanation": ""
   },
   {
-    "id": 435,
+    "id": 473,
     "source": "baycikmis3.txt",
     "number": 152,
     "question": "Bir araştırmada genellenebilirlik hangi kavramla daha çok ilişkilidir?",
@@ -12564,7 +13818,7 @@
     "explanation": ""
   },
   {
-    "id": 436,
+    "id": 474,
     "source": "baycikmis3.txt",
     "number": 153,
     "question": "Aşağıdakilerden hangisi veri analizinde kullanılan temel ölçülerden değildir?",
@@ -12597,7 +13851,7 @@
     "explanation": ""
   },
   {
-    "id": 437,
+    "id": 475,
     "source": "baycikmis3.txt",
     "number": 154,
     "question": "Aşağıdakilerden hangisi nitel araştırma yaklaşımının özelliklerinden değildir?",
@@ -12630,7 +13884,7 @@
     "explanation": ""
   },
   {
-    "id": 438,
+    "id": 476,
     "source": "baycikmis3.txt",
     "number": 155,
     "question": "Aşağıdakilerden hangisi bağımsız değişkendir?",
@@ -12663,7 +13917,7 @@
     "explanation": ""
   },
   {
-    "id": 439,
+    "id": 477,
     "source": "baycikmis3.txt",
     "number": 156,
     "question": "Aşağıdaki testlerden hangisi ilişkili (paired) iki ölçüm için kullanılır?",
@@ -12700,7 +13954,7 @@
     "explanation": ""
   },
   {
-    "id": 440,
+    "id": 478,
     "source": "baycikmis3.txt",
     "number": 157,
     "question": "Bir veri grubunda değişim aralığı (range) nasıl bulunur?",
@@ -12733,7 +13987,7 @@
     "explanation": ""
   },
   {
-    "id": 441,
+    "id": 479,
     "source": "baycikmis3.txt",
     "number": 158,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmanın sınırlılıklarından biri olabilir?",
@@ -12766,7 +14020,7 @@
     "explanation": ""
   },
   {
-    "id": 442,
+    "id": 480,
     "source": "baycikmis3.txt",
     "number": 159,
     "question": "Korelasyon katsayısı r = 0.20 ise ilişki nasıldır?",
@@ -12799,7 +14053,7 @@
     "explanation": ""
   },
   {
-    "id": 443,
+    "id": 481,
     "source": "baycikmis3.txt",
     "number": 160,
     "question": "Araştırmada nitel analiz sonuçlarının raporlandığı temel birim hangisidir?",
@@ -12832,7 +14086,7 @@
     "explanation": ""
   },
   {
-    "id": 444,
+    "id": 482,
     "source": "baycikmis3.txt",
     "number": 161,
     "question": "Aşağıdakilerden hangisi nitel araştırma desenlerinden biridir?",
@@ -12865,7 +14119,7 @@
     "explanation": ""
   },
   {
-    "id": 445,
+    "id": 483,
     "source": "baycikmis3.txt",
     "number": 162,
     "question": "Aşağıdakilerden hangisi araştırmalarda kullanılan temel kavramlardan biri değildir?",
@@ -12898,7 +14152,7 @@
     "explanation": ""
   },
   {
-    "id": 446,
+    "id": 484,
     "source": "baycikmis3.txt",
     "number": 163,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmanın temel özelliklerinden biri değildir?",
@@ -12931,7 +14185,7 @@
     "explanation": ""
   },
   {
-    "id": 447,
+    "id": 485,
     "source": "baycikmis3.txt",
     "number": 164,
     "question": "Aşağıdakilerden hangisi araştırmada kullanılan birincil kaynaklardan değildir?",
@@ -12964,7 +14218,7 @@
     "explanation": ""
   },
   {
-    "id": 448,
+    "id": 486,
     "source": "baycikmis3.txt",
     "number": 165,
     "question": "Aşağıdaki testlerden hangisi kategorik (nominal) veriler için uygundur?",
@@ -12997,7 +14251,7 @@
     "explanation": ""
   },
   {
-    "id": 449,
+    "id": 487,
     "source": "baycikmis3.txt",
     "number": 166,
     "question": "Aşağıdaki kavramlardan hangisi ölçme sonuçlarının doğruluğunu ifade eder?",
@@ -13030,7 +14284,7 @@
     "explanation": ""
   },
   {
-    "id": 450,
+    "id": 488,
     "source": "baycikmis3.txt",
     "number": 167,
     "question": "Standart sapma ne kadar küçükse dağılım nasıldır?",
@@ -13063,7 +14317,7 @@
     "explanation": ""
   },
   {
-    "id": 451,
+    "id": 489,
     "source": "baycikmis3.txt",
     "number": 168,
     "question": "Aşağıdakilerden hangisi hipotezin özelliği değildir?",
@@ -13096,7 +14350,7 @@
     "explanation": ""
   },
   {
-    "id": 452,
+    "id": 490,
     "source": "baycikmis3.txt",
     "number": 169,
     "question": "Aşağıdaki veri türlerinden hangisi süreklidir?",
@@ -13129,7 +14383,7 @@
     "explanation": ""
   },
   {
-    "id": 453,
+    "id": 491,
     "source": "baycikmis3.txt",
     "number": 170,
     "question": "Araştırma sürecinde “problem cümlesi” hangi bölümde bulunur?",
@@ -13162,7 +14416,7 @@
     "explanation": ""
   },
   {
-    "id": 454,
+    "id": 492,
     "source": "baycikmis3.txt",
     "number": 171,
     "question": "Aşağıdaki örnekleme yöntemlerinden hangisi olasılıksız örnekleme değildir?",
@@ -13195,7 +14449,7 @@
     "explanation": ""
   },
   {
-    "id": 455,
+    "id": 493,
     "source": "baycikmis3.txt",
     "number": 172,
     "question": "Aşağıdakilerden hangisi betimsel istatistik değildir?",
@@ -13228,7 +14482,7 @@
     "explanation": ""
   },
   {
-    "id": 456,
+    "id": 494,
     "source": "baycikmis3.txt",
     "number": 173,
     "question": "Verilerin ham haliyle düzenlenmesi hangi işlemle yapılır?",
@@ -13261,7 +14515,7 @@
     "explanation": ""
   },
   {
-    "id": 457,
+    "id": 495,
     "source": "baycikmis3.txt",
     "number": 174,
     "question": "Aşağıdakilerden hangisi araştırmanın yöntem bölümünde bulunmaz?",
@@ -13294,7 +14548,7 @@
     "explanation": ""
   },
   {
-    "id": 458,
+    "id": 496,
     "source": "baycikmis3.txt",
     "number": 175,
     "question": "Aşağıdakilerden hangisi bilimsel araştırmanın amaçlarından biri değildir?",
@@ -13327,7 +14581,7 @@
     "explanation": ""
   },
   {
-    "id": 459,
+    "id": 497,
     "source": "baycikmis3.txt",
     "number": 176,
     "question": "Bir veri setinde en hızlı kullanılan merkezî eğilim ölçüsü hangisidir?",
@@ -13356,6 +14610,1227 @@
     "answer": {
       "label": "C",
       "text": "Ortalama"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 498,
+    "source": "Baycikmis4.txt",
+    "number": 1,
+    "question": "Bilim, yüzyıllar süren birikimle elde edilmiş, sürekli değişimi esas alan, kendisini sorgulayan, yenilenmeyi önemseyen bir süreçtir. Çağdaş bilim dört önemli niteliği oluşturur. Bunlar aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çeşitlilik, Süreklilik, Yenilik, Ayıklama"
+      },
+      {
+        "label": "B",
+        "text": "Çevresel uyum, Süreklilik, Yenilik, Destekleme"
+      },
+      {
+        "label": "C",
+        "text": "Ar-Ge, Süreklilik, Yenilik, İnovasyon"
+      },
+      {
+        "label": "D",
+        "text": "Nesnellik, Destekleme, Açıklama, Teknoloji"
+      },
+      {
+        "label": "E",
+        "text": "Çağdaşlık, Süreklilik, Güncelleme, Teknolojik"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Çeşitlilik, Süreklilik, Yenilik, Ayıklama"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 499,
+    "source": "Baycikmis4.txt",
+    "number": 2,
+    "question": "Aşağıdakilerden hangisi birincil kaynaklardandır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ansiklopediler"
+      },
+      {
+        "label": "B",
+        "text": "El Kitapları"
+      },
+      {
+        "label": "C",
+        "text": "Tezler"
+      },
+      {
+        "label": "D",
+        "text": "Kütüphane Katalogları"
+      },
+      {
+        "label": "E",
+        "text": "Güncel Duyuru Kaynakları"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Tezler"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 500,
+    "source": "Baycikmis4.txt",
+    "number": 3,
+    "question": "İki grubun ortalamalarını karşılaştırarak, aradaki farkın rastlantısal mı, yoksa anlamlı bir farklılık mı olduğunu karar veren yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Korelasyon Testi"
+      },
+      {
+        "label": "B",
+        "text": "T-Testi"
+      },
+      {
+        "label": "C",
+        "text": "K-Kare Testi"
+      },
+      {
+        "label": "D",
+        "text": "Kruskal Wallis Testi"
+      },
+      {
+        "label": "E",
+        "text": "Regresyon Testi"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "T-Testi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 501,
+    "source": "Baycikmis4.txt",
+    "number": 4,
+    "question": "Form-24, hangi konu ile ilgilidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Seminer Değerlendirme Tutanağı"
+      },
+      {
+        "label": "B",
+        "text": "Kayıt Dondurma"
+      },
+      {
+        "label": "C",
+        "text": "Yüksek Lisans Tez Konusu Önerisi"
+      },
+      {
+        "label": "D",
+        "text": "Yeterlik Sınavı"
+      },
+      {
+        "label": "E",
+        "text": "Danışman Değişikliği ve Atanması"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Seminer Değerlendirme Tutanağı"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 502,
+    "source": "Baycikmis4.txt",
+    "number": 5,
+    "question": "Yüksek Lisans ve Doktora tezlerinde aşağıdakilerden hangisinin özgeçmiş sayfasında eklenmesi zorunludur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çalışmalar"
+      },
+      {
+        "label": "B",
+        "text": "RG Skoru"
+      },
+      {
+        "label": "C",
+        "text": "Yeterlik Sınavı"
+      },
+      {
+        "label": "D",
+        "text": "Yayımlanmış Çalışmalar"
+      },
+      {
+        "label": "E",
+        "text": "ORCID No"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "ORCID No"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 503,
+    "source": "Baycikmis4.txt",
+    "number": 6,
+    "question": "Yeterlik sınavında başarısız olan bir doktora öğrencisi Tez İzleme Komitesi Üyeleri ile ilgili dilekçeyi ne zaman Anabilim Dalı Kurulu kararı ekinde enstitüye göndermelidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yeterlik sınavından sonra 3 gün içerisinde"
+      },
+      {
+        "label": "B",
+        "text": "Yeterlik sınavından sonra 15 gün içerisinde"
+      },
+      {
+        "label": "C",
+        "text": "Yeterlik sınavından sonra 1 ay içerisinde"
+      },
+      {
+        "label": "D",
+        "text": "Yeterlik sınavından sonra 3 ay içerisinde"
+      },
+      {
+        "label": "E",
+        "text": "Yeterlik sınavından sonra en geç 6 ay"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Yeterlik sınavından sonra 1 ay içerisinde"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 504,
+    "source": "Baycikmis4.txt",
+    "number": 7,
+    "question": "Aşağıdakilerden hangisi araştırmaya katılan katılımcılara açık uçlu sorular sorarak ve konuşma yöntemlerini kullanarak veri toplayan bir araştırma türüdür?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tarihsel Araştırma"
+      },
+      {
+        "label": "B",
+        "text": "Deneysel Araştırma"
+      },
+      {
+        "label": "C",
+        "text": "Nicel Araştırma"
+      },
+      {
+        "label": "D",
+        "text": "Nitel Araştırma"
+      },
+      {
+        "label": "E",
+        "text": "Betimsel Araştırma"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Nitel Araştırma"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 505,
+    "source": "Baycikmis4.txt",
+    "number": 8,
+    "question": "Bir öğrencinin istatistik dersinden I. ara sınav notu 65, II. ara sınav notu 75 ve final notu ise 70'dir. Dersin geçme notu için vizelerin % 30'u, finalin ise % 40'ı alınmaktadır. Buna göre bu öğrencinin başarı notu kaçtır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "65"
+      },
+      {
+        "label": "B",
+        "text": "66"
+      },
+      {
+        "label": "C",
+        "text": "67"
+      },
+      {
+        "label": "D",
+        "text": "68"
+      },
+      {
+        "label": "E",
+        "text": "69"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "66"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 506,
+    "source": "Baycikmis4.txt",
+    "number": 9,
+    "question": "Fırat Üniversitesi Fen Bilimleri Enstitüsüne kayıtlı bir doktora öğrencisi, Doktora tez savunma sınav tarihi almak için aşağıdaki formlardan hangisini Anabilim Dalı aracılığı ile Anabilim Dalı Kurulu kararı ekinde Enstitüye teslim etmek zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Form-40"
+      },
+      {
+        "label": "B",
+        "text": "Form-41"
+      },
+      {
+        "label": "C",
+        "text": "Form-42"
+      },
+      {
+        "label": "D",
+        "text": "Form-43"
+      },
+      {
+        "label": "E",
+        "text": "Form-44"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Form-40"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 507,
+    "source": "Baycikmis4.txt",
+    "number": 10,
+    "question": "Standart Sapma istatistikte en sık kullanılan bir yayılım ölçütüdür. Aşağıdaki seçeneklerden hangisi standart sapma hakkında yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ölçümlerin kendi arasındaki ve bir kadar farklı olduğunu gösterir"
+      },
+      {
+        "label": "B",
+        "text": "Ölçümlerin ortalamadan ne kadar farklı olduğunu gösterir"
+      },
+      {
+        "label": "C",
+        "text": "Ölçümlerin aritmetik ortalamadan olan ortalama farkıdır."
+      },
+      {
+        "label": "D",
+        "text": "Ölçümlerin aritmetik ortalamadan ne kadar uzaklaştığını gösterir"
+      },
+      {
+        "label": "E",
+        "text": "Varyansın karekökü alınarak hesaplanır"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Varyansın karekökü alınarak hesaplanır"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 508,
+    "source": "Baycikmis4.txt",
+    "number": 11,
+    "question": "Aşağıdaki birimlerden hangisi TÜBİTAK'a bağlı bir birim değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "MARDİM"
+      },
+      {
+        "label": "B",
+        "text": "MEB"
+      },
+      {
+        "label": "C",
+        "text": "UBAB"
+      },
+      {
+        "label": "D",
+        "text": "KOSGEB"
+      },
+      {
+        "label": "E",
+        "text": "ULAKBİM"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "KOSGEB"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 509,
+    "source": "Baycikmis4.txt",
+    "number": 12,
+    "question": "Tezli yüksek lisans programından mezun olmak için en az kaç Ulusal Kredi ve AKTS kredisi gereklidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "24 Ulusal Kredi, 124 AKTS"
+      },
+      {
+        "label": "B",
+        "text": "21 Ulusal Kredi, 120 AKTS"
+      },
+      {
+        "label": "C",
+        "text": "24 Ulusal Kredi, 100 AKTS"
+      },
+      {
+        "label": "D",
+        "text": "24 Ulusal Kredi, 90 AKTS"
+      },
+      {
+        "label": "E",
+        "text": "20 Ulusal Kredi, 60 AKTS"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "21 Ulusal Kredi, 120 AKTS"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 510,
+    "source": "Baycikmis4.txt",
+    "number": 13,
+    "question": "Benzin fiyatları 10 yıl içinde, bir önceki yıla göre, her yıl 1.5; 1.7; 1.9; 2.0; 2.3; 2.5; 2.7; 2.9; 3.1; 3.4 ve 3.5 kat artmıştır. Benzin fiyatlarının 10 yıl içinde ortalama artış hızını bulmak için hangi istatistik yöntemini kullanmak gerekir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Standart sapma"
+      },
+      {
+        "label": "B",
+        "text": "Aritmetik ortalama"
+      },
+      {
+        "label": "C",
+        "text": "Geometrik ortalama"
+      },
+      {
+        "label": "D",
+        "text": "Harmonik ortalama"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbiri"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Geometrik ortalama"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 511,
+    "source": "Baycikmis4.txt",
+    "number": 14,
+    "question": "Bilimsel bir araştırmanın istatistikî çalışmasında elde edilen bir ölçeğin değişkenlerine ne denir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Frekans"
+      },
+      {
+        "label": "B",
+        "text": "Ortalama"
+      },
+      {
+        "label": "C",
+        "text": "Medyan"
+      },
+      {
+        "label": "D",
+        "text": "Standart Sapma"
+      },
+      {
+        "label": "E",
+        "text": "Range"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Medyan"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 512,
+    "source": "Baycikmis4.txt",
+    "number": 15,
+    "question": "Literatür taramasında hangisinin yapılması zorunlu değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araştırma konusunu belirlemek"
+      },
+      {
+        "label": "B",
+        "text": "Belirlenen araştırma problemine bağlı kalmak"
+      },
+      {
+        "label": "C",
+        "text": "Özgün bulguların ortaya konulması"
+      },
+      {
+        "label": "D",
+        "text": "Var olan sonuçların sentezlenmesi"
+      },
+      {
+        "label": "E",
+        "text": "Yeni araştırma gereksinimlerinin belirginleştirilmesi"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Özgün bulguların ortaya konulması"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 513,
+    "source": "Baycikmis4.txt",
+    "number": 16,
+    "question": "Kaynak ve belgeleri inceleyerek veri toplama hangisinin tanımıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Veri toplamak"
+      },
+      {
+        "label": "B",
+        "text": "Araştırma konusu"
+      },
+      {
+        "label": "C",
+        "text": "Bilgi kaynağının erişimi"
+      },
+      {
+        "label": "D",
+        "text": "Kaynağı belirlemek"
+      },
+      {
+        "label": "E",
+        "text": "Literatür tarama"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Literatür tarama"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 514,
+    "source": "Baycikmis4.txt",
+    "number": 17,
+    "question": "Aşağıdaki seçeneklerden hangisi bilimsel yöntemi en iyi özetlemektedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Teknolojik düşüncelerle değişimi ve bir olgunun sürdürülmesi."
+      },
+      {
+        "label": "B",
+        "text": "Yönetim düşünceleriyle desteklenmesi ve bir olgunun sürdürülmesi."
+      },
+      {
+        "label": "C",
+        "text": "Yönetim düşünceleriyle değişime adapte olması ve bir olgunun sürdürülmesi."
+      },
+      {
+        "label": "D",
+        "text": "İnovatif düşüncelerle değişime adapte olması ve bir olgunun sürdürülmesi."
+      },
+      {
+        "label": "E",
+        "text": "Zihinsel bir gelişme, yenileşme ve bir olgunlaşma sürecidir."
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Zihinsel bir gelişme, yenileşme ve bir olgunlaşma sürecidir."
+    },
+    "explanation": ""
+  },
+  {
+    "id": 515,
+    "source": "Baycikmis4.txt",
+    "number": 18,
+    "question": "Bir derginin etki faktörü (impact factor) hangisine dayanılarak belirlenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dergide yayınlanan makalenin aldığı atıf sayısına göre"
+      },
+      {
+        "label": "B",
+        "text": "Derginin 5 yılda yayınladığı makale sayısına göre"
+      },
+      {
+        "label": "C",
+        "text": "Derginin türüne göre"
+      },
+      {
+        "label": "D",
+        "text": "Derginin tarandığı alan indekslerine göre"
+      },
+      {
+        "label": "E",
+        "text": "Derginin bilimsel popülaritesine göre"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Dergide yayınlanan makalenin aldığı atıf sayısına göre"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 516,
+    "source": "Baycikmis4.txt",
+    "number": 19,
+    "question": "Değişik veriler elde edilebilecek şekilde araştırma araç-gereçleri, işlemleri veya uygulamalarında değişiklik yapmak veya sonuçları değiştirmek hangi etik ilkesine aykırıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uydurma"
+      },
+      {
+        "label": "B",
+        "text": "Çarpıtma"
+      },
+      {
+        "label": "C",
+        "text": "Aşırma"
+      },
+      {
+        "label": "D",
+        "text": "Dilimleme"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbiri"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Çarpıtma"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 517,
+    "source": "Baycikmis4.txt",
+    "number": 20,
+    "question": "Bilim bazı temel niteliklere sahip olmalıdır. Aşağıdaki seçeneklerden hangisi bu temel niteliklere en uzak niteliktir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Evrenseldir"
+      },
+      {
+        "label": "B",
+        "text": "Mantıksaldır"
+      },
+      {
+        "label": "C",
+        "text": "İnovatiftir"
+      },
+      {
+        "label": "D",
+        "text": "Gözlemseldir"
+      },
+      {
+        "label": "E",
+        "text": "Deneysel"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "İnovatiftir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 518,
+    "source": "Baycikmis4.txt",
+    "number": 21,
+    "question": "Bir verinin sınıflandırılması sonucunda elde edilen her bir şıkkın tekrarlanma sayısı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ölçü"
+      },
+      {
+        "label": "B",
+        "text": "Frekans"
+      },
+      {
+        "label": "C",
+        "text": "Ortalama"
+      },
+      {
+        "label": "D",
+        "text": "Medyan"
+      },
+      {
+        "label": "E",
+        "text": "Periyot"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Frekans"
+    },
+    "explanation": "•\tiTHENTICATE programında benzerlik incelemesi aşağıdakilerden hangisi ile yapılır? A) Ödev B) Tez C) Rapor D) Proje E) Makale Doğru cevap: E"
+  },
+  {
+    "id": 519,
+    "source": "Baycikmis4.txt",
+    "number": 22,
+    "question": "Doktora Tez konusu önerisi Enstitüye gönderilmeden önce aşağıdaki süreçlerden hangisinin tamamlanması gereklidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tez İzleme Komitesinin belirlenmesi ve toplantı tutanağı"
+      },
+      {
+        "label": "B",
+        "text": "Tez İzleme Komitesinin belirlenmesi"
+      },
+      {
+        "label": "C",
+        "text": "Tez İzleme Komitesi'nin doktora tez önerisi sunumunun yapılması"
+      },
+      {
+        "label": "D",
+        "text": "Doktara Yeterlilik sınavına girilmesi ve başarılı olunması"
+      },
+      {
+        "label": "E",
+        "text": "Doktora Tez İzleme Raporunun hazırlanması"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Doktara Yeterlilik sınavına girilmesi ve başarılı olunması"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 520,
+    "source": "Baycikmis4.txt",
+    "number": 23,
+    "question": "Bir konu üzerine dinleyicilere bilgi sağlamak için düzenlenen, tartışma ve soru-yanıt ile inisiyatif veren oturum ya da toplantıya ne denir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Konferans"
+      },
+      {
+        "label": "B",
+        "text": "Sempozyum"
+      },
+      {
+        "label": "C",
+        "text": "Tez"
+      },
+      {
+        "label": "D",
+        "text": "Seminer"
+      },
+      {
+        "label": "E",
+        "text": "Panel"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Sempozyum"
+    },
+    "explanation": "•\t\"Araştırma evrenini temsil eden küçük bir model oluşturması yöntemi\" yapılan uygulamaların kavramı aşağıdakilerden hangisidir? A) Gözlem B) Görüşme C) Örneklem D) Anket E) Raporlama Doğru cevap: C"
+  },
+  {
+    "id": 521,
+    "source": "Baycikmis4.txt",
+    "number": 24,
+    "question": "Literatür taraması hakkında aşağıda verilen yargılardan hangisi yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çok çalışılmış sahalar araştırmacıya zengin bir kaynak sağlar."
+      },
+      {
+        "label": "B",
+        "text": "Tarama, yeni araştırmacılar için literatürün taranması zorunlu değildir."
+      },
+      {
+        "label": "C",
+        "text": "Taramaya en son yapılan çalışmalardan başlamak uyandır."
+      },
+      {
+        "label": "D",
+        "text": "Araştırmacının yeni bir çalışmaya başlamasına yol açar."
+      },
+      {
+        "label": "E",
+        "text": "Kaynakçanın kabarık olması kaliteli bir çalışmanın göstergesi değildir."
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Kaynakçanın kabarık olması kaliteli bir çalışmanın göstergesi değildir."
+    },
+    "explanation": "•\t\"Bilgisayar destekli eğitimin öğrencilerin akademik başarılarına etkileri\" hipotezinde bağımsız değişken aşağıdakilerden hangisidir? A) Bilgisayar destekli eğitim B) Öğrencilerin akademik başarıları C) Çevresel Faktörler D) Ders başarıları E) Bireysel farklılıklar Doğru cevap: A"
+  },
+  {
+    "id": 522,
+    "source": "Baycikmis4.txt",
+    "number": 25,
+    "question": "Korelasyon katsayısı $\\mathbf{r}=+0,50$ olan iki değişken arasındaki ilişki düzeyi aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Zayıf düzeyde"
+      },
+      {
+        "label": "B",
+        "text": "Orta düzeyde"
+      },
+      {
+        "label": "C",
+        "text": "Kuvvetli düzeyde"
+      },
+      {
+        "label": "D",
+        "text": "Çok kuvvetli düzeyde"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbiri"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Orta düzeyde"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 523,
+    "source": "Baycikmis4.txt",
+    "number": 26,
+    "question": "Aşağıdakilerden hangisi bilimsel araştırmalardan hangisi amaca göre araştırmalar grubunda yer almaz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deneysel Araştırmalar"
+      },
+      {
+        "label": "B",
+        "text": "Temel Araştırmalar"
+      },
+      {
+        "label": "C",
+        "text": "Değerlendirme Araştırmaları"
+      },
+      {
+        "label": "D",
+        "text": "Uygulamalı Araştırmalar"
+      },
+      {
+        "label": "E",
+        "text": "Saha Araştırmaları"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Saha Araştırmaları"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 524,
+    "source": "Baycikmis4.txt",
+    "number": 27,
+    "question": "Doktora programı en az kaç AKTS kredisinden oluşur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "120"
+      },
+      {
+        "label": "B",
+        "text": "90"
+      },
+      {
+        "label": "C",
+        "text": "180"
+      },
+      {
+        "label": "D",
+        "text": "240"
+      },
+      {
+        "label": "E",
+        "text": "60"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "240"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 525,
+    "source": "Baycikmis4.txt",
+    "number": 28,
+    "question": "Yüksek Lisans mezunu olmak isteyen bir öğrenci en az kaç dersten başarılı olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "9+1"
+      },
+      {
+        "label": "B",
+        "text": "8+1"
+      },
+      {
+        "label": "C",
+        "text": "7+1"
+      },
+      {
+        "label": "D",
+        "text": "6+1"
+      },
+      {
+        "label": "E",
+        "text": "5+1"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "7+1"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 526,
+    "source": "Baycikmis4.txt",
+    "number": 29,
+    "question": "Fen Bilimleri Enstitüsü’nün Yüksek Lisans ve Doktora tez benzerlik incelemelerinde kabul ettiği Turnitin benzerliği kaç olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "%10-20"
+      },
+      {
+        "label": "B",
+        "text": "%20"
+      },
+      {
+        "label": "C",
+        "text": "%5-20"
+      },
+      {
+        "label": "D",
+        "text": "%25"
+      },
+      {
+        "label": "E",
+        "text": "%10"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "%20"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 527,
+    "source": "Baycikmis4.txt",
+    "number": 30,
+    "question": "Tezli Yüksek Lisans programı en az ve en çok kaç yarıyılda tamamlanabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2-4"
+      },
+      {
+        "label": "B",
+        "text": "2-6"
+      },
+      {
+        "label": "C",
+        "text": "3-4"
+      },
+      {
+        "label": "D",
+        "text": "4-6"
+      },
+      {
+        "label": "E",
+        "text": "6-12"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "4-6"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 528,
+    "source": "Baycikmis4.txt",
+    "number": 31,
+    "question": "Web of Science içerisinde yer alan dergi sınıflandırmalarına göre bir derginin aşağıdaki sınıflandırmalardan hangisinde olması en kaliteli dergi grubunda olduğunu gösterir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Q5"
+      },
+      {
+        "label": "B",
+        "text": "Q4"
+      },
+      {
+        "label": "C",
+        "text": "Q3"
+      },
+      {
+        "label": "D",
+        "text": "Q2"
+      },
+      {
+        "label": "E",
+        "text": "Q1"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Q1"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 529,
+    "source": "Baycikmis4.txt",
+    "number": 32,
+    "question": "Türkiye'de yayımlanan akademik dergilere merkezi bir sistemle ulaşmamıza imkan veren TÜBİTAK'a bağlı sistem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dergipark"
+      },
+      {
+        "label": "B",
+        "text": "ULAKBİM"
+      },
+      {
+        "label": "C",
+        "text": "Google Akademik"
+      },
+      {
+        "label": "D",
+        "text": "Web of Science"
+      },
+      {
+        "label": "E",
+        "text": "Ulusal Tez Arşivi"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "ULAKBİM"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 530,
+    "source": "Baycikmis4.txt",
+    "number": 33,
+    "question": "Doktora programına yeni giren bir öğrencinin yeterlik sınavından başarılı olabilmesi için yazılı ve sözlü sınav ortalamalarının en az kaç olması gerekmektedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "55"
+      },
+      {
+        "label": "D",
+        "text": "65"
+      },
+      {
+        "label": "E",
+        "text": "70"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "70"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 531,
+    "source": "Baycikmis4.txt",
+    "number": 34,
+    "question": "Doktora mezun olma koşulları arasında yer alan doktora seminerini öğrenci kaç dönem içerisinde sunmak ve başarılı olmak zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "text": "5"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "4"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 532,
+    "source": "Baycikmis4.txt",
+    "number": 35,
+    "question": "Bir doktora öğrencisinin tez savunma görüşülmesi için en az kaç olumlu tez izleme raporu Enstitüye göndermelidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "5"
+      },
+      {
+        "label": "E",
+        "text": "6"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "3"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 533,
+    "source": "Baycikmis4.txt",
+    "number": 36,
+    "question": "Seminer çalışması tamamlandıktan sonra danışman tarafından Anabilim Dalına başarılı olarak önerilen öğrenciden kaç adet çıktıyı teslim etmesi istenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "text": "5"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "5"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 534,
+    "source": "Baycikmis4.txt",
+    "number": 37,
+    "question": "Bir Yüksek Lisans öğrencisi eğitimi boyunca Tez Veri Giriş Formunu kaç defa doldurmak zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "text": "5"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "1"
     },
     "explanation": ""
   }

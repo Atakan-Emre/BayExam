@@ -1,0 +1,301 @@
+1)
+Bilim bazı temel niteliklere sahip olmalıdır. Aşağıdaki seçeneklerden hangisi bu temel niteliklere en uzak niteliktir? A) Evrenseldir B) İnovatiftir C) Deneyseldir D) Mantıksaldır E) Gözlemseldir
+Doğru cevap: B
+
+2)
+“Bilimsel bir araştırma için literatür araştırmasına, araştırma problemi ile ilgili ………… şeçilmesi ile başlanır.” İfadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir? A) İsim B) Başlığın C) Özetin D) Giriş kısmının E) Anahtar kelimelerin
+Doğru cevap: E
+
+3)
+Bir derginin etki faktörü hangi kritere dayanılarak belirlenir? A) Dergide yayımlanan makalelerin aldığı atıf sayısına göre B) Derginin bir yılda yayımladığı makale adedine göre C) Derginin türüne göre D) Derginin tarandığı alan indekslerine göre E) Derginin bilimsel popülerliğine göre
+Doğru cevap: A
+
+4)
+Başkalarının fikirlerini, yazılarını vb. izinsiz yayımlamak aşağıdaki hangi etik ihlale girer? A) Aşırma B) Çarpıtma C) Uydurma D) Tekrar Yayım E) Dilimleme
+Doğru cevap: A
+
+5)
+MENDELEY nedir? A) Referans yönetim programı B) Dergi adı C) Form 24 D) Tez düzenleme şablonu E) Kaynak yönetim aracı
+Doğru cevap: A
+
+6)
+Proje ekibi seçiminde dikkat edilmesi gereken değildir? A) Konu ile ilgili ve bilgili, sorun çözme yeteneğine sahip olmalı B) Gerektiğinde analitik ve gerektiğinde yaratıcı olabilen özgün ve esnek düşünen. C) Katkı yapabilecek özelliklerde ve buna istekli olmalı. D) Sorumluluk alabilen, geniş zaman dilimi içinde çalışabilen özellikte olmalı. E) Diğer ekip üyeleri ile uyumlu çalışan, iletişim kurabilen özelliğe sahip olmalı.
+Doğru cevap: D
+
+7)
+Aşağıdakilerden hangisi olgu ve olayları nesnelleştirerek gözlemlenebilir, ölçülebilir ve sayısal olarak ifade edebilir bir şekilde ortaya koyan bir araştırma türüdür. A) Nicel araştırma B) Nitel araştırma C) Tarihsel araştırma D) Betimsel araştırma E) Fenomenolojik araştırma
+Doğru cevap: A
+
+8)
+…………: Başkalarına ait olan araştırma verilerinin, olduğu gibi kaynak gösterilmeden ve kendi araştırma verileriymiş gibi yayımlanmasıdır? A) Aldatmaca B) Sahtecilik C) Saptırmaca D) Uydurmacılık E) İntihal
+Doğru cevap: E
+
+9)
+“Bir tezin yazı bölümünde yer alan, herhangi bir bilginin kaynağının ne olduğunun yine bulunduğu yerde belirtirmesidir.” Cümlesi aşağıdaki terimlerden hangisini açıklar ? 
+A) Etik B) İntihal C) Atıf D) Kaynak Yönetim Aracı E) Tez Yazım Kuralları
+Doğru cevap: C 
+
+10)
+Aşağıdaki TÜBİTAK destek programlarından hangisi sürekli başvuruya açıktır? 
+A) 1000-Üniversitelerin Araştırma ve Geliştirme Potansiyelinin Artırılmasına Yönelik Destek Programı 
+B) 1001-Bilimsel ve Teknolojik Araştırma Projelerini Destekleme Programı  
+C) 1003-Öncelikli Alanlar Ar-Ge Projeleri Destekleme Programı 
+D) 1004-Mükemmeliyet Merkezi Destek Programı 
+E) 1005-Ulusal Yeni Fikirler ve Ürünler Araştırma Destek Programı 
+Doğru cevap:E
+
+11)
+TÜBİTAK projelerinin ortak özelliği aşağıdakilerden hangisidir? A) Teşvik ödülü B) Bütçeleri C) Destek süreleri D) Başvuru dönemi E) Kimlerin başvuracağı
+Doğru cevap: A
+
+12)
+Bir başlangıç noktasına göre durumların her birinin uzaklığına ya da olanaklı zamanın fakat durumlar arasındaki farklılıkların boyutuna ve uzaklığa, yöntem ve sorun olanağı tanıyan ölçme tekniği aşağıdaki seçeneklerden hangisi ile tanımlanır? 
+A) Sınıflandırma ölçekleri  
+B) Sıralama ölçeği 
+C) Aralıklı ölçeği 
+D) Oran ölçeği 
+E) Bağımsız ölçek 
+Doğru cevap: C
+
+13)
+Aşağıdakilerden hangisi literatür taraması kazanımlarından değildir? 
+A) Araştırmacının araştırma problemini gözden geçirmesini sağlaması 
+B) Konu ile ilgili daha fazla araştırma gerektiren soruları ortaya koyması 
+C) Konuyla dayanakların öğrenilmesini sağlaması 
+D) Konuyla ilgili alanın ve araştırmacıların belirlenmesi 
+E) Kaynakların belirlenmesi 
+Doğru cevap: B 
+
+14)
+Önceden belirlenen hipotezin sınanması amacıyla değişkenler arasındaki ilişkilerin kontrollü bir ortamda incelenmesi aşağıdaki nicel araştırma türlerinden hangisi ile ifade edilir? 
+A) Deney
+B) Yarı Deney
+C) Survey
+D) Anket 
+E) Yapılandırılmış Görüşme
+Doğru cevap: A 
+
+15)
+Temmuz ayı boyunca üçer günlük aralarla Elazığ'da ölçülen öğlen sıcaklık değerleri sırasıyla: Sıcaklık 29; 31; 30; 32; 31; 33; 31; 34; 32; 35; 30dur. Buna göre medyan (ortanca) sıcaklık değeri aşağıdakilerden hangisidir? 
+A) 30 
+B) 31.5 
+C) 32 
+D) 32.5 
+E) 33 
+Doğru cevap: B
+
+16)
+Tez konusu önerisi ikinci defa reddedilen öğrencinin ilgili mevzuat gereğince; ……
+Yukarıdaki cümlede yer alan boşluğa aşağıdakilerden hangisi getirilmelidir: 
+A) Almış olduğu dersleri tekrar almalıdır. 
+B) Öğrenci danışman değişikliği talep edebilir. 
+C) Danışman ile birlikte yeni bir tez konusu önerisi hazırlamalıdır 
+D) Tez çalışmasına başlayabilir 
+E) Enstitü ile ilişiği kesilir 
+Doğru cevap: E
+
+17)
+F.Ü. Fen Bilimleri Enstitüsüne kayıtlı bir öğrenci Yüksek Lisans Tez savunma Sınav Tarihi almak için aşağıdaki formlardan hangisini Anabilim Dalı aracılığı ile Enstitüye teslim etmek zorundadır? 
+A) Form-42 
+B) Form-43 
+C) Form-44 
+D) Form-45 
+E) Form-46 
+Doğru cevap: A
+
+
+18)
+Bir öğrenci bir yıldan en fazla kaç kez yeterlik sınavına girebilir? 
+A) 1 
+B) 2 
+C) 3 
+D) 4  
+E) 5
+Doğru cevap: B
+
+
+
+
+19)
+Aşağıdakilerden hangisi bilim etiğinin temel ilkelerinden değildir? A) Dürüstlük B) Açıklık C) Yasallık D) Özerklik E) Verimlilik
+Doğru cevap: D
+
+20)
+Bir bağımlı (açıklanan) ve bir bağımsız (açıklayıcı) değişken olmak üzere iki değişken arasındaki neden-sonuç ilişkisini matematiksel model olarak ortaya koyan yöntem aşağıdakilerden hangisidir? 
+A) K-kare testi 
+B) T-testi 
+C) Kappa testi 
+D) Korelasyon analizi 
+E) Regrasyon analizi
+Doğru cevap: E
+
+21)
+Aşağıdaki seçeneklerden hangisi bilimsel yöntemi en iyi özetlemektedir? 
+A) Teknolojiyle, düşüncelerde değişime, yenileşmeye ve bir olgunun sürdürülebilir olmasına B) Sürdürülebilirlik, düşüncelerde değişme, destekleme ve bir olgunun sürdürme olmasına 
+C) İnovasyon, değişim, yenileşme, atılım ve bir olgunun sürdürülebilir olmasına 
+D) Bilimsel bir gelişme, düşüncelerde değişme, yenileşme ve bir olgunun sürdürülebilir olmasına  
+E) Yönetim, düşüncelerde değişme, deneme-yanılma ve bir olgunun sürdürülmesine
+Doğru cevap: D
+
+22)
+Aşağıdakilerden hangisi bilimsel yöntemi en iyi açıklar? A) Teknolojik değişim sürecidir B) Sürdürülebilir destek süreçleri C) İnovatif değişim süreci D) Zihinsel gelişme ve düşüncelerde yenileşme süreci E) Yönetim süreci
+Doğru cevap: D (işaretli)
+
+23)
+Bilimsel çalışmaların uluslararası kabul gören formatı hangisidir? A) IMAD B) IRAD C) MRAD D) IMRAD E) Hepsi
+Doğru cevap: D 
+
+24)
+Tamamlandığında ilgili alanda önemli yenilikler çıkarma potansiyeli olan, özgün değeri yüksek, yaygın etkisi ve katma değeri olan bilimsel ve sanatsal araştırma ve geliştirme projeleri aşağıdakilerden hangisidir?
+A) Altyapı projeleri
+B) Doktora projeleri
+C) Yüksek lisans projeleri
+D) Performans projeleri 
+E) Kapsamlı araştırma projeleri
+Doğru cevap: E
+
+25)
+Bilimsel yöntemlerle elde edilen bilgilere dayanarak, henüz kanıtlanmamış fakat mevcut bilgilerle mantıksal olarak çelişmeyen bilimsel araştırma sürecinde doğrulanmaya çalışan düz yazıya ne denir?
+A) Sempozyum
+B) Konferans
+C) Tez
+D) Seminer 
+E) Panel
+Doğru cevap: B
+
+26)
+Tezli yüksek lisans mezunları enstitüleri en fazla kaç AKTS kredisi gereklidir?
+A) 60
+B) 90
+C) 120
+D) 180
+E) 240 
+Doğru cevap: C
+
+27)
+Aşağıdakilerden hangisi "Altın Açık Erişimli Dergi" ler arasında yer almaz?
+A) Açık erişimli dergiler
+B) Hibrit dergiler 
+C) Sübvanse edilen dergiler
+D) Sübvanse edilemeyen dergiler
+E) Hiçbiri
+Doğru cevap: D
+
+28)
+Aşağıdakilerden hangisi bilimsel dergilerde makale değerlendirme yöntemlerinden biri değildir?
+A) Tek-kör (single-blind)
+B) Çift-kör (double-blind)
+C) Açık inceleme (open review)
+D) Parelel inceleme (Parallel review)
+E) Hiçbiri
+Doğru cevap: D
+
+29)
+Bir öğrenci bir öğretim üyesinden kredili derslerin en fazla yüzde kaçını alabilir?
+A) 30
+B) 40 
+C) 50
+D) 60
+E) 70
+Doğru cevap: C
+
+30)
+Aşağıdakilerden hangisi bilimde etik dışı davranışların önlenmesi için kullanılan yöntemler arasındadır?
+A) Yönetimsel önlemler 
+B) Teknik önlemler
+C) Sosyal önlemler 
+D) Genel önlemler
+E) Eğitsel önlemler
+Doğru cevap: A
+
+
+31) 
+Yeterli sayıda bilimsel tarayıp, konuyu bugünkü bilgi ve teknoloji düzeyine özetleyen, değerlendirme yapan bulguları yayınlanması, yorumlanması, makale türü aşağıdakilerden hangisidir?
+A) Araştırma makaleleri
+B) Derleme makaleleri
+C) Editörün mektubu
+D) Vaka notları
+E) Lisansüstü tez makalesi
+Doğru cevap: B
+
+32)
+H-indeksi aşağıdakilerden hangisine göre belirlenir?
+A) Makale sayısı
+B) Atıf sayısı
+C) Yazarın üretkenliği 
+D) Derginin etkisi
+E) Yayınevinin gücü
+Doğru cevap: B
+
+33)
+Hem çevrim dışı hem de çevrim içi çalışma olanağı sağlayan referans yönetim aracı aşağıdakilerden hangisidir?
+A) Mendeley
+B) Zotero 
+C) RefWorks
+D) EndNote
+E) Turnitin
+Doğru cevap: C
+
+34)
+Aşağıdakilerden hangisi Doktora Tez Konusu Önerisi ve Yüksek Lisans Tez Konusu önerileri için ortak ve aynı özellikli iki formdur.
+A) Form 30-31
+B) Form 31-32
+C) Form 32-33
+D) Form 33-34 
+E) Form 34-35
+Doğru cevap: B
+
+35)
+Aşağıdaki şıklardan hangisi San-Tez Programının hedeflerini kapsamaz?
+A) Üniversite-sanayi-kamu iş birliğini kurumsallaştırmak
+B) Üniversitede yapılan akademik bilginin ticarileşmesini sağlamak
+C) Akademisyenler ve üniversite mezunu gençler arasında şirketleşme kültürünü yaygınlaştırarak yeni şirketlerin doğmasını sağlamak
+D) KOBİ’lerin teknoloji ve AR-GE kültürü edinmelerinin sağlanması 
+E) Daha fazla sayıda yüksek lisans ve doktora öğrencisinin desteklenmesini sağlayarak nitelikli eleman sayısının arttırılmasına yardımcı olmak
+Doğru cevap: E
+
+36)
+Yüksek lisans programına kayıtlı bir öğrenci, Genel Not Ortalaması yükseltmek amacıyla başarılı dersten olduğu derslerden hangi nota sahipse dersi tekrarlayabilir ?
+A) CB
+B) BB
+C) DD
+D) FF
+E) CC
+Doğru cevap: E
+
+37)
+Bir seriyi özetleyen, katkıda kalıta tek bir değer olarak ifade eden, ama serinin tamamıyla istatistiksel olan ölçek aşağıdakilerden hangisidir?
+A) Ortalama
+B) Frekans
+C) Medyan
+D) Aritmetik ortalama 
+E) Hiçbiri
+Doğru cevap: B
+
+38)
+Dergiye makale gönderme, hakem değerlendirmesi ve yayınlama sürecinde dergi iletişimden birincil sorumlu olan kişi aşağıdakilerden hangisidir?
+A) Baş editör 
+B) Bölüm editörü
+C) Sorumlu yazar
+D) Yazar
+E) Yayın sorumlusu
+Doğru cevap: C
+
+39)
+Problemin tanımlandığı bölüm bilimsel bir makalenin hangi bölümüdür?
+A) Özet
+B) Giriş
+C) Materyal ve Metot
+D) Sonuçlar
+E) Tartışma
+Doğru cevap: B
+
+40)
+"Bilimsel dergilerin kendi grubunda ve kendi faktörlerinde değerlendirilen analitik değerin, derginin kendi grubu içindeki sıralamasını gösterir." Bu tanım aşağıdakilerden hangisine aittir.
+A) H-indeksi
+B) I10-indeksi
+C) Q faktörü 
+D) Etki faktörü
+E) Impact faktörü
+Doğru cevap: E
+

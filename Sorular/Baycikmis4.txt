@@ -1,0 +1,320 @@
+	•	Bilim, yüzyıllar süren birikimle elde edilmiş, sürekli değişimi esas alan, kendisini sorgulayan, yenilenmeyi önemseyen bir süreçtir. Çağdaş bilim dört önemli niteliği oluşturur. Bunlar aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?
+A) Çeşitlilik, Süreklilik, Yenilik, Ayıklama
+B) Çevresel uyum, Süreklilik, Yenilik, Destekleme
+C) Ar-Ge, Süreklilik, Yenilik, İnovasyon
+D) Nesnellik, Destekleme, Açıklama, Teknoloji
+E) Çağdaşlık, Süreklilik, Güncelleme, Teknolojik
+Doğru cevap: A
+
+	•	Aşağıdakilerden hangisi birincil kaynaklardandır?
+A) Ansiklopediler
+B) El Kitapları
+C) Tezler
+D) Kütüphane Katalogları
+E) Güncel Duyuru Kaynakları
+Doğru cevap: C
+
+	•	İki grubun ortalamalarını karşılaştırarak, aradaki farkın rastlantısal mı, yoksa anlamlı bir farklılık mı olduğunu karar veren yöntem aşağıdakilerden hangisidir?
+A) Korelasyon Testi
+B) T-Testi
+C) K-Kare Testi
+D) Kruskal Wallis Testi
+E) Regresyon Testi
+Doğru cevap: B
+
+	•	Form-24, hangi konu ile ilgilidir?
+A) Seminer Değerlendirme Tutanağı
+B) Kayıt Dondurma
+C) Yüksek Lisans Tez Konusu Önerisi
+D) Yeterlik Sınavı
+E) Danışman Değişikliği ve Atanması
+Doğru cevap: A
+
+	•	Yüksek Lisans ve Doktora tezlerinde aşağıdakilerden hangisinin özgeçmiş sayfasında eklenmesi zorunludur?
+A) Çalışmalar
+B) RG Skoru
+C) Yeterlik Sınavı
+D) Yayımlanmış Çalışmalar
+E) ORCID No
+Doğru cevap: E
+
+	•	Yeterlik sınavında başarısız olan bir doktora öğrencisi Tez İzleme Komitesi Üyeleri ile ilgili dilekçeyi ne zaman Anabilim Dalı Kurulu kararı ekinde enstitüye göndermelidir?
+A) Yeterlik sınavından sonra 3 gün içerisinde
+B) Yeterlik sınavından sonra 15 gün içerisinde
+C) Yeterlik sınavından sonra 1 ay içerisinde
+D) Yeterlik sınavından sonra 3 ay içerisinde
+E) Yeterlik sınavından sonra en geç 6 ay
+Doğru cevap: C
+
+	•	Aşağıdakilerden hangisi araştırmaya katılan katılımcılara açık uçlu sorular sorarak ve konuşma yöntemlerini kullanarak veri toplayan bir araştırma türüdür?
+A) Tarihsel Araştırma
+B) Deneysel Araştırma
+C) Nicel Araştırma
+D) Nitel Araştırma
+E) Betimsel Araştırma
+Doğru cevap: D
+
+	•	Bir öğrencinin istatistik dersinden I. ara sınav notu 65, II. ara sınav notu 75 ve final notu ise 70'dir. Dersin geçme notu için vizelerin % 30'u, finalin ise % 40'ı alınmaktadır. Buna göre bu öğrencinin başarı notu kaçtır?
+A) 65
+B) 66
+C) 67
+D) 68
+E) 69
+Doğru cevap: B
+
+	•	Fırat Üniversitesi Fen Bilimleri Enstitüsüne kayıtlı bir doktora öğrencisi, Doktora tez savunma sınav tarihi almak için aşağıdaki formlardan hangisini Anabilim Dalı aracılığı ile Anabilim Dalı Kurulu kararı ekinde Enstitüye teslim etmek zorundadır?
+A) Form-40
+B) Form-41
+C) Form-42
+D) Form-43
+E) Form-44
+Doğru cevap: A
+
+	•	Standart Sapma istatistikte en sık kullanılan bir yayılım ölçütüdür. Aşağıdaki seçeneklerden hangisi standart sapma hakkında yanlıştır?
+A) Ölçümlerin kendi arasındaki ve bir kadar farklı olduğunu gösterir
+B) Ölçümlerin ortalamadan ne kadar farklı olduğunu gösterir
+C) Ölçümlerin aritmetik ortalamadan olan ortalama farkıdır.
+D) Ölçümlerin aritmetik ortalamadan ne kadar uzaklaştığını gösterir
+E) Varyansın karekökü alınarak hesaplanır
+Doğru cevap: E
+
+	•	Aşağıdaki birimlerden hangisi TÜBİTAK'a bağlı bir birim değildir?
+A) MARDİM
+B) MEB
+C) UBAB
+D) KOSGEB
+E) ULAKBİM
+Doğru cevap: D
+
+	•	Tezli yüksek lisans programından mezun olmak için en az kaç Ulusal Kredi ve AKTS kredisi gereklidir?
+A) 24 Ulusal Kredi, 124 AKTS
+B) 21 Ulusal Kredi, 120 AKTS
+C) 24 Ulusal Kredi, 100 AKTS
+D) 24 Ulusal Kredi, 90 AKTS
+E) 20 Ulusal Kredi, 60 AKTS
+Doğru cevap: B
+
+	•	Benzin fiyatları 10 yıl içinde, bir önceki yıla göre, her yıl 1.5; 1.7; 1.9; 2.0; 2.3; 2.5; 2.7; 2.9; 3.1; 3.4 ve 3.5 kat artmıştır. Benzin fiyatlarının 10 yıl içinde ortalama artış hızını bulmak için hangi istatistik yöntemini kullanmak gerekir?
+A) Standart sapma
+B) Aritmetik ortalama
+C) Geometrik ortalama
+D) Harmonik ortalama
+E) Hiçbiri
+Doğru cevap: C
+
+	•	Bilimsel bir araştırmanın istatistikî çalışmasında elde edilen bir ölçeğin değişkenlerine ne denir?
+A) Frekans
+B) Ortalama
+C) Medyan
+D) Standart Sapma
+E) Range
+Doğru cevap: C
+
+	•	Literatür taramasında hangisinin yapılması zorunlu değildir?
+A) Araştırma konusunu belirlemek
+B) Belirlenen araştırma problemine bağlı kalmak
+C) Özgün bulguların ortaya konulması
+D) Var olan sonuçların sentezlenmesi
+E) Yeni araştırma gereksinimlerinin belirginleştirilmesi
+Doğru cevap: C
+
+	•	Kaynak ve belgeleri inceleyerek veri toplama hangisinin tanımıdır?
+A) Veri toplamak
+B) Araştırma konusu
+C) Bilgi kaynağının erişimi
+D) Kaynağı belirlemek
+E) Literatür tarama
+Doğru cevap: E
+
+	•	Aşağıdaki seçeneklerden hangisi bilimsel yöntemi en iyi özetlemektedir?
+A) Teknolojik düşüncelerle değişimi ve bir olgunun sürdürülmesi.
+B) Yönetim düşünceleriyle desteklenmesi ve bir olgunun sürdürülmesi.
+C) Yönetim düşünceleriyle değişime adapte olması ve bir olgunun sürdürülmesi.
+D) İnovatif düşüncelerle değişime adapte olması ve bir olgunun sürdürülmesi.
+E) Zihinsel bir gelişme, yenileşme ve bir olgunlaşma sürecidir.
+Doğru cevap: E
+
+	•	Bir derginin etki faktörü (impact factor) hangisine dayanılarak belirlenir?
+A) Dergide yayınlanan makalenin aldığı atıf sayısına göre
+B) Derginin 5 yılda yayınladığı makale sayısına göre
+C) Derginin türüne göre
+D) Derginin tarandığı alan indekslerine göre
+E) Derginin bilimsel popülaritesine göre
+Doğru cevap: A
+
+	•	Değişik veriler elde edilebilecek şekilde araştırma araç-gereçleri, işlemleri veya uygulamalarında değişiklik yapmak veya sonuçları değiştirmek hangi etik ilkesine aykırıdır?
+A) Uydurma
+B) Çarpıtma
+C) Aşırma
+D) Dilimleme
+E) Hiçbiri
+Doğru cevap: B
+
+	•	Bilim bazı temel niteliklere sahip olmalıdır. Aşağıdaki seçeneklerden hangisi bu temel niteliklere en uzak niteliktir?
+A) Evrenseldir
+B) Mantıksaldır
+C) İnovatiftir
+D) Gözlemseldir
+E) Deneysel
+Doğru cevap: C
+
+	•	Bir verinin sınıflandırılması sonucunda elde edilen her bir şıkkın tekrarlanma sayısı aşağıdakilerden hangisidir?
+A) Ölçü
+B) Frekans
+C) Ortalama
+D) Medyan
+E) Periyot
+Doğru cevap: B
+
+	•	iTHENTICATE programında benzerlik incelemesi aşağıdakilerden hangisi ile yapılır?
+A) Ödev
+B) Tez
+C) Rapor
+D) Proje
+E) Makale
+Doğru cevap: E
+
+	•	Doktora Tez konusu önerisi Enstitüye gönderilmeden önce aşağıdaki süreçlerden hangisinin tamamlanması gereklidir?
+A) Tez İzleme Komitesinin belirlenmesi ve toplantı tutanağı
+B) Tez İzleme Komitesinin belirlenmesi
+C) Tez İzleme Komitesi'nin doktora tez önerisi sunumunun yapılması
+D) Doktara Yeterlilik sınavına girilmesi ve başarılı olunması
+E) Doktora Tez İzleme Raporunun hazırlanması
+Doğru cevap: D
+
+	•	Bir konu üzerine dinleyicilere bilgi sağlamak için düzenlenen, tartışma ve soru-yanıt ile inisiyatif veren oturum ya da toplantıya ne denir?
+A) Konferans
+B) Sempozyum
+C) Tez
+D) Seminer
+E) Panel
+Doğru cevap: B
+
+	•	"Araştırma evrenini temsil eden küçük bir model oluşturması yöntemi" yapılan uygulamaların kavramı aşağıdakilerden hangisidir?
+A) Gözlem
+B) Görüşme
+C) Örneklem
+D) Anket
+E) Raporlama
+Doğru cevap: C
+
+	•	Literatür taraması hakkında aşağıda verilen yargılardan hangisi yanlıştır?
+A) Çok çalışılmış sahalar araştırmacıya zengin bir kaynak sağlar.
+B) Tarama, yeni araştırmacılar için literatürün taranması zorunlu değildir.
+C) Taramaya en son yapılan çalışmalardan başlamak uyandır.
+D) Araştırmacının yeni bir çalışmaya başlamasına yol açar.
+E) Kaynakçanın kabarık olması kaliteli bir çalışmanın göstergesi değildir.
+Doğru cevap: E
+
+	•	"Bilgisayar destekli eğitimin öğrencilerin akademik başarılarına etkileri" hipotezinde bağımsız değişken aşağıdakilerden hangisidir?
+A) Bilgisayar destekli eğitim
+B) Öğrencilerin akademik başarıları
+C) Çevresel Faktörler
+D) Ders başarıları
+E) Bireysel farklılıklar
+Doğru cevap: A
+
+	•	Korelasyon katsayısı $\mathbf{r}=+0,50$ olan iki değişken arasındaki ilişki düzeyi aşağıdakilerden hangisinde doğru ifade edilmiştir?
+A) Zayıf düzeyde
+B) Orta düzeyde
+C) Kuvvetli düzeyde
+D) Çok kuvvetli düzeyde
+E) Hiçbiri
+Doğru cevap: B
+
+	•	Aşağıdakilerden hangisi bilimsel araştırmalardan hangisi amaca göre araştırmalar grubunda yer almaz?
+A) Deneysel Araştırmalar
+B) Temel Araştırmalar
+C) Değerlendirme Araştırmaları
+D) Uygulamalı Araştırmalar
+E) Saha Araştırmaları
+Doğru cevap: E
+
+	•	Doktora programı en az kaç AKTS kredisinden oluşur?
+A) 120
+B) 90
+C) 180
+D) 240
+E) 60
+Doğru cevap: D
+
+	•	Yüksek Lisans mezunu olmak isteyen bir öğrenci en az kaç dersten başarılı olmalıdır?
+A) 9+1
+B) 8+1
+C) 7+1
+D) 6+1
+E) 5+1
+Doğru cevap: C
+
+	•	Fen Bilimleri Enstitüsü’nün Yüksek Lisans ve Doktora tez benzerlik incelemelerinde kabul ettiği Turnitin benzerliği kaç olmalıdır?
+A) %10-20
+B) %20
+C) %5-20
+D) %25
+E) %10
+Doğru cevap: B
+
+	•	Tezli Yüksek Lisans programı en az ve en çok kaç yarıyılda tamamlanabilir?
+A) 2-4
+B) 2-6
+C) 3-4
+D) 4-6
+E) 6-12
+Doğru cevap: D
+
+	•	Web of Science içerisinde yer alan dergi sınıflandırmalarına göre bir derginin aşağıdaki sınıflandırmalardan hangisinde olması en kaliteli dergi grubunda olduğunu gösterir?
+A) Q5
+B) Q4
+C) Q3
+D) Q2
+E) Q1
+Doğru cevap: E
+
+	•	Türkiye'de yayımlanan akademik dergilere merkezi bir sistemle ulaşmamıza imkan veren TÜBİTAK'a bağlı sistem aşağıdakilerden hangisidir?
+A) Dergipark
+B) ULAKBİM
+C) Google Akademik
+D) Web of Science
+E) Ulusal Tez Arşivi
+Doğru cevap: B
+
+	•	Doktora programına yeni giren bir öğrencinin yeterlik sınavından başarılı olabilmesi için yazılı ve sözlü sınav ortalamalarının en az kaç olması gerekmektedir?
+A) 50
+B) 60
+C) 55
+D) 65
+E) 70
+Doğru cevap: E
+
+	•	Doktora mezun olma koşulları arasında yer alan doktora seminerini öğrenci kaç dönem içerisinde sunmak ve başarılı olmak zorundadır?
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+Doğru cevap: D
+
+	•	Bir doktora öğrencisinin tez savunma görüşülmesi için en az kaç olumlu tez izleme raporu Enstitüye göndermelidir?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+Doğru cevap: B
+
+	•	Seminer çalışması tamamlandıktan sonra danışman tarafından Anabilim Dalına başarılı olarak önerilen öğrenciden kaç adet çıktıyı teslim etmesi istenir?
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+Doğru cevap: E
+
+	•	Bir Yüksek Lisans öğrencisi eğitimi boyunca Tez Veri Giriş Formunu kaç defa doldurmak zorundadır?
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+Doğru cevap: A
+
