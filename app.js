@@ -62,11 +62,22 @@ const isCorrectChoice = (choice, answer) => {
   return Boolean(sameLabel || sameText);
 };
 
+const formatScoreChip = () => `✔ ${state.totals.correct} · ✖ ${state.totals.incorrect}`;
+
+const updateCardMetrics = () => {
+  document.querySelectorAll('.question-card').forEach((card) => {
+    const chip = card.querySelector('.card-metrics');
+    if (!chip || chip.hidden) return;
+    chip.textContent = formatScoreChip();
+  });
+};
+
 const updateScoreboard = () => {
   correctCountEl.textContent = state.totals.correct;
   wrongCountEl.textContent = state.totals.incorrect;
   answeredCountEl.textContent = state.answers.size;
   totalCountEl.textContent = state.questions.length;
+  updateCardMetrics();
 };
 
 const formatSourceLabel = (fileName) => {
@@ -79,7 +90,15 @@ const clearList = () => {
   questionListEl.innerHTML = '';
 };
 
-const applyStoredAnswer = (card, question, storedAnswer, feedbackEl, feedbackStatus, feedbackText) => {
+const applyStoredAnswer = (
+  card,
+  question,
+  storedAnswer,
+  feedbackEl,
+  feedbackStatus,
+  feedbackText,
+  revealChip,
+) => {
   card.dataset.locked = 'true';
   const optionButtons = card.querySelectorAll('.option-btn');
 
@@ -105,6 +124,7 @@ const applyStoredAnswer = (card, question, storedAnswer, feedbackEl, feedbackSta
   feedbackStatus.textContent = storedAnswer.status === 'correct' ? 'Doğru!' : 'Yanlış cevap';
   feedbackText.textContent =
     question.explanation || 'Bu soru için açıklama henüz eklenmemiş.';
+  revealChip();
 };
 
 const renderQuestions = () => {
@@ -118,6 +138,12 @@ const renderQuestions = () => {
     const feedbackEl = card.querySelector('.feedback');
     const feedbackStatus = card.querySelector('.feedback-status');
     const feedbackText = card.querySelector('.feedback-text');
+    const chipEl = card.querySelector('.card-metrics');
+    const revealChip = () => {
+      chipEl.hidden = false;
+      chipEl.textContent = formatScoreChip();
+    };
+    chipEl.textContent = formatScoreChip();
 
     card.dataset.questionId = question.id;
     cardKicker.textContent = `Soru ${idx + 1}`;
@@ -133,14 +159,31 @@ const renderQuestions = () => {
       btn.dataset.optionLabel = choice.label || '';
       btn.dataset.optionText = choice.text;
       btn.addEventListener('click', () =>
-        handleAnswer(question, choice, btn, card, feedbackEl, feedbackStatus, feedbackText),
+        handleAnswer(
+          question,
+          choice,
+          btn,
+          card,
+          feedbackEl,
+          feedbackStatus,
+          feedbackText,
+          revealChip,
+        ),
       );
       optionsEl.appendChild(btn);
     });
 
     const storedAnswer = state.answers.get(question.id);
     if (storedAnswer) {
-      applyStoredAnswer(card, question, storedAnswer, feedbackEl, feedbackStatus, feedbackText);
+      applyStoredAnswer(
+        card,
+        question,
+        storedAnswer,
+        feedbackEl,
+        feedbackStatus,
+        feedbackText,
+        revealChip,
+      );
     }
 
     questionListEl.appendChild(card);
@@ -170,7 +213,16 @@ const resetProgress = () => {
   applyFilters();
 };
 
-const handleAnswer = (question, choice, button, card, feedbackEl, feedbackStatus, feedbackText) => {
+const handleAnswer = (
+  question,
+  choice,
+  button,
+  card,
+  feedbackEl,
+  feedbackStatus,
+  feedbackText,
+  revealChip,
+) => {
   if (card.dataset.locked === 'true') {
     return;
   }
@@ -196,6 +248,7 @@ const handleAnswer = (question, choice, button, card, feedbackEl, feedbackStatus
   feedbackStatus.textContent = isCorrect ? 'Doğru!' : 'Yanlış cevap';
   feedbackText.textContent =
     question.explanation || 'Bu soru için açıklama henüz eklenmemiş.';
+  revealChip();
 
   state.answers.set(question.id, {
     status: isCorrect ? 'correct' : 'incorrect',
