@@ -1,10 +1,16 @@
+const ANSWER_STORAGE_KEY = 'bayexam-answers';
+const SHUFFLE_STORAGE_KEY = 'bayexam-shuffle';
+
 const questionListEl = document.getElementById('questionList');
 const correctCountEl = document.getElementById('correctCount');
 const wrongCountEl = document.getElementById('wrongCount');
 const answeredCountEl = document.getElementById('answeredCount');
 const totalCountEl = document.getElementById('totalCount');
+const accuracyLabelEl = document.getElementById('accuracyLabel');
+const accuracyProgressEl = document.getElementById('accuracyProgress');
 const searchInput = document.getElementById('searchInput');
 const sourceFilter = document.getElementById('sourceFilter');
+const shuffleToggleBtn = document.getElementById('shuffleToggle');
 const themeToggleBtn = document.getElementById('themeToggle');
 const resetBtn = document.getElementById('resetProgress');
 const template = document.getElementById('questionTemplate');
@@ -17,7 +23,84 @@ const state = {
     correct: 0,
     incorrect: 0,
   },
+  shuffle: false,
 };
+
+const escapeHtml = (value = '') =>
+  value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+
+const wrapBullets = (html) => {
+  if (!html.includes('•')) return html;
+  const [prefix, ...rest] = html.split('•');
+  const items = rest.map((item) => item.trim()).filter(Boolean);
+  if (!items.length) return html;
+  const list = `<ul>${items.map((item) => `<li>${item}</li>`).join('')}</ul>`;
+  const trimmedPrefix = prefix.trim();
+  return `${trimmedPrefix ? `<p>${trimmedPrefix}</p>` : ''}${list}`;
+};
+
+const formatExplanationHTML = (text) => {
+  if (!text) return '';
+  let html = escapeHtml(text);
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/__(.+?)__/g, '<em>$1</em>');
+  html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+  html = html.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noreferrer">$1</a>');
+  html = html.replace(/\n+/g, '<br />');
+  return wrapBullets(html);
+};
+
+const loadStoredAnswers = () => {
+  try {
+    const raw = JSON.parse(localStorage.getItem(ANSWER_STORAGE_KEY) || '{}');
+    return new Map(
+      Object.entries(raw).map(([key, value]) => [Number(key), value]),
+    );
+  } catch (error) {
+    console.warn('Cevap verileri yüklenemedi, sıfırdan başlatılıyor.', error);
+    return new Map();
+  }
+};
+
+const persistAnswers = () => {
+  const serializable = {};
+  state.answers.forEach((value, key) => {
+    serializable[key] = value;
+  });
+  localStorage.setItem(ANSWER_STORAGE_KEY, JSON.stringify(serializable));
+};
+
+const clearStoredAnswers = () => {
+  localStorage.removeItem(ANSWER_STORAGE_KEY);
+};
+
+const syncTotalsFromAnswers = () => {
+  state.totals.correct = 0;
+  state.totals.incorrect = 0;
+  state.answers.forEach((value) => {
+    if (value.status === 'correct') {
+      state.totals.correct += 1;
+    } else if (value.status === 'incorrect') {
+      state.totals.incorrect += 1;
+    }
+  });
+};
+
+const refreshShuffleKeys = () => {
+  state.questions.forEach((question, index) => {
+    question.originalIndex = question.originalIndex ?? index;
+    question.shuffleKey = Math.random();
+  });
+};
+
+state.answers = loadStoredAnswers();
+syncTotalsFromAnswers();
+state.shuffle = localStorage.getItem(SHUFFLE_STORAGE_KEY) === 'true';
 
 const normalize = (value) =>
   (value || '')
@@ -77,7 +160,36 @@ const updateScoreboard = () => {
   wrongCountEl.textContent = state.totals.incorrect;
   answeredCountEl.textContent = state.answers.size;
   totalCountEl.textContent = state.questions.length;
+
+  const answered = state.answers.size;
+  const accuracy = answered ? Math.round((state.totals.correct / answered) * 100) : 0;
+  if (accuracyLabelEl) {
+    accuracyLabelEl.textContent = `${accuracy}%`;
+  }
+  if (accuracyProgressEl) {
+    accuracyProgressEl.style.width = `${accuracy}%`;
+  }
+
   updateCardMetrics();
+};
+
+const updateShuffleToggle = () => {
+  if (!shuffleToggleBtn) return;
+  shuffleToggleBtn.setAttribute('aria-pressed', String(state.shuffle));
+  const label = shuffleToggleBtn.querySelector('.shuffle-label');
+  if (label) {
+    label.textContent = state.shuffle ? 'Karışık sıra açık' : 'Sırayı karıştır';
+  }
+};
+
+const toggleShuffle = () => {
+  state.shuffle = !state.shuffle;
+  localStorage.setItem(SHUFFLE_STORAGE_KEY, String(state.shuffle));
+  if (state.shuffle) {
+    refreshShuffleKeys();
+  }
+  updateShuffleToggle();
+  applyFilters();
 };
 
 const formatSourceLabel = (fileName) => {
@@ -115,6 +227,7 @@ const applyStoredAnswer = (
         : normalize(storedAnswer.choice.text) === normalize(btnChoice.text));
     btn.classList.toggle('is-correct', btnIsCorrect);
     btn.classList.toggle('is-incorrect', !btnIsCorrect && selectionMatches);
+    btn.setAttribute('aria-checked', selectionMatches ? 'true' : 'false');
     btn.disabled = true;
   });
 
@@ -122,8 +235,10 @@ const applyStoredAnswer = (
   feedbackEl.classList.toggle('success', storedAnswer.status === 'correct');
   feedbackEl.classList.toggle('error', storedAnswer.status !== 'correct');
   feedbackStatus.textContent = storedAnswer.status === 'correct' ? 'Doğru!' : 'Yanlış cevap';
-  feedbackText.textContent =
-    question.explanation || 'Bu soru için açıklama henüz eklenmemiş.';
+  const explanationHtml =
+    formatExplanationHTML(question.explanation) ||
+    formatExplanationHTML('Bu soru için açıklama henüz eklenmemiş.');
+  feedbackText.innerHTML = explanationHtml;
   revealChip();
 };
 
@@ -140,15 +255,22 @@ const renderQuestions = () => {
     const feedbackText = card.querySelector('.feedback-text');
     const chipEl = card.querySelector('.card-metrics');
     const revealChip = () => {
+      if (!chipEl) return;
       chipEl.hidden = false;
       chipEl.textContent = formatScoreChip();
     };
-    chipEl.textContent = formatScoreChip();
+    if (chipEl) {
+      chipEl.textContent = formatScoreChip();
+    }
 
     card.dataset.questionId = question.id;
     cardKicker.textContent = `Soru ${idx + 1}`;
     cardTitle.textContent = question.question;
     sourceBadge.textContent = formatSourceLabel(question.source);
+    optionsEl.setAttribute(
+      'aria-label',
+      `${question.number || idx + 1}. soru seçenekleri`,
+    );
 
     const choices = question.renderOptions;
     choices.forEach((choice) => {
@@ -158,6 +280,9 @@ const renderQuestions = () => {
       btn.textContent = choice.text;
       btn.dataset.optionLabel = choice.label || '';
       btn.dataset.optionText = choice.text;
+       btn.setAttribute('role', 'radio');
+       btn.setAttribute('aria-checked', 'false');
+       btn.setAttribute('tabindex', '0');
       btn.addEventListener('click', () =>
         handleAnswer(
           question,
@@ -196,12 +321,18 @@ const applyFilters = () => {
   const term = normalize(searchInput.value);
   const source = sourceFilter.value;
 
-  state.renderedQuestions = state.questions.filter((question) => {
+  let filtered = state.questions.filter((question) => {
     const matchesSearch = !term || normalize(question.question).includes(term);
     const matchesSource = !source || question.source === source;
     return matchesSearch && matchesSource;
   });
 
+  const sorter = state.shuffle
+    ? (a, b) => a.shuffleKey - b.shuffleKey
+    : (a, b) => a.originalIndex - b.originalIndex;
+  filtered = [...filtered].sort(sorter);
+
+  state.renderedQuestions = filtered;
   renderQuestions();
 };
 
@@ -209,6 +340,7 @@ const resetProgress = () => {
   state.answers.clear();
   state.totals.correct = 0;
   state.totals.incorrect = 0;
+  clearStoredAnswers();
   updateScoreboard();
   applyFilters();
 };
@@ -239,6 +371,7 @@ const handleAnswer = (
     const btnIsCorrect = isCorrectChoice(btnChoice, question.answer);
     btn.classList.toggle('is-correct', btnIsCorrect);
     btn.classList.toggle('is-incorrect', !btnIsCorrect && btn === button);
+    btn.setAttribute('aria-checked', btn === button ? 'true' : 'false');
     btn.disabled = true;
   });
 
@@ -246,8 +379,10 @@ const handleAnswer = (
   feedbackEl.classList.toggle('success', isCorrect);
   feedbackEl.classList.toggle('error', !isCorrect);
   feedbackStatus.textContent = isCorrect ? 'Doğru!' : 'Yanlış cevap';
-  feedbackText.textContent =
-    question.explanation || 'Bu soru için açıklama henüz eklenmemiş.';
+  const explanationHtml =
+    formatExplanationHTML(question.explanation) ||
+    formatExplanationHTML('Bu soru için açıklama henüz eklenmemiş.');
+  feedbackText.innerHTML = explanationHtml;
   revealChip();
 
   state.answers.set(question.id, {
@@ -260,6 +395,7 @@ const handleAnswer = (
     state.totals.incorrect += 1;
   }
 
+  persistAnswers();
   updateScoreboard();
 };
 
@@ -302,11 +438,24 @@ const bootstrap = async () => {
     const data = await response.json();
     const answersPool = data.map((q) => q.answer.text).filter(Boolean);
 
-    state.questions = data.map((question) => ({
+    state.questions = data.map((question, index) => ({
       ...question,
+      originalIndex: index,
+      shuffleKey: Math.random(),
       renderOptions: buildOptionSet(question, answersPool),
     }));
-    state.renderedQuestions = [...state.questions];
+    const validIds = new Set(state.questions.map((question) => question.id));
+    let hasRemovedStaleAnswer = false;
+    state.answers.forEach((_, key) => {
+      if (!validIds.has(key)) {
+        state.answers.delete(key);
+        hasRemovedStaleAnswer = true;
+      }
+    });
+    if (hasRemovedStaleAnswer) {
+      syncTotalsFromAnswers();
+      persistAnswers();
+    }
     populateSourceFilter(state.questions);
     applyFilters();
     updateScoreboard();
@@ -322,7 +471,11 @@ searchInput.addEventListener('input', () => applyFilters());
 sourceFilter.addEventListener('change', () => applyFilters());
 resetBtn.addEventListener('click', () => resetProgress());
 themeToggleBtn.addEventListener('click', () => toggleTheme());
+if (shuffleToggleBtn) {
+  shuffleToggleBtn.addEventListener('click', () => toggleShuffle());
+}
 
 initTheme();
+updateShuffleToggle();
 bootstrap();
 

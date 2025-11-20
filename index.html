@@ -11,8 +11,8 @@
       <div class="brand">
         <div class="brand-icon">🎯</div>
         <div>
-          <p class="brand-kicker">Github.io uyumlu çalışma</p>
-          <h1>BayExam soru bankası</h1>
+          <p class="brand-kicker">Sınav hazırlık için</p>
+          <h1>Soru bankası</h1>
         </div>
       </div>
       <div class="header-actions">
@@ -44,6 +44,15 @@
           <p>Cevaplanan soru: <span id="answeredCount">0</span></p>
           <p>Toplam soru: <span id="totalCount">0</span></p>
         </div>
+        <div class="score-progress">
+          <div class="progress-head">
+            <span>Doğruluk</span>
+            <span id="accuracyLabel">0%</span>
+          </div>
+          <div class="progress-track" role="img" aria-label="Doğruluk ilerleme çubuğu">
+            <div id="accuracyProgress" class="progress-fill" style="width: 0%"></div>
+          </div>
+        </div>
       </aside>
 
       <section class="question-area">
@@ -60,6 +69,15 @@
             <select id="sourceFilter" aria-label="Kaynağa göre filtrele">
               <option value="">Tüm kaynaklar</option>
             </select>
+            <button
+              id="shuffleToggle"
+              class="ghost-btn shuffle-btn"
+              type="button"
+              aria-pressed="false"
+            >
+              <span class="shuffle-icon">🔀</span>
+              <span class="shuffle-label">Sırayı karıştır</span>
+            </button>
           </div>
         </div>
         <div id="questionList" class="question-list" aria-live="polite" aria-busy="true"></div>
@@ -78,7 +96,7 @@
             <span class="card-metrics" hidden aria-live="polite" aria-label="Güncel skor chipi"></span>
           </div>
         </header>
-        <div class="options"></div>
+        <div class="options" role="radiogroup" aria-label="Cevap seçenekleri"></div>
         <div class="feedback" hidden>
           <p class="feedback-status"></p>
           <p class="feedback-text"></p>
