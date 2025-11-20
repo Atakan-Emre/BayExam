@@ -1,0 +1,535 @@
+S-1)
+Aşağıdakilerden hangisi bilimin özelliklerinden biri değildir? a) Bilim, bilgi üreten bir etkinliktir b) Bilim sistematik öğrenme ve araştırma sanatıdır c) Bilim farklı konudaki kavramlar bütünüdür d) Bilim bir düşünce yöntemidir
+Doğru cevap: c
+
+S-2)
+Aşağıdakilerden hangisi bilimin nitelikleri arasında sayılmaz? a) Fonksiyoneldir b) Sübjektiftir c) Pozitiftir d) Sistemlidir
+Doğru cevap: b
+
+S-3)
+Aşağıdakilerden hangisi bilgi edinme yollarından birisi değildir? a) Geleneksel yaklaşımla bilgi edinme b) Bilim yoluyla bilgi edinme c) Mistiksel yaklaşım ile bilgi edinme d) Temel kabullerle bilgi edinme
+Doğru cevap: d
+
+S-4)
+Aşağıdakilerden hangisi otorite yoluyla bilgi edinmenin dezavantajlarından biri değildir? a) Basit olması b) Gerçek kişi olmaması c) Kasıtlı yönlendirme d) Menfaat duygusu
+Doğru cevap: a
+
+S-5)
+Aşağıdakilerden hangisi bilimin amacı ve konusunun özellikleri arasında sayılmaz? a) Anlama / Betimleme b) Açıklama c) Yordama / Tahmin d) Sınanabilir / Test edilebilir
+Doğru cevap: d
+
+S-6)
+Aşağıdakilerden hangisi bilimselliğin ölçütlerinden biri değildir? a) Gözlenebilir b) Ölçülebilir c) İletilebilir d) Kontrol
+Doğru cevap: d
+
+S-7)
+Aşağıdakilerden hangisi kuram kavramının tanımıdır? a) Araştırma sonuçlarının genelleneceği hedef kitle b) Belirli amaçlar için toplanan bilgilerdir c) Olguları oluşturan vakalardır d) Bilim adamlarının oluşturduğu zihinsel önermeler paketidir
+Doğru cevap: d
+
+S-8)
+Araştırma sonuçlarının genelleneceği hedef kitle nüfusunu ifade eder. Bu tanım aşağıdakilerden hangisidir? a) Evren b) Etik c) Veri d) Olay
+Doğru cevap: a
+
+S-9)
+Aşağıdakilerden hangisi araştırmanın bazı temel özellikleri arasında sayılmaz? a) Etik kurallarına uygun olmalıdır b) Bilgi birikimimizle yapılabilir olmalıdır c) Teknik donanım ile yapılabilir olmalıdır d) Sübjektif kurallara uygun olmalıdır
+Doğru cevap: d
+
+S-10)
+Muhtelif özelliklere göre araştırma yöntemlerinden biridir: a) Saha b) Betimsel c) Laboratuvar d) Ar-Ge
+Doğru cevap: b
+
+S-11)
+Nitelikli bir araştırmada olması gereken özelliklerden biri değildir: a) Ölçütlü düşünebilmek b) Kuşkucu ve açık fikirli olmak c) Kanıt için kararı erteleyebilmek d) Düşünce ve gözlemlerinde bağımlı kalabilmek
+Doğru cevap: d
+
+S-12)
+Aksiyon–eylem, Ar-Ge ve değerlendirme araştırmaları hangi sınıftadır? a) Amaca göre araştırma b) Yapıldığı yere göre araştırma c) Yönteme göre araştırma d) Uygulamaya göre araştırma
+Doğru cevap: d
+
+S-13)
+Aşağıdakilerden hangisi uygulamalı araştırma grubunda yer alır? a) İyileştirme b) Ayrıntılı saptama c) Açıklama d) Derleme
+Doğru cevap: a
+
+S-14)
+Alan araştırmalarında en çok kullanılan veri toplama tekniği aşağıdakilerden hangisidir? a) Anket b) Gözlem c) Laboratuvar d) Mülakat
+Doğru cevap: a
+
+S-15)
+Aşağıdakilerden hangisi bilim ve araştırmanın temel nitelikleri arasında sayılmaz? a) Objektiflik b) İzafilik c) Gerçekleştirme d) Kontrol
+Doğru cevap: b
+
+S-16)
+Aşağıdakilerden hangisi araştırmanın temel kavramları arasında yer alır? a) Olay b) Algı c) Düşünce d) Fikir
+Doğru cevap: a
+
+S-17)
+Aşağıdakilerden hangisi “olgu” kavramının tanımıdır? a) Doğrudan gözlenebilen durumlardır b) Bilimsel teorilerin öncülleridir c) Araştırmacı tarafından geliştirilen önermelerdir d) Varsayım içeren düşünsel yapılardır
+Doğru cevap: a
+
+S-18)
+Hipotez ile ilgili aşağıdakilerden hangisi yanlıştır? a) Test edilebilir olmalıdır b) Deneysel araştırmalarda zorunludur c) Mutlaka doğru olmak zorundadır d) Gözlem ve mantığa dayanmalıdır
+Doğru cevap: c
+
+S-19)
+Aşağıdakilerden hangisi nitel araştırmalarda kullanılan veri toplama tekniklerinden biridir? a) Likert ölçek b) Derinlemesine görüşme c) Çoktan seçmeli test d) Kapsam geçerliliği testi
+Doğru cevap: b
+
+S-20)
+Nicel araştırmalarda en önemli avantajlardan biri aşağıdakilerden hangisidir? a) Küçük örneklem olması b) Sonuçların genellenebilir olması c) Yorumlamanın öznel olması d) Veri toplamanın uzun sürmesi
+Doğru cevap: b
+
+S-21)
+Aşağıdakilerden hangisi “betimsel araştırmanın” amaçlarından biri değildir? a) Mevcut durumu tanımlamak b) Olayları neden–sonuç ilişkisiyle açıklamak c) Mevcut verileri sınıflandırmak d) Mevcut durumu raporlamak
+Doğru cevap: b
+
+S-22)
+Aşağıdakilerden hangisi tarihsel araştırmada kullanılan temel tekniklerden biridir? a) Arşiv taraması b) Deney c) Anket d) Ölçme aracı hazırlama
+Doğru cevap: a
+
+S-23)
+Aşağıdaki ölçek türlerinden hangisinde “sıfır noktası gerçek değildir”? a) Oranlı ölçek b) Aralıklı ölçek c) Sınıflayıcı ölçek d) Sıralayıcı ölçek
+Doğru cevap: b
+
+S-24)
+Aşağıdakilerden hangisi “sınıflayıcı (nominal) ölçek” örneğidir? a) Yarış derecesi b) Kan grubu c) Boy uzunluğu d) Sıcaklık (°C)
+Doğru cevap: b
+
+S-25)
+Evreni en iyi temsil etmesi beklenen daha küçük grup aşağıdakilerden hangisidir? a) Veri seti b) Örneklem c) Denek d) Parametre
+Doğru cevap: b
+
+S-26)
+Aşağıdakilerden hangisi araştırmada “bağımlı değişkendir”? a) Öğrencilere verilen öğretim yöntemi b) Öğrencilerin sınav başarısı c) Öğretmenin deneyimi d) Ders materyalleri
+Doğru cevap: b
+
+S-27)
+Parametrik testlerin kullanılabilmesi için hangi koşul sağlanmalıdır? a) Veri nominal olmalıdır b) Normal dağılım sağlanmalıdır c) Örneklem küçültülmelidir d) Değişken nitel olmalıdır
+Doğru cevap: b
+
+S-28)
+Aşağıdakilerden hangisi “non-parametrik test” örneğidir? a) t-testi b) ANOVA c) Mann-Whitney U d) Regresyon
+Doğru cevap: c
+
+S-29)
+Standart sapma ile ilgili aşağıdaki ifadelerden hangisi doğrudur? a) Ortalama ile hiçbir ilişkisi yoktur b) Dağılımın yaygınlığını gösterir c) Mutlaka medyandan büyüktür d) Uç değerlerden etkilenmez
+Doğru cevap: b
+
+S-30)
+Aşağıdakilerden hangisi bilimsel araştırmalarda yapılan etik ihlallerden biridir? a) Kaynak göstermek b) Benzerlik oranını kontrol etmek c) Veri uydurmak d) Verileri doğru analiz etmek
+Doğru cevap: c
+
+S-31)
+Aşağıdakilerden hangisi konunun sınırlandırılması ile ilgili özellikler arasında sayılmaz? a) Zaman b) Mekan c) Önem d) Olgu
+Doğru cevap: d
+
+S-32)
+Aşağıdakilerden hangisi nitel araştırmada sorulan sorulardan biri değildir? a) Niçin b) Nasıl c) Ne şekilde d) Ne kadar
+Doğru cevap: d
+
+S-33)
+Aşağıdakilerden hangisi nitel araştırma yöntemleri arasında sayılmaz? a) Fenomenoloji b) Etnografi c) Vaka analizi d) Survey
+Doğru cevap: d
+
+S-34)
+Aşağıdakilerden hangisi tümdengelim özelliklerinden biri sayılmaz? a) Kuram, sınama, tahmin, hipotez sınama b) İlişkili değişkenler, büyük örneklem, testlerle veri toplama c) Temel olarak istatistiksel ve sayısaldır d) Tüm bağlamı inceleme, katılımcılarla yüz yüze etkileşim
+Doğru cevap: d
+
+S-35)
+Nitel bir araştırmanın yöntem bölümünde yer alması gereken özellik aşağıdakilerden hangisidir? a) Önem b) Sınırlılıklar c) Öneriler d) Evren ve örneklem
+Doğru cevap: d
+
+S-36)
+Evren ve örneklerin belirlenmesi hangi bölümün kapsamındadır? a) Önem b) İlgi c) Laboratuvar d) Orijinallik e) Bilimsel yeterlilik
+Doğru cevap: c
+
+S-37)
+Aşağıdakilerden hangisi literatür taramasının kazanımlarındandır? a) Genel kaynakların öğrenilmesi b) Araştırmacının problemi yeniden gözden geçirmesi c) Daha fazla araştırma gerektiren soruların ortaya çıkması d) Raporun yazılması e) Verilerin analizi
+Doğru cevap: b
+
+S-38)
+Doktora tezleri kaç sayfa ile sınırlıdır? a) 200 b) 400 c) 300 d) Sayfa sınırlaması yoktur e) 180
+Doğru cevap: d
+
+S-39)
+Fen Bilimleri Enstitüsü tez benzerlik incelemelerinde Turnitin için internet kaynaklarının benzerliği kaç olmalıdır? a) <%5 b) <%20 c) <%15 d) <%10 e) <%25
+Doğru cevap: d
+
+S-40)
+Kaynaklara ulaşmada izlenecek erişim yollarından değildir: a) Danışmana danışılması b) İnternette kaynak taraması c) Genel kaynakların öğrenilmesi d) Kütüphanelerde ilgili kuralların öğrenilmesi e) Araştırma problemiyle doğrudan ilgili olması
+Doğru cevap: e
+
+S-41)
+Bir araştırma konusu belirlenirken hangisine yer verilmez? a) Önem b) İlgi c) Laboratuvar d) Orijinallik e) Bilimsel yeterlilik
+Doğru cevap: c
+
+S-42)
+Temel araştırmalarda “bilgi, bilginin içindedir” anlayışı görülür. Buna göre aşağıdakilerden hangisi temel araştırma özelliğinde değildir? a) Teori bulma b) Yeni teoriler geliştirme c) Olguları açıklama d) Mevcut bilgiye yenisini katma e) Problemin deneysel bulgularla ispatlanması
+Doğru cevap: e
+
+S-43)
+Aşağıdakilerden hangisi bilimsel tutum ve davranış olarak kabul görmez? a) Bağıntılı düşünebilmek b) Kuşkucu ve açık fikirli olmak c) Çalışmalarında sabırlı ve özenli olmak d) Karşı görüşlerde mantık arayabilmek e) Düşünce ve gözlemlerinde bağımlı olmak
+Doğru cevap: e
+
+S-44)
+Literatür taramasında aşağıdaki sorulardan hangisine yanıt aranmaz? a) Temel tartışmalar nelerdir? b) Alandaki önemli kaynaklar nelerdir? c) Önemli kuramlar ve kavramlar nelerdir? d) Yetersiz araştırmalar nelerdir? e) Gelecekte yapılması planlanan taslak çalışmalar nelerdir?
+Doğru cevap: e
+
+S-45)
+Aşağıdakilerden hangisi araştırma konusunun bilimsel gerekçelerinden biri değildir? a) Çok çalışılmış sahalar zengin kaynak sağlar b) Kaynaklar nitelik ayrımı yapılmadan değerlendirilmelidir c) En son yapılan çalışmalardan başlamalıdır d) Kabarık kaynakça kalite göstergesi değildir e) Fazla inceleme kalite göstergesi değildir
+Doğru cevap: b
+
+S-46)
+Benzin fiyatları 10 yıl boyunca 1.5; 1.7; 1.9; 2.0; 2.3; 2.7; 2.9; 3.1; 3.4; 3.5 kat artmıştır. Bu artış oranlarının 10 yıllık ortalamasını bulmak için hangi yöntem kullanılır? a) Hiçbiri b) Aritmetik ortalama c) Standart sapma d) Ağırlıklı ortalama e) Geometrik ortalama
+Doğru cevap: e
+
+S-47)
+Bir araştırmada elde edilen veri ilk olarak hangi işleme tabi tutulmalıdır? a) Veri kodlama b) Veri çoğaltma c) Veri düzenleme d) Veri analizi e) Veri güncelleme
+Doğru cevap: a
+
+S-48)
+Bir kişinin eserinde başkasının ifadelerini kaynak göstermeden kullanmasına ne denir? a) İntihal b) Dilimleme c) Atıf d) Bölme e) Alıntı
+Doğru cevap: a
+
+S-49)
+Aşağıdakilerden hangisi literatür tarama sistemlerinden biri değildir? a) Tezler b) Belgelikler c) Dergiler d) Alıntılar e) Uzmanlar
+Doğru cevap: d
+
+S-50)
+Parametrik olmayan test hangi durumda kullanılır? a) Örneklem ≥ 30 b) Sayısal yerine sıralama verisi varsa c) Gözlemler bağımsızsa d) Uç değerler atılacaksa e) Hepsi
+Doğru cevap: b
+
+S-51)
+Bir araştırmada verilerin analizinde kullanılan testler kaç gruba ayrılır? a) 1 b) 2 c) 3 d) 4 e) 5
+Doğru cevap: b (parametrik – parametrik olmayan)
+
+S-52)
+Araştırmada verilerin analizi ve bulguların yorumlanması hangi bölümde yapılır? a) Giriş b) Yöntem c) Bulgular d) Tartışma e) Özet
+Doğru cevap: c
+
+S-53)
+Aşağıdakilerden hangisi bilimsel kaynak türlerinden biri değildir? a) Makaleler b) Tezler c) Resmî raporlar d) Sözlükler e) Popüler magazin içerikleri
+Doğru cevap: e
+
+S-54)
+Aşağıdaki hangi durumda arşiv taraması gerekir? a) Sahada veri toplanacaksa b) Deney yapılacaksa c) Tarihsel kaynak incelenecekse d) Nicel veri kullanılacaksa e) Mülakat yapılacaksa
+Doğru cevap: c
+
+S-55)
+Aşağıdakilerden hangisi bilimsel araştırmalarda kullanılan veri toplama tekniklerinden değildir? a) Mülakat b) Anket c) Deney d) Test e) Tahmin
+Doğru cevap: e
+
+S-56)
+Aşağıdakilerden hangisi bilimsel araştırmanın temel aşamalarından biri değildir? a) Problem belirleme b) Literatür tarama c) Yöntem belirleme d) Bulguları yorumlama e) Hipotezleri sonuçlarla değiştirme
+Doğru cevap: e
+
+S-57)
+Verilerin analizinde kullanılan değişken türlerinden biri değildir: a) Sürekli değişken b) Kesikli değişken c) Nitel değişken d) Ölçülmemiş değişken e) Nicel değişken
+Doğru cevap: d
+
+S-58)
+“Evreni temsil eden daha küçük grup” tanımı hangisidir? a) Parametre b) Veri c) Örneklem d) Değişken e) Sınama grubu
+Doğru cevap: c
+
+S-59)
+Aşağıdakilerden hangisi bilimsel tutumlardan biri değildir? a) Kuşkuculuk b) Tutarlılık c) Tarafsızlık d) Sabırsızlık e) Dürüstlük
+Doğru cevap: d
+
+S-60)
+Verilerin gruplanması aşağıdaki sürecin bir aşamasıdır: a) Açımlama b) Düzenleme c) Kodlama d) Değerlendirme e) Raporlama
+Doğru cevap: c
+
+
+
+S-61)
+Bir veri grubunun en büyük değeri ile en küçük değeri arasındaki fark nedir? a) Varyans b) Standart sapma c) Değişim aralığı d) Aritmetik ortalama e) Medyan
+Doğru cevap: c
+
+S-62)
+Aşağıdakilerden hangisi bilimsel yöntemin bir aşaması değildir? a) Problem belirleme b) Yöntem belirleme c) Veri toplama d) Yorum yapma e) Kişisel yargı oluşturma
+Doğru cevap: e
+
+S-63)
+Aşağıdakilerden hangisi bilimsel araştırmanın aşamalarından biri değildir? a) Problemi tanımlama b) Literatürü tarama c) Deneme yanılma d) Verileri analiz etme e) Sonuç yazma
+Doğru cevap: c
+
+S-64)
+Aşağıdakilerden hangisi “ölçme sonuçlarının tutarlı olması”nı ifade eder? a) Geçerlik b) Güvenirlik c) Nesnellik d) Duyarlılık e) Dağılım
+Doğru cevap: b
+
+S-65)
+Aşağıdakilerden hangisi hipotezin özelliklerinden değildir? a) Test edilebilir olması b) Açık ve anlaşılır olması c) Mutlaka doğru olması d) Ölçülebilir olması e) Varsayıma dayanması
+Doğru cevap: c
+
+S-66)
+Aşağıdakilerden hangisi “sıralayıcı (ordinal) ölçek” örneğidir? a) Kan grupları b) Boy uzunlukları c) Yarış derecesi d) Sıcaklık (°C) e) Doğum yılı
+Doğru cevap: c
+
+S-67)
+Aşağıdakilerden hangisi nitel araştırmanın özelliklerinden biri değildir? a) Doğal ortamda yapılır b) Derinlemesine bilgi sağlar c) Sayısal analiz gerektirir d) Yorumlayıcıdır e) Esnektir
+Doğru cevap: c
+
+S-68)
+Aşağıdakilerden hangisi deneysel araştırmanın bir özelliğidir? a) Manipülasyon vardır b) Yalnız gözlem yapılır c) Doğal ortamda yürütülür d) Teorik açıklama yapılmaz e) Sayısal veri kullanılmaz
+Doğru cevap: a
+
+S-69)
+Korelasyon katsayısı r = –0.90 ise ilişki nasıldır? a) Çok zayıf b) Zayıf c) Orta d) Kuvvetli ve negatif e) Hiç ilişki yok
+Doğru cevap: d
+
+S-70)
+Aşağıdakilerden hangisi ölçme hatası türlerinden biri değildir? a) Sistematik hata b) Sabit hata c) Rastgele hata d) Alet hatası e) Kavramsal hata
+Doğru cevap: e
+
+S-71)
+Araştırma raporunda “özet” bölümü aşağıdaki hangi amaçla yazılır? a) Bulguları detaylandırmak b) Hipotezleri açıklamak c) Araştırmanın tümünü kısa şekilde sunmak d) Sadece sonuçları yazmak e) Sadece kaynakları göstermek
+Doğru cevap: c
+
+S-72)
+Aşağıdaki veri türlerinden hangisi süreklidir? a) Cinsiyet b) Çocuk sayısı c) Boy uzunluğu d) Kan grubu e) Sınıf derecesi
+Doğru cevap: c
+
+S-73)
+Aşağıdakilerden hangisi parametrik testtir? a) Mann-Whitney U b) Wilcoxon c) Kruskal-Wallis d) Bağımsız gruplar t-testi e) Ki-kare
+Doğru cevap: d
+
+S-74)
+Araştırmacı değişkenler arasında nedensel ilişki arıyorsa hangi yöntemi kullanmalıdır? a) Betimsel b) Deneysel c) Survey d) Tarihsel e) İçerik analizi
+Doğru cevap: b
+
+S-75)
+Araştırma problemi belirlenirken aşağıdakilerden hangisi dikkate alınmaz? a) Araştırmacının ilgisi b) Konunun önemi c) Veri toplanabilirliği d) Araştırmacının keyfi kararları e) Bilimsel yeterlilik
+Doğru cevap: d
+
+
+S-76)
+Aşağıdakilerden hangisi bilimsel araştırmanın amaçlarından biri değildir? a) Betimlemek b) Açıklamak c) Yordamak d) Yanlışlamak e) Kişisel görüşü ispatlamak
+Doğru cevap: e
+
+S-77)
+Aşağıdakilerden hangisi veri toplama araçlarından biri değildir? a) Anket b) Gözlem formu c) Deney düzeneği d) Duyum e) Test
+Doğru cevap: d
+
+S-78)
+Bir araştırmada hipotezler hangi bölümde test edilir? a) Giriş b) Yöntem c) Bulgular d) Tartışma e) Özet
+Doğru cevap: c
+
+S-79)
+Aşağıdakilerden hangisi deneysel araştırmanın bir öğesi değildir? a) Manipülasyon b) Kontrol grubu c) Bağımlı değişken d) Denek kaybı e) İçerik analizi
+Doğru cevap: e
+
+S-80)
+Bir veri setinde aşırı uç değerler varsa hangi merkezî eğilim ölçüsü en uygunudur? a) Aritmetik ortalama b) Geometrik ortalama c) Medyan d) Mod e) Harmonik ortalama
+Doğru cevap: c
+
+S-81)
+Aşağıdakilerden hangisi araştırma raporunun temel bölümlerinden biri değildir? a) Giriş b) Yöntem c) Bulgular d) Sonuç ve öneriler e) Grafik tasarım
+Doğru cevap: e
+
+S-82)
+Fen Bilimleri Enstitüsü tez savunma jürisi kaç kişiden oluşur? a) 3 b) 4 c) 5 d) 6 e) 7
+Doğru cevap: c
+
+S-83)
+Aşağıdakilerden hangisi örnekleme hatası değildir? a) Küçük örneklem seçmek b) Yanlış örneklem yöntemi c) Örneklemin evreni temsil etmemesi d) Çalışmada denek kaybı e) Eksik örneklem seçimi
+Doğru cevap: d
+
+S-84)
+Likert tipi ölçekler hangi veri türünü üretir? a) Nominal b) Ordinal c) Aralıklı d) Oranlı e) Süreksiz
+Doğru cevap: b
+
+S-85)
+Aşağıdakilerden hangisi betimsel istatistiklerden biri değildir? a) Aritmetik ortalama b) Mod c) Standart sapma d) Hipotez testi e) Medyan
+Doğru cevap: d
+
+S-86)
+Bir araştırmada hangi durum hipotezin reddedilmesine yol açar? a) p < 0.05 b) p > 0.05 c) Ortalama farkı yoksa d) Varyans düşükse e) Mod yüksekse
+Doğru cevap: a
+
+S-87)
+Aşağıdaki hangi model neden-sonuç ilişkisi kurar? a) Tarihsel b) Betimsel c) Korelasyonel d) Deneysel e) Etnografi
+Doğru cevap: d
+
+S-88)
+Nitel araştırmada araştırmacının temel rolü nedir? a) Manipülasyon yapmak b) Veriyi sayısallaştırmak c) Yorumlayıcı olmak d) Katı prosedür uygulamak e) Sadece gözlem yapmak
+Doğru cevap: c
+
+S-89)
+Aşağıdakilerden hangisi birincil kaynak değildir? a) Makale b) Tez c) Laboratuvar notları d) Ansiklopedi e) Resmî rapor
+Doğru cevap: d
+
+S-90)
+Araştırmada kullanılan ölçme aracının farklı kişiler tarafından aynı sonucu vermesi hangi özelliktir? a) Geçerlik b) Nesnellik c) Güvenirlik d) Duyarlılık e) Homojenlik
+Doğru cevap: b
+
+
+S-91)
+Aşağıdakilerden hangisi araştırma probleminin taşıması gereken özelliklerden değildir? a) Açık olmalıdır b) Test edilebilir olmalıdır c) Çok geniş olmalıdır d) Ölçülebilir olmalıdır e) Anlaşılır olmalıdır
+Doğru cevap: c
+
+S-92)
+Bir veri grubunda en çok tekrar eden değere ne ad verilir? a) Medyan b) Aritmetik ortalama c) Mod d) Varyans e) Standart sapma
+Doğru cevap: c
+
+S-93)
+Aşağıdaki ölçek türlerinden hangisi eşit aralıklı ölçek örneğidir? a) Kan grubu b) Yarış derecesi c) Sıcaklık (°C) d) Boy uzunluğu e) Cinsiyet
+Doğru cevap: c
+
+S-94)
+Aşağıdakilerden hangisi bilimsel araştırma sürecinin bir parçası değildir? a) Problemin belirlenmesi b) Verilerin analizi c) Hipotezlerin test edilmesi d) Kişisel kanaatlerin eklenmesi e) Sonuçların yorumlanması
+Doğru cevap: d
+
+S-95)
+Araştırma raporunda tartışma bölümü hangi amaçla yazılır? a) Verileri kodlamak b) Bulguları yorumlamak c) Deney tasarlamak d) Hipotez yazmak e) Evreni tanımlamak
+Doğru cevap: b
+
+S-96)
+Aşağıdakilerden hangisi deneysel araştırmanın dezavantajlarından biridir? a) Kontrollü ortam b) Nedensel açıklama c) Yapay ortam d) Yüksek iç geçerlilik e) Manipülasyon yapılabilmesi
+Doğru cevap: c
+
+S-97)
+Bir araştırmada “veri referans alma”, hangi aşamanın bir parçasıdır? a) Literatür tarama b) Örneklem seçimi c) Veri toplama d) Veri düzenleme e) Veri çoğaltma
+Doğru cevap: a
+
+S-98)
+Aşağıdakilerden hangisi bilimsel etik ihlallerden biri değildir? a) Dilimleme b) Sahte veri üretme c) Veri çarpıtma d) Doğru atıf yapma e) Yanlış yönlendirme
+Doğru cevap: d
+
+S-99)
+Aşağıdakilerden hangisi parametrik testlerden biridir? a) Wilcoxon b) Kruskal-Wallis c) Mann-Whitney U d) ANOVA e) Ki-Kare
+Doğru cevap: d
+
+S-100)
+Araştırma raporunun sonunda yer alan “kaynakça” ne amaçla kullanılır? a) Yorum yapmak için b) Kaynak gösterme için c) Veri toplamak için d) Hipotez test etmek için e) Deney planlamak için
+Doğru cevap: b
+
+S-101)
+Aşağıdakilerden hangisi değişken türlerinden biri değildir? a) Nicel b) Nitel c) Sürekli d) Kesikli e) Teorik
+Doğru cevap: e
+
+S-102)
+Araştırma problemi ile ilgili yazılmış bilimsel çalışmaları taramak hangi sürecin bir parçasıdır? a) Yöntem b) Literatür c) Deney d) Örneklem e) Analiz
+Doğru cevap: b
+
+S-103)
+Aşağıdakilerden hangisi korelasyon katsayısının alabileceği bir değerdir? a) 1.50 b) –1.20 c) –0.80 d) 2.10 e) 1.80
+Doğru cevap: c
+
+S-104)
+Bir veri setinde varyans neyi gösterir? a) Merkezi eğilimi b) Dağılımın kareler ortalamasını c) En çok tekrar eden değeri d) Verinin sıralamasını e) Dağılımın yönünü
+Doğru cevap: b
+
+S-105)
+Aşağıdakilerden hangisi tümevarım yaklaşımının özelliğidir? a) Teoriden veriye gidilir b) Veri → teori oluşturulur c) Sayısal analiz yapılır d) Büyük örneklem gerektirir e) Deneysel işlem gerekir
+Doğru cevap: b
+
+
+
+S-106)
+Aşağıdakilerden hangisi araştırmanın temel amaçlarından biri değildir? a) Betimlemek b) Açıklamak c) Tahmin etmek d) Manipülasyon yapmak e) Anlamlandırmak
+Doğru cevap: d
+
+S-107)
+Aşağıdakilerden hangisi bilimde kullanılan bilgi türlerinden değildir? a) Bilimsel bilgi b) Sanatsal bilgi c) Dinsel bilgi d) Doğal bilgi e) Kişisel bilgi
+Doğru cevap: d
+
+S-108)
+Aşağıdakilerden hangisi araştırmada kullanılan örnekleme tekniklerinden biri değildir? a) Basit rasgele b) Sistematik c) Küme d) Kolayda e) Yorumlayıcı
+Doğru cevap: e
+
+S-109)
+Aşağıdakilerden hangisi bilimsel araştırmada kullanılan veri toplama yöntemlerinden değildir? a) Mülakat b) Deney c) Test d) Anket e) Tahmin yürütme
+Doğru cevap: e
+
+S-110)
+Aşağıdaki ölçek türlerinden hangisinde “sıfır noktası gerçek sıfırdır”? a) Nominal b) Ordinal c) Aralıklı d) Oranlı e) Sınıflayıcı
+Doğru cevap: d
+
+S-111)
+Aşağıdakilerden hangisi araştırma yöntemleri arasında yer almaz? a) Tarihsel b) Deneysel c) Survey d) Fenomenolojik e) Sanatsal
+Doğru cevap: e
+
+S-112)
+Bir araştırmada “hipotez” nasıl olmalıdır? a) Test edilemez b) Belirsiz c) Ölçülebilir d) Sübjektif e) Rastgele
+Doğru cevap: c
+
+S-113)
+Aşağıdaki ifadelerden hangisi nitel araştırmayı tanımlar? a) Sayısal analiz ağırlıklıdır b) Büyük örneklem gerektirir c) Doğal ortamda yapılır d) Kesin sonuçlar sunar e) Hipotez zorunludur
+Doğru cevap: c
+
+S-114)
+Aşağıdakilerden hangisi temel (kuramsal) araştırmanın özelliklerinden biri değildir? a) Teoriyi geliştirme b) Yeni bilgi üretme c) Pratik bir soruna çözüm bulma d) Bilime katkı sunma e) Kavram geliştirme
+Doğru cevap: c (Pratik çözüm → uygulamalı araştırmanın özelliğidir.)
+
+S-115)
+Aşağıdakilerden hangisi bilimsel araştırma sürecinde yer almaz? a) Problem seçme b) Hipotez kurma c) Teori yazma d) Yöntem belirleme e) Veri toplama
+Doğru cevap: c
+
+S-116)
+Aşağıdakilerden hangisi örneklem seçimine ilişkin bir sorun değildir? a) Reprezentatif olmaması b) Küçük örneklem c) Uygun olmayan yöntem d) Evreni temsil etmesi e) Yetersiz veri
+Doğru cevap: d
+
+S-117)
+Aşağıdakilerden hangisi betimsel istatistiklere örnektir? a) Regresyon b) Korelasyon c) Aritmetik ortalama d) Hipotez testi e) ANOVA
+Doğru cevap: c
+
+S-118)
+Bir araştırmada geçerlik neyi ifade eder? a) Ölçme aracının tutarlılığı b) Ölçme aracının gerçeği ölçmesi c) Dağılımın genişliği d) Ortalama farkı e) Veri toplama yöntemi
+Doğru cevap: b
+
+S-119)
+Aşağıdakilerden hangisi non-parametrik testtir? a) ANOVA b) MANOVA c) Mann-Whitney U d) t-testi e) Pearson r
+Doğru cevap: c
+
+S-120)
+Aşağıdakilerden hangisi araştırma raporunun giriş bölümünde yer almaz? a) Araştırmanın amacı b) Problemin tanımı c) Varsayımlar d) Yöntem sonuçları e) Sınırlılıklar
+Doğru cevap: d
+
+
+S-121)
+Aşağıdakilerden hangisi araştırmada kullanılan değişken türlerinden biri değildir? a) Bağımlı değişken b) Bağımsız değişken c) Kontrollü değişken d) Sabit değişken e) Süreksiz değişken
+Doğru cevap: d
+
+S-122)
+Aşağıdakilerden hangisi “kontrollü değişken”i ifade eder? a) Manipüle edilen değişken b) Ölçülen değişken c) Sabit tutulan değişken d) Denek tarafından belirlenen değişken e) Rasgele atanan değişken
+Doğru cevap: c
+
+S-123)
+Bir araştırmada bağımlı değişken aşağıdakilerden hangisidir? a) Deneysel işlem b) Uygulanan yöntem c) Ölçülen sonuç d) Sabit faktör e) Manipüle edilen değişken
+Doğru cevap: c
+
+S-124)
+Aşağıdakilerden hangisi veri analizi öncesi yapılan işlemlerden biridir? a) Hipotez test etme b) Veri kodlama c) Sonuç yazma d) Öneri geliştirme e) Bulguları yorumlama
+Doğru cevap: b
+
+S-125)
+Aşağıdakilerden hangisi bilimsel araştırmanın sınırlılıklarından biri olabilir? a) Evrenin genişliği b) Kaynakların yeterliliği c) Örneklem seçimi d) Verilerin çeşitliliği e) Analiz derinliği
+Doğru cevap: c
+
+S-126)
+Aşağıdakilerden hangisi bilimsel tutum ve davranışlardan değildir? a) Tarafsızlık b) Dürüstlük c) Sabır d) Kişisel inat e) Açık fikirlilik
+Doğru cevap: d
+
+S-127)
+Aşağıdakilerden hangisi bilimsel araştırma raporunun sonuç bölümünde yer alır? a) Bulguların ham tabloları b) Araştırmanın yöntemi c) Yorumlar ve öneriler d) Problem durumu e) Veri toplama araçları
+Doğru cevap: c
+
+S-128)
+Normallik varsayımı sağlanmıyorsa iki bağımsız grup karşılaştırması için hangi test kullanılır? a) Bağımsız gruplar t-testi b) Mann-Whitney U c) ANOVA d) Pearson r e) Kruskal-Wallis
+Doğru cevap: b
+
+S-129)
+Aşağıdakilerden hangisi literatür taramasında kullanılan kaynak türlerinden biri değildir? a) Makaleler b) Tezler c) Popüler magazin içerikleri d) Bilimsel raporlar e) Akademik kitaplar
+Doğru cevap: c
+
+S-130)
+Bilimsel araştırmalarda korelasyon katsayısının alabileceği değer aralığı nedir? a) 0 ile 1 b) -1 ile 1 c) 1 ile 10 d) -10 ile 10 e) 0 ile 100
+Doğru cevap: b
+
+S-131)
+Aşağıdakilerden hangisi aralıklı ölçek örneğidir? a) Kan grubu b) Sıcaklık (°C) c) Boy uzunluğu d) Kilo e) Yaş
+Doğru cevap: b
+
+S-132)
+Aşağıdakilerden hangisi araştırmada kullanılan temel kavramlardan biri değildir? a) Olay b) Olgu c) Kuram d) Hipotez e) Tahmin
+Doğru cevap: e
+

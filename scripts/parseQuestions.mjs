@@ -4,7 +4,15 @@ import path from 'node:path';
 
 const workspace = '/Users/atakanemre/BayExam';
 const sorularDir = path.join(workspace, 'Sorular');
-const inputFiles = ['1.txt', '2.txt', '3.txt', '4.txt', '5.txt', '6.txt', '7.txt', '8.txt'];
+const inputFiles = [
+  '1.txt',
+  '2.txt',
+  '3.txt',
+  '4.txt',
+  '5.txt',
+  'baycikmis1.txt',
+  'baycikmis3.txt',
+];
 const outputFile = path.join(workspace, 'data', 'questions.json');
 
 const optionPattern = /^([A-ZÇĞİÖŞÜa-zçğıöşü])[.\)\-:]\s*(.*)$/u;
@@ -184,9 +192,10 @@ const extractAnswer = (line, options) => {
     inlineExplanation = explanationSplit.join(' ').trim();
   }
 
-  const letterMatch = cleaned.match(/^([A-ZÇĞİÖŞÜ])([\).]|$)\s*(.*)$/u);
+  const letterMatch = cleaned.match(/^([A-ZÇĞİÖŞÜa-zçğıöşü])([\).]|$)\s*(.*)$/u);
   if (letterMatch) {
-    const [, possibleLabel, punct, rest] = letterMatch;
+    const [, rawLabel, punct, rest] = letterMatch;
+    const possibleLabel = rawLabel.toUpperCase();
     const option = options.find((opt) => opt.label === possibleLabel);
     const hasExplicitPunct = punct && punct.trim().length > 0;
     if (option || hasExplicitPunct) {
