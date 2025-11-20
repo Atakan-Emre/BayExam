@@ -24,6 +24,7 @@ const state = {
     incorrect: 0,
   },
   shuffle: false,
+  filterWrongOnly: false,
 };
 
 const escapeHtml = (value = '') =>
@@ -324,7 +325,10 @@ const applyFilters = () => {
   let filtered = state.questions.filter((question) => {
     const matchesSearch = !term || normalize(question.question).includes(term);
     const matchesSource = !source || question.source === source;
-    return matchesSearch && matchesSource;
+    const matchesWrongFilter =
+      !state.filterWrongOnly ||
+      (state.filterWrongOnly && state.answers.get(question.id)?.status === 'incorrect');
+    return matchesSearch && matchesSource && matchesWrongFilter;
   });
 
   const sorter = state.shuffle
@@ -334,6 +338,7 @@ const applyFilters = () => {
 
   state.renderedQuestions = filtered;
   renderQuestions();
+  updateFilterButtons();
 };
 
 const resetProgress = () => {
@@ -475,7 +480,73 @@ if (shuffleToggleBtn) {
   shuffleToggleBtn.addEventListener('click', () => toggleShuffle());
 }
 
+const correctCard = document.getElementById('correctCard');
+const wrongCard = document.getElementById('wrongCard');
+const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+const updateFilterButtons = () => {
+  if (correctCard) {
+    correctCard.classList.toggle('filter-active', !state.filterWrongOnly);
+  }
+  if (wrongCard) {
+    wrongCard.classList.toggle('filter-active', state.filterWrongOnly);
+  }
+};
+
+const toggleWrongFilter = () => {
+  state.filterWrongOnly = !state.filterWrongOnly;
+  applyFilters();
+};
+
+const handleScrollToTop = () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+};
+
+if (correctCard) {
+  correctCard.addEventListener('click', () => {
+    if (state.filterWrongOnly) {
+      toggleWrongFilter();
+    }
+  });
+  correctCard.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      if (state.filterWrongOnly) {
+        toggleWrongFilter();
+      }
+    }
+  });
+}
+
+if (wrongCard) {
+  wrongCard.addEventListener('click', toggleWrongFilter);
+  wrongCard.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      toggleWrongFilter();
+    }
+  });
+}
+
+if (scrollToTopBtn) {
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      scrollToTopBtn.hidden = false;
+      scrollToTopBtn.classList.add('show');
+    } else {
+      scrollToTopBtn.classList.remove('show');
+      setTimeout(() => {
+        if (window.scrollY <= 300) {
+          scrollToTopBtn.hidden = true;
+        }
+      }, 300);
+    }
+  });
+  scrollToTopBtn.addEventListener('click', handleScrollToTop);
+}
+
 initTheme();
 updateShuffleToggle();
+updateFilterButtons();
 bootstrap();
 

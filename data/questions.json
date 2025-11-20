@@ -285,7 +285,7 @@
       "label": "",
       "text": "Orta düzey"
     },
-    "explanation": "0.00–0.30 → zayıf 0.30–0.70 → orta 0.70–1.00 → güçlü"
+    "explanation": ""
   },
   {
     "id": 25,
@@ -1776,7 +1776,11 @@
       },
       {
         "label": "D",
-        "text": "Bağımsız gruplar t-testi"
+        "text": "Bağımsız gruplar"
+      },
+      {
+        "label": "T",
+        "text": "testi"
       },
       {
         "label": "E",
@@ -1785,7 +1789,7 @@
     ],
     "answer": {
       "label": "D",
-      "text": "Bağımsız gruplar t-testi"
+      "text": "Bağımsız gruplar"
     },
     "explanation": ""
   },
@@ -2630,7 +2634,11 @@
       },
       {
         "label": "C",
-        "text": "Bağımsız gruplar t-testi"
+        "text": "Bağımsız gruplar"
+      },
+      {
+        "label": "T",
+        "text": "testi"
       },
       {
         "label": "D",
@@ -2643,7 +2651,7 @@
     ],
     "answer": {
       "label": "C",
-      "text": "Bağımsız gruplar t-testi"
+      "text": "Bağımsız gruplar"
     },
     "explanation": ""
   },
@@ -3304,6 +3312,806 @@
     "answer": {
       "label": "B",
       "text": "Hipotez geliştirmelidir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "source": "6.txt",
+    "number": 149,
+    "question": "seminerini öğrenci kaç dönem içerisinde sunmak ve başarmak zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "6"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "4"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "source": "6.txt",
+    "number": 150,
+    "question": "sınavından başarılı olabilmesi için yazılı ve sözlü sınav ortalamalarının en az olması gerekmektedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "60"
+      },
+      {
+        "label": "B",
+        "text": "50"
+      },
+      {
+        "label": "C",
+        "text": "55"
+      },
+      {
+        "label": "D",
+        "text": "70"
+      },
+      {
+        "label": "E",
+        "text": "65"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "65"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "source": "6.txt",
+    "number": 151,
+    "question": "değişken olmak üzere iki değişken arasındaki neden -sonuç ilişkisini matematiksel model olarak ortaya koyan yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Regrasyon analizi"
+      },
+      {
+        "label": "B",
+        "text": "\"t\" testi"
+      },
+      {
+        "label": "C",
+        "text": "Kappa testi"
+      },
+      {
+        "label": "D",
+        "text": "Ki -kare testi"
+      },
+      {
+        "label": "E",
+        "text": "Korelasyon analizi"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Regrasyon analizi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "source": "6.txt",
+    "number": 152,
+    "question": "Proje değerlendirme kriterleri arasında değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Proje yönetimi"
+      },
+      {
+        "label": "B",
+        "text": "Yaygın Etki"
+      },
+      {
+        "label": "C",
+        "text": "Yöntem"
+      },
+      {
+        "label": "D",
+        "text": "Özgün değer"
+      },
+      {
+        "label": "E",
+        "text": "geliştirme potansiyeli"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "geliştirme potansiyeli"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "source": "6.txt",
+    "number": 153,
+    "question": "kaçtır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      },
+      {
+        "label": "E",
+        "text": "4,5"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "3"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "source": "6.txt",
+    "number": 155,
+    "question": "erişimlerden değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araştırma problemiyle doğrudan ilgili olması"
+      },
+      {
+        "label": "B",
+        "text": "Genel kaynakların öğrenilmesi"
+      },
+      {
+        "label": "C",
+        "text": "internet ortamında kaynak taraması yapılmasının"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Araştırma problemiyle doğrudan ilgili olması"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "source": "6.txt",
+    "number": 156,
+    "question": "ilişki düzeyi aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kuvvetli Düzeyde"
+      },
+      {
+        "label": "B",
+        "text": "Çok kuvvetli"
+      },
+      {
+        "label": "C",
+        "text": "İlişki yoktur"
+      },
+      {
+        "label": "D",
+        "text": "Zayıf düzeyde"
+      },
+      {
+        "label": "E",
+        "text": "Orta düzeyde"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Orta düzeyde"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "source": "6.txt",
+    "number": 211,
+    "question": "Neredeyiz? Ne yapmak istiyoruz? Nereye? Hangi yöne gitmeliyiz? Oraya nasıl gideriz? Sorularına",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "aramaya yarayan en uygun yöntem = betimsel model"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "source": "6.txt",
+    "number": 212,
+    "question": "betimsel araştırma aşağıdaki seçeneklerden hangi soruya",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "aramaya yöneliktir? = nedir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "source": "8.txt",
+    "number": 26,
+    "question": "Literatür taraması hakkında aşağıda verilen yargılardan hangisi yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çok çalışılmış sahalar araştırmacıya zengin bir kaynak sağlar"
+      },
+      {
+        "label": "B",
+        "text": "Kaynakçanın kabarık olması kaliteli bir çalışmanın göstergesi değildir"
+      },
+      {
+        "label": "C",
+        "text": "Taramaya en son yapılmış çalışmalardan başlamak avantajdır"
+      },
+      {
+        "label": "D",
+        "text": "Nitelikli -niteliksiz tüm kaynaklar değerlendirilmelidir"
+      },
+      {
+        "label": "E",
+        "text": "Fazla inceleme yapmak araştırmanın kalitesinin göstergesi değildir"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Nitelikli -niteliksiz tüm kaynaklar değerlendirilmelidir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "source": "8.txt",
+    "number": 27,
+    "question": "bağımsız değişkeni  hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bilgisayar destekli eğitim"
+      },
+      {
+        "label": "B",
+        "text": "Akademik başarı"
+      },
+      {
+        "label": "C",
+        "text": "Çevresel Faktörler"
+      },
+      {
+        "label": "D",
+        "text": "Ders başarısı"
+      },
+      {
+        "label": "E",
+        "text": "Ders materyalleri"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Bilgisayar destekli eğitim"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "source": "8.txt",
+    "number": 4,
+    "question": "Varlığın birinci öğesinin düşünce olduğunu savunan öğreti aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rasyonaızım"
+      },
+      {
+        "label": "B",
+        "text": "Empirizm"
+      },
+      {
+        "label": "C",
+        "text": "Idealizm"
+      },
+      {
+        "label": "D",
+        "text": "Pozitivizm"
+      },
+      {
+        "label": "E",
+        "text": "Realizm"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Idealizm"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "source": "8.txt",
+    "number": 6,
+    "question": "Nitelikli bir araştırmada olmaması gereken bilimsel tutum  ve davranış  aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kuşkucu ve açık fikirli olmak"
+      },
+      {
+        "label": "B",
+        "text": "Bağıntılı düşünebilmek"
+      },
+      {
+        "label": "C",
+        "text": "Karşı görüşlerde mantık arayabilmek   D Ölçütsüz düşünebilip karar verebilmek"
+      },
+      {
+        "label": "E",
+        "text": "Kanıt için kararı erteleyebilmek"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Karşı görüşlerde mantık arayabilmek   D Ölçütsüz düşünebilip karar verebilmek"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "source": "8.txt",
+    "number": 7,
+    "question": "belirlenen durum\" olarak tanımlanan kavram aşağıdakilerden hangi sidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kanun"
+      },
+      {
+        "label": "B",
+        "text": "Olgu"
+      },
+      {
+        "label": "C",
+        "text": "Hipotez"
+      },
+      {
+        "label": "D",
+        "text": "Teori"
+      },
+      {
+        "label": "E",
+        "text": "Veri"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Kanun"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "source": "8.txt",
+    "number": 12,
+    "question": "Aşağıdakilerden hangisi deneysel hata tipleri  arasında değildir ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sabit ve sistematik hatalar"
+      },
+      {
+        "label": "B",
+        "text": "Dikkatsizlik ve tecrübesizlikten doğan hatalar"
+      },
+      {
+        "label": "C",
+        "text": "Rastgele hatalar"
+      },
+      {
+        "label": "D",
+        "text": "Doğru olmayan alet ayarlamasından kaynaklanan hatalar"
+      },
+      {
+        "label": "E",
+        "text": "Belirsizlik hata analizi"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Belirsizlik hata analizi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "source": "8.txt",
+    "number": 19,
+    "question": "Aşağıda verilenlerden hangis i konumu sınırlandırlmasında kullanılamaz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Zaman"
+      },
+      {
+        "label": "B",
+        "text": "Orjinallik"
+      },
+      {
+        "label": "C",
+        "text": "Mekan"
+      },
+      {
+        "label": "D",
+        "text": "Olgu"
+      },
+      {
+        "label": "E",
+        "text": "Olay"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Orjinallik"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "source": "8.txt",
+    "number": 20,
+    "question": "kavram aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Örnekleme"
+      },
+      {
+        "label": "B",
+        "text": "Değisken"
+      },
+      {
+        "label": "C",
+        "text": "Bulgu"
+      },
+      {
+        "label": "D",
+        "text": "Anket"
+      },
+      {
+        "label": "E",
+        "text": "Veri"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Bulgu"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "source": "8.txt",
+    "number": 23,
+    "question": "belirlenen durum\" olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hipotez"
+      },
+      {
+        "label": "B",
+        "text": "Yasa"
+      },
+      {
+        "label": "C",
+        "text": "Olgu"
+      },
+      {
+        "label": "D",
+        "text": "Kuram"
+      },
+      {
+        "label": "E",
+        "text": "Veri"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Yasa"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "source": "8.txt",
+    "number": 27,
+    "question": "I - Ölçmeden ölçmeye miktar olarak değişmeyen hatalardır II - Geçici etmeniere bağlı olan ölçüm hatalarıdır III - Ölçme işleminin tümüne ya da bir kısmına karışabilir Yukanda açıklamaları verllen hata türl eri aşağıdakilerden  hangisinde doğru sırayla verilmiştir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sabit Hata -Tesadüfi Hata -Sistematik Hata"
+      },
+      {
+        "label": "B",
+        "text": "Tesadüfl Hata -Sabit Hata -Sistematık Hata"
+      },
+      {
+        "label": "C",
+        "text": "Sistematik Hata -Sabit Hata -Tesadüfi Hata"
+      },
+      {
+        "label": "D",
+        "text": "Tesadüfi Hata -Sistematik Hata -Sabit Hata"
+      },
+      {
+        "label": "E",
+        "text": "Sistematik Hata -Tesadüfi Hata -Sabit Hata"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Sabit Hata -Tesadüfi Hata -Sistematik Hata"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "source": "8.txt",
+    "number": 30,
+    "question": "neden -sonuç  ilişkisini matematiksel  model olarak ortaya koyar yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ki -kare testi"
+      },
+      {
+        "label": "B",
+        "text": "“t” testi"
+      },
+      {
+        "label": "C",
+        "text": "Korelasyon analizi"
+      },
+      {
+        "label": "D",
+        "text": "Kappa testi"
+      },
+      {
+        "label": "E",
+        "text": "Regresyon analizi"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Regresyon analizi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "source": "8.txt",
+    "number": 35,
+    "question": "ihlalidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Taraflı çalışma"
+      },
+      {
+        "label": "B",
+        "text": "Sahtecilik"
+      },
+      {
+        "label": "C",
+        "text": "Özensizlik -Dikkatsizlik"
+      },
+      {
+        "label": "D",
+        "text": "Sayıgısızlık -Vefasızlık"
+      },
+      {
+        "label": "E",
+        "text": "Gizleme çabası"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Sahtecilik"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "source": "8.txt",
+    "number": 2,
+    "question": "olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "n ≥ 10"
+      },
+      {
+        "label": "B",
+        "text": "n ≥ 20"
+      },
+      {
+        "label": "C",
+        "text": "n ≥ 30"
+      },
+      {
+        "label": "D",
+        "text": "n ≥ 40"
+      },
+      {
+        "label": "E",
+        "text": "n ≥ 50"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "n ≥ 30"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "source": "8.txt",
+    "number": 4,
+    "question": "hangisi \"Amacına göre  araştırmalar\" kapsamına girmez?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Temel Araştırmalar"
+      },
+      {
+        "label": "B",
+        "text": "AR -GE Araştırmaları"
+      },
+      {
+        "label": "C",
+        "text": "Değerlendirme Araştırmaları"
+      },
+      {
+        "label": "D",
+        "text": "Tarihi Araştırmalar"
+      },
+      {
+        "label": "E",
+        "text": "Uygulama lı Araştırmalar"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Tarihi Araştırmalar"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "source": "8.txt",
+    "number": 5,
+    "question": "Aşağıda verilenlerden hangisi nicel  araştırmanın  özelliklerinden  biri değlidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Olaylar arasındakl i lişkileri tanımlamak için sayısal veriler  kullanır."
+      },
+      {
+        "label": "B",
+        "text": "Pozitivist, objektivist ve realist paradigmalara dayanır."
+      },
+      {
+        "label": "C",
+        "text": "İstatistiksel yöntemleri anahtar ara ştırma göstergeleri ve araçları olarak kullanmaz."
+      },
+      {
+        "label": "D",
+        "text": "Teori ve denence (hipotez) ile başlar"
+      },
+      {
+        "label": "E",
+        "text": "Çözüm için b ir araştır ma problemi vardır."
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Olaylar arasındakl i lişkileri tanımlamak için sayısal veriler  kullanır."
+    },
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "source": "8.txt",
+    "number": 6,
+    "question": "bir farkın, varlığı  hangi testle belirlenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Varyans analizi"
+      },
+      {
+        "label": "B",
+        "text": "Regresyon analizi"
+      },
+      {
+        "label": "C",
+        "text": "Standart Sapma"
+      },
+      {
+        "label": "D",
+        "text": "Ki-kare testi"
+      },
+      {
+        "label": "E",
+        "text": "Korelasyon analizi"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Varyans analizi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "source": "8.txt",
+    "number": 11,
+    "question": "\" Kontrollü deney \" kavrami aşağdakllerden hangisinde doğru  tanımlanmışt ır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sonucu etkileyen faktörlerden birisinin sabit tutularak diğerlerinin de ğiştirildiği deney"
+      },
+      {
+        "label": "B",
+        "text": "Deneyin denetimli bir labor atovar  ortamında yapılması"
+      },
+      {
+        "label": "C",
+        "text": "Sonucu etkileyecek tüm faktörlerin  bilindiği ve değiştirildiği deneyi"
+      },
+      {
+        "label": "D",
+        "text": "Sonucu etkileyecek tüm faktörlerden birisi hariç diğerlerinin  sabitlendi ği deney"
+      },
+      {
+        "label": "E",
+        "text": "Deneyin yetkill bir uzma n denetiminde yapıldığı"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Sonucu etkileyen faktörlerden birisinin sabit tutularak diğerlerinin de ğiştirildiği deney"
     },
     "explanation": ""
   }

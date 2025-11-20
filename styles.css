@@ -184,6 +184,19 @@ img {
   border-radius: 16px;
   background: var(--surface-alt);
   text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.score-card:hover {
+  border-color: var(--accent);
+  box-shadow: var(--shadow);
+}
+
+.score-card.filter-active {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  box-shadow: var(--shadow);
 }
 
 .score-label {
@@ -455,6 +468,10 @@ select {
     position: static;
     order: -1;
   }
+  
+  .top-bar {
+    position: static;
+  }
 }
 
 @media (max-width: 720px) {
@@ -479,6 +496,64 @@ select {
   .header-actions {
     align-self: stretch;
     justify-content: space-between;
+  }
+}
+
+.scroll-to-top-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  z-index: 100;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+}
+
+.scroll-to-top-btn.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.scroll-to-top-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 30px rgba(15, 23, 42, 0.15);
+  background: var(--accent);
+}
+
+.scroll-to-top-btn:active {
+  transform: translateY(-1px);
+}
+
+.scroll-to-top-btn .scroll-icon {
+  width: 20px;
+  height: 20px;
+  stroke: currentColor;
+}
+
+@media (max-width: 720px) {
+  .scroll-to-top-btn {
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 44px;
+    height: 44px;
+  }
+  
+  .scroll-to-top-btn .scroll-icon {
+    width: 18px;
+    height: 18px;
   }
 }
 

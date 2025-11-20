@@ -31,11 +31,11 @@
           <h2>Doğru &amp; yanlış sayım</h2>
         </div>
         <div class="score-grid">
-          <div class="score-card">
+          <div class="score-card" id="correctCard" role="button" tabindex="0" aria-label="Doğru cevapları filtrele">
             <p class="score-label">Doğru</p>
             <p id="correctCount" class="score-value">0</p>
           </div>
-          <div class="score-card">
+          <div class="score-card" id="wrongCard" role="button" tabindex="0" aria-label="Yanlış cevapları filtrele">
             <p class="score-label">Yanlış</p>
             <p id="wrongCount" class="score-value">0</p>
           </div>
@@ -103,6 +103,12 @@
         </div>
       </article>
     </template>
+
+    <button id="scrollToTopBtn" class="scroll-to-top-btn" aria-label="Sayfa başına dön" hidden>
+      <svg class="scroll-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M10 5L5 10M10 5L15 10M10 5V15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
 
     <script type="module" src="app.js"></script>
   </body>

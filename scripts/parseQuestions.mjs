@@ -3,17 +3,25 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const workspace = '/Users/atakanemre/BayExam';
-const inputFiles = ['1.txt', '2.txt', '3.txt', '4.txt', '5.txt'];
+const sorularDir = path.join(workspace, 'Sorular');
+const inputFiles = ['1.txt', '2.txt', '3.txt', '4.txt', '5.txt', '6.txt', '7.txt', '8.txt'];
 const outputFile = path.join(workspace, 'data', 'questions.json');
 
-const optionPattern = /^([A-ZÇĞİÖŞÜ])[.\)\-:]\s*(.*)$/u;
+const optionPattern = /^([A-ZÇĞİÖŞÜa-zçğıöşü])[.\)\-:]\s*(.*)$/u;
 const answerPattern = /^(?:Doğru\s+)?Cevap[:：]?\s*(.*)$/iu;
 
 const normalizeLine = (line) =>
   line.replace(/\u2028/g, ' ').replace(/\r/g, '').trim();
 
-const questionStartRegex = /^\s*\**\s*(\d+)\)/;
-const isLikelyQuestionStart = (line) => questionStartRegex.test(line.trimStart());
+const questionStartRegex = /^\s*\**\s*(?:Soru\s*)?(?:S-)?(\d+)[\)\.]/;
+const isLikelyQuestionStart = (line) => {
+  const trimmed = line.trimStart();
+  // Nokta ile başlayan sorular: "1. Soru metni" veya "Soru 1) Soru metni" veya "S-1) Soru"
+  // Boşlukla başlayanlar da: " 5. Soru metni"
+  return questionStartRegex.test(trimmed) || 
+         /^\s*\d+\.\s+[A-ZÇĞİÖŞÜĞ]/.test(trimmed) ||
+         /^\s*S-\d+\)/.test(trimmed);
+};
 
 const splitBlocks = (content) => {
   const lines = content.split('\n');
@@ -26,10 +34,31 @@ const splitBlocks = (content) => {
       if (current) {
         blocks.push(current);
       }
-      const [, number] = line.match(questionStartRegex) || [];
+      // Farklı formatları destekle: "1)", "Soru 1)", "1.", "S-1)", " 5.", vb.
+      let numberMatch = line.match(questionStartRegex);
+      if (!numberMatch) {
+        // "1. Soru metni" veya " 5. Soru metni" formatı için
+        const dotMatch = line.match(/^\s*(\d+)\.\s+/);
+        if (dotMatch) {
+          numberMatch = ['', dotMatch[1]];
+        }
+        // "S-1) Soru" formatı için
+        if (!numberMatch) {
+          const sFormatMatch = line.match(/^\s*S-(\d+)\)/);
+          if (sFormatMatch) {
+            numberMatch = ['', sFormatMatch[1]];
+          }
+        }
+      }
+      const number = numberMatch ? Number(numberMatch[1]) : 0;
+      // Soru satırını temizle - tüm formatları destekle
+      const cleanedLine = line
+        .replace(/^\s*\**\s*(?:Soru\s*)?(?:S-)?\d+[\)\.]\s*/, '')
+        .replace(/^ABDULAZİZ\s+BEHÇET\s+/, '')
+        .trim();
       current = {
-        number: Number(number),
-        questionLine: line.replace(/^\s*\**\s*/, '').trim(),
+        number,
+        questionLine: cleanedLine,
         lines: [],
       };
     } else if (current) {
@@ -66,6 +95,7 @@ const collectQuestionText = (lines) => {
 
 const collectOptions = (lines, startIndex) => {
   const options = [];
+  let markedAnswer = null;
   let index = startIndex;
 
   while (index < lines.length) {
@@ -74,16 +104,72 @@ const collectOptions = (lines, startIndex) => {
       index += 1;
       continue;
     }
+    
+    // Tek satırda birden fazla seçenek olabilir (örn: "A) ... B) ... C) ...")
+    const allMatches = [...raw.matchAll(/([A-ZÇĞİÖŞÜa-zçğıöşü])[\).\-:]\s*([^]*?)(?=\s+[A-ZÇĞİÖŞÜa-zçğıöşü][\).\-:]|\s*$)/g)];
+    if (allMatches && allMatches.length > 1) {
+      for (const match of allMatches) {
+        const [, label, text] = match;
+        let cleanText = text.trim();
+        // Büyük harfe çevir
+        const upperLabel = label.toUpperCase();
+        
+        // * veya ++ işaretlerini kontrol et
+        const hasStarMarker = /\*\s*$/.test(cleanText) || cleanText.includes(' * ');
+        const hasPlusMarker = /\+\+\s*$/.test(cleanText) || cleanText.includes(' ++ ');
+        
+        if (hasStarMarker) {
+          cleanText = cleanText.replace(/\s*\*\s*/g, ' ').trim();
+          options.push({ label: upperLabel, text: cleanText });
+          if (!markedAnswer) {
+            markedAnswer = { label: upperLabel, text: cleanText };
+          }
+        } else if (hasPlusMarker) {
+          cleanText = cleanText.replace(/\s*\+\+\s*/g, ' ').trim();
+          options.push({ label: upperLabel, text: cleanText });
+          if (!markedAnswer) {
+            markedAnswer = { label: upperLabel, text: cleanText };
+          }
+        } else {
+          options.push({ label: upperLabel, text: cleanText });
+        }
+      }
+      index += 1;
+      continue;
+    }
+    
     const match = raw.match(optionPattern);
     if (!match) {
       break;
     }
     const [, label, text] = match;
-    options.push({ label, text: text.trim() });
+    let cleanText = text.trim();
+    // Büyük harfe çevir
+    const upperLabel = label.toUpperCase();
+    
+    // * veya ++ işaretlerini kontrol et (satır içinde veya sonunda)
+    const hasStarMarker = /\*\s*$/.test(cleanText) || cleanText.includes(' * ');
+    const hasPlusMarker = /\+\+\s*$/.test(cleanText) || cleanText.includes(' ++ ');
+    
+    if (hasStarMarker) {
+      cleanText = cleanText.replace(/\s*\*\s*/g, ' ').trim();
+      options.push({ label: upperLabel, text: cleanText });
+      if (!markedAnswer) {
+        markedAnswer = { label: upperLabel, text: cleanText };
+      }
+    } else if (hasPlusMarker) {
+      cleanText = cleanText.replace(/\s*\+\+\s*/g, ' ').trim();
+      options.push({ label: upperLabel, text: cleanText });
+      if (!markedAnswer) {
+        markedAnswer = { label: upperLabel, text: cleanText };
+      }
+    } else {
+      options.push({ label: upperLabel, text: cleanText });
+    }
     index += 1;
   }
 
-  return { options, nextIndex: index };
+  return { options, nextIndex: index, markedAnswer };
 };
 
 const extractAnswer = (line, options) => {
@@ -157,7 +243,7 @@ const parseBlock = (block, source) => {
   const { text: questionText, nextIndex } = collectQuestionText(lines);
   let cursor = nextIndex;
 
-  const { options, nextIndex: afterOptions } = collectOptions(lines, cursor);
+  const { options, nextIndex: afterOptions, markedAnswer } = collectOptions(lines, cursor);
   cursor = afterOptions;
 
   let answerLine = '';
@@ -176,6 +262,13 @@ const parseBlock = (block, source) => {
   }
 
   const answerInfo = extractAnswer(answerLine, options);
+  
+  // PDF'lerdeki * işaretli cevabı kullan (varsa)
+  if (markedAnswer && !answerInfo.label && !answerInfo.text) {
+    answerInfo.label = markedAnswer.label;
+    answerInfo.text = markedAnswer.text;
+  }
+  
   const explanation = [answerInfo.inlineExplanation, collectExplanation(lines, cursor)]
     .filter(Boolean)
     .join(' ')
@@ -198,9 +291,9 @@ const allQuestions = [];
 let globalId = 1;
 
 for (const file of inputFiles) {
-  const filePath = path.join(workspace, file);
+  const filePath = path.join(sorularDir, file);
   if (!fs.existsSync(filePath)) {
-    console.warn(`Dosya bulunamadı: ${file}`);
+    console.warn(`Dosya bulunamadı: ${filePath}`);
     continue;
   }
   const rawContent = fs.readFileSync(filePath, 'utf8').replace(/\r/g, '').replace(/\u2028/g, '\n');
