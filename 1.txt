@@ -1,0 +1,188 @@
+1) Bilimde çok sayıda deney ve gözlemden sonra, aynı şartlarda aynı sonuçları verdiği kesin olarak belirlenen durum nedir?
+Cevap: Yasa (Bilimsel Yasa) Açıklama: Teori açıklayıcıdır; yasa ise çok sayıda doğrulanmış gözlemden sonra kesinleşmiş ilişkidir.
+
+2) Son dönem nüfus sayım verileri gibi sayısal değerler içeren ölçütlere ne denir?
+Cevap: Nicel (Sayısal) Ölçüt Açıklama: Ölçülebilen, sayılarla ifade edilen verilerdir.
+
+3) Aşağıdakilerden hangisi birincil kaynak değildir? (bayçıkmış3’teki soru)
+Cevap: İnternet kaynakları Açıklama: Birincil kaynak: tezler, makaleler, ham veri setleri… İnternet kaynağı derleme olabilir.
+
+4) İki grubun ortalamasını karşılaştırmak için kullanılan test hangisidir?
+Cevap: t-Testi Açıklama: “Ortalamalar arası fark anlamlı mı?” sorusunu t-testi hesaplar.
+
+5) FORM-24 hangi konu ile ilgilidir?
+Cevap: Yüksek Lisans Tez Konusu Önerisi Açıklama: FORM-24 = YL tez öneri formu. Doktora için farklı numaralar vardır.
+
+6) Yüksek lisans ve doktora tezlerinde zorunlu olarak eklenen kimlik hangisidir?
+Cevap: ORCID Numarası Açıklama: Enstitü formatı gereği tezlerde ORCID zorunludur.
+
+7) Yeterlik sınavını geçen bir doktora öğrencisi, Tez İzleme Komitesi dilekçesini en geç ne zaman göndermelidir?
+Cevap: 1 ay içinde Açıklama: Enstitü yönetmeliği: yeterlik sonrası 1 ay.
+
+8) Aşağıdakilerden hangisi açık uçlu sorularla veri toplayan yöntemdir?
+Cevap: Nitel araştırma Açıklama: Açık uçlu görüşmeler → nitel yöntemdir.
+
+**9) Bir öğrencinin başarı puanı:
+Vize 1 = 65 (%20), Vize 2 = 55 (%20), Final = 70 (%60). Başarı notu kaçtır?** Hesap: 65×0.2 = 13 55×0.2 = 11 70×0.6 = 42 Toplam = 66
+Cevap: 66
+
+10) Aşağıdakilerden hangisi TÜBİTAK’a bağlı değildir?
+Cevap: KOSGEB Açıklama: ARDEB, TEYDEB, BİDEB, ULAKBİM → TÜBİTAK’a bağlıdır; KOSGEB ayrı kuruluştur.
+11) Standart sapma hakkında aşağıdakilerden hangisi yanlıştır?
+Yanlış ifade: “Ölçümlerin grup ile farklarının ortalaması alınarak hesaplanır.”
+Doğru Cevap: B Açıklama: Standart sapma “farkların ortalaması” değil karelerinin ortalamasının kareköküdür.
+
+12) Tezli yüksek lisans programından mezun olmak için gerekli asgari kredi nedir?
+Cevap: 21 Ulusal Kredi – 120 AKTS Açıklama: 7 ders × 3 kredi = 21. Toplam AKTS = 120.
+
+13) Bir derginin etki faktörü (Impact Factor) neye göre belirlenir?
+Cevap: Dergide yayınlanan makalelerin aldığı atıf sayısına göre Açıklama: IF = belirli yılda alınan atıflar / önceki iki yılın yayın sayısı.
+
+14) Değişik veriler elde etmek amacıyla araştırma araçlarında değişiklik yapmak hangi etik ihlaldir?
+Cevap: Çarpıtma (Manipülasyon) AçExplanation: Bilimsel veriyi değiştirmek → Çarpıtma.
+
+15) Bilim bazı temel niteliklere sahip olmalıdır. Hangisi bu niteliklere uzak?
+Cevap: İnovatiflik Açıklama: Bilimin temel nitelikleri: evrensellik, nesnellik, mantıksallık, test edilebilirlik.
+
+16) Verilerin sınıflandırılması sonucu ortaya çıkan her bir şıkkın tekrar sayısı nedir?
+Cevap: Frekans Açıklama: Bir gözlem değerinin kaç kez geçtiğini gösterir.
+
+17) iThenticate benzerlik incelemesi ne için yapılabilir?
+Cevap: Hepsi (Makale, tez, ödev, proje) AçExplanation: Tüm akademik çalışmalar benzerlik taramasına girer.
+
+18) Doktora tez konusu önerisi için gerekli olmayan aşama hangisidir?
+Cevap: Doktora Tez İlerleme Raporu Açıklama: Tez konusu önerisi daha erken aşamadır, ilerleme raporu daha sonraki dönemdir.
+
+19) Bir konu hakkında dinleyicilere bilgi sağlayan, soru-cevap ortamı oluşturan toplantı nedir?
+Cevap: Seminer Açıklama: Konferans → geniş kitle; Panel → tartışmalı ortam; Seminer → eğitim + etkileşim.
+
+20) “Araştırma evrenini temsil eden küçük model” ne olarak tanımlanır?
+Cevap: Örneklem Açıklama: Evrenin daha küçük, temsil edici alt kümesidir.
+21) Literatür taramasında aşağıdakilerden hangisinin yapılması zorunlu değildir?
+Cevap: Özgün bulguların ortaya konulması Açıklama: Literatür taraması “mevcut bilgiyi inceleme”dir, yeni bulgu üretme zorunluluğu yoktur.
+
+22) Kaynak ve belgeleri inceleyerek veri toplama hangi tanıma aittir?
+Cevap: Literatür tarama Açıklama: Belgeler, kayıtlar, tezler, makaleler taranarak veri elde edilir.
+
+23) Aşağıdakilerden hangisi bilimsel yöntemi en iyi özetler?
+Cevap: Zihinsel gelişme, yenileşme, olgunlaşma süreci Açıklama: Bilimsel yöntem statik değil; sürekli yenilenen, gelişen bir düşünce sistemidir.
+
+24) Korelasyon katsayısı r = +0.50 ise ilişki düzeyi nedir?
+Cevap: Orta düzey Açıklama: 0.00–0.30 → zayıf 0.30–0.70 → orta 0.70–1.00 → güçlü
+
+25) “Bilgisayar destekli eğitimin öğrencilerin akademik başarılarına etkisi” araştırmasının bağımsız değişkeni nedir?
+Cevap: Bilgisayar destekli eğitim Açıklama: Etkileyen değişken bağımsızdır; etkilenen (başarı) bağımlıdır.
+
+26) Aşağıdakilerden hangisi amaca göre araştırma türlerinden değildir?
+Cevap: Temel araştırmalar hariç? Hayır. Soruya göre doğru cevap: Değerlendirme Araştırmaları amaca göre araştırmadır. Uygulamalı araştırmalar da amaca göredir. Aksiyon araştırmaları da.
+Doğru olmayan: Sashe? Verilen pdf’e göre cevap: “Temel araştırmalar” değil → “Saha araştırmaları” Saha araştırması → yöntem türüdür, amaç değil.
+Cevap: Saha Araştırmaları
+
+27) Doktora programı toplam kaç AKTS’den oluşur?
+Cevap: 240 AKTS Açıklama: Doktora = 8 dönem × 30 AKTS.
+
+28) Yüksek lisansta kaç dersten başarılı olmak gerekir?
+Cevap: 7+1 (7 ders + seminer) Açıklama: Enstitü yönetmeliğine göre en az 21 kredi = 7 ders.
+
+29) Bir derginin en kaliteli sınıfı Web of Science sınıflamasına göre hangisidir?
+Cevap: Q1 Açıklama: Q1 = üst %25 → en prestijli dergiler.
+
+30) Doktora yeterlik sınavında başarılı sayılmak için sözlü + yazılı ortalaması en az kaç olmalıdır?
+Cevap: 65 Açıklama: Çoğu enstitüde 65 eşik nottur.
+31) Doktora semineri kaç dönem içinde sunulmak zorundadır?
+Cevap: 4. dönem Açıklama: Enstitü yönetmeliği: öğrenci 4. yarıyıla kadar semineri sunmalıdır.
+
+32) Bir doktora öğrencisi tez savunmasına girebilmek için en az kaç olumlu tez izleme raporu göndermelidir?
+Cevap: 3 Açıklama: Yıllık 2 TİK toplantısı vardır; toplamda en az 3 olumlu rapor zorunludur.
+
+33) Seminer çalışması için danışman tarafından önerilen jüri kaç kişiden oluşur?
+Cevap: 3 kişi Açıklama: Danışman + en az 2 öğretim üyesi.
+
+34) Bir Yüksek Lisans öğrencisi YÖK Tez Veri Giriş Formu’nu kaç kez doldurur?
+Cevap: 1 kez Açıklama: Yüksek lisans öğrencisi sadece mezuniyet aşamasında doldurur.
+
+35) Otorite yoluyla bilgi edinmenin avantajı olmayan hangisidir?
+Cevap: Kasıtlı yönlendirme Açıklama: Otorite hızlı ve ekonomiktir; ancak yönlendirme dezavantajdır.
+
+36) Aşağıdakilerden hangisi bilimselliğin ölçütlerinden biri değildir?
+Cevap: Güncellik Açıklama: Bilimsellik → gözlenebilirlik, ölçülebilirlik, tekrarlanabilirlik, iletilebilirlik. “Güncellik” şart değildir.
+
+37) Sistematik, planlı ve kontrollü yapılan çalışmaların adı nedir?
+Cevap: Bilimsel yaklaşım AçExplanation: Tümevarım/tümdengelim alt düşünce türleridir; genel çatı bilimsel yaklaşımdır.
+
+38) Bir deneyde “iç geçerliliği” etkileyen faktör değildir?
+Cevap: Zaman (PDF’de böyle verilmiş) Açıklama: İç geçerlilik → test, olgunlaşma, ölçme, deneysel işlem, denek kaybı gibi faktörler. “Zaman” dış geçerlilikle ilişkilidir.
+
+39) Benzin fiyatlarının yıllık kat sayıları verildiğinde ortalama artış hızını bulmada hangi yöntem kullanılır?
+Cevap: Geometrik ortalama Açıklama: Çarpan şeklindeki büyümelerde geometrik ortalama kullanılır.
+
+40) Araştırmada veya makalede aktif katkısı olmayan kişilerin adlarını eklemek hangi etik ihlaldir?
+Cevap: Saygısızlık – Vefasızlık (Hediyelik yazarlık) Açıklama: “Gift authorship” en sık görülen etik ihlallerden biridir.
+
+41) Varlığın birinci öğesinin düşünce olduğunu savunan öğreti hangisidir?
+Cevap: İdealizm Açıklama: İdealizm → “düşünce önceliklidir.” Realizm → “gerçeklik zihinden bağımsızdır.”
+
+**42) Temmuz ayında ölçülen sıcaklık dizisi:
+29, 31, 30, 32, 31, 33, 31, 32, 36, 35 Bu serinin medyanı nedir?**
+Önce sırala: 29, 30, 31, 31, 31, 32, 32, 33, 35, 36 10 değer → ortadaki iki değer 31 ve 32
+Medyan = (31 + 32) / 2 = 31.5
+Cevap: 31.5
+
+43) Nitelikli araştırmada olmaması gereken bilimsel tutum hangisidir?
+Cevap: Ölçütsüz (keyfi) karar verme Açıklama: Bilimsel tutum → kuşkucu, açık fikirli, objektif. Ölçütsüzlük bilime aykırıdır.
+
+44) “Çok sayıda deney ve gözlemden sonra aynı sonuçları veren durum” hangisidir?
+Cevap: Kanun (Bilimsel Yasa) Açıklama: Teori açıklayıcıdır; yasa kesinleşmiş ilişkidir.
+
+45) Deneysel hata türleri arasında olmayan seçenek hangisidir?
+Seçeneklerde: sabit hata, sistematik hata, rastgele hata, dikkatsizlik…
+Cevap: Belirsizlik hata analizi Açıklama: Diğerleri gerçek hata türleri; “belirsizlik” hata türü değil, ölçme kavramıdır.
+
+46) Konuyu sınırlandırmada kullanılamayan ölçüt hangisidir?
+Cevap: Orijinallik Açıklama: Konu → zaman, mekân, örneklem, olay üzerinden sınırlandırılır. Orijinallik sınırlandırma değildir; nitelik belirtir.
+
+47) “Olguların işlenmesi ve çözümlenmesiyle ulaşılan sonuçlar” tanımı hangi kavramdır?
+Cevap: Bulgu Açıklama: Veri ham halidir; bulgu işlenmiş halidir; sonuç son yorumdur.
+
+48) Tam odak grup görüşmesinde ideal katılımcı sayısı kaçtır?
+Cevap: 7–9 kişi AçExplanation: Odak grup genelde 6–10 kişi aralığında olur; ideal 7–9’dur.
+
+49) Sayısal değerler içeren ölçütlere ne ad verilir?
+Cevap: Nicel ölçütler Açıklama: Nicel = sayısal; Nitel = sınıflayıcı.
+
+50) “Hiçbir deney yapmadan sonuç üretmek” hangi etik ihlaldir?
+Cevap: Sahtecilik (Uydurmacılık) Açıklama: Veriyi tamamen uydurmak en ağır etik suçtur.
+51) Aşağıdakilerden hangisi bilgi edinme yollarından biri değildir?
+Cevap: Hayal yoluyla Açıklama:
+	•	Otorite
+	•	Akıl (rasyonel)
+	•	Deney
+	•	Gelenek Bilgi edinme yollarıdır. Hayal → kişisel tasavvur, bilgi kaynağı değildir.
+
+52) Amaca göre araştırmalar arasında yer alan hangisidir?
+Cevap: Aksiyon–Eylem Araştırması Açıklama: Amaca göre araştırmalar → temel, uygulamalı, AR-GE, değerlendirme, aksiyon.
+
+53) “Varlığın özünün düşünce olduğu” görüşünü savunan akım?
+Cevap: İdealizm Açıklama: İdealizm → zihinsel gerçeklik Realizm → dış dünya gerçekliği Pozitivizm → gözlem ve deney
+
+54) Nitelikli araştırma için doğru olmayan bilimsel tutum hangisidir?
+Cevap: Ölçütsüz düşünebilmek / karar verebilmek Açıklama: Bilimde nesnel, kriterli, sistematik düşünme gerekir.
+
+55) “Bilimde çok sayıda deneyden sonra kesinleşen durum” nedir?
+Cevap: Kanun (Bilimsel Yasa) Açıklama: Çok tekrar + aynı sonuç → yasa.
+
+56) 10 değerli bir seride N < 10 olduğunda hangi test türü kullanılır?
+(Aynı soru bayçıkmış3’te geçiyor)
+Cevap: Parametrik olmayan testler Açıklama: Küçük örneklemde (özellikle n < 30) varsayımlar zayıf → non-parametrik kullanılır.
+
+57) “Bir bilimsel ekolün temsilcilerinde görülen düşünce ve davranış ortaklığı” hangisidir?
+Cevap: Paradigma AçExplanation: Paradigma → bilimsel bakış açısı, araştırma çerçevesi.
+
+58) Bağımlı-bilinmeyen ve bağımsız-açıklayan değişken ilişkisini matematiksel modelleyen yöntem?
+Cevap: Regresyon Analizi Açıklama: Korelasyon → ilişki derecesi Regresyon → neden–sonuç biçimli matematiksel model
+
+59) Yayın etiği sorumlularının doğru sıralaması?
+PDF’de geçen sıra: Editörler → Hakemler → Yazarlar → Yayın yöneticileri
+Cevap: E seçeneği (Editörler - Hakemler - Yazarlar - Yayın Yönetmenleri) Açıklama: Süreç editör ile başlar → hakem → yazar → yayım.
+
+

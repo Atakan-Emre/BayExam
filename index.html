@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BayExam Soru Bankası</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="top-bar">
+      <div class="brand">
+        <div class="brand-icon">🎯</div>
+        <div>
+          <p class="brand-kicker">Github.io uyumlu çalışma</p>
+          <h1>BayExam soru bankası</h1>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button id="themeToggle" class="toggle-btn" type="button" aria-label="Tema değiştir">
+          <span class="toggle-icon">🌙</span>
+          <span class="toggle-label">Karanlık</span>
+        </button>
+        <button id="resetProgress" class="ghost-btn" type="button">Sıfırla</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="score-panel">
+        <div class="panel-header">
+          <p class="panel-kicker">Anlık skor</p>
+          <h2>Doğru &amp; yanlış sayım</h2>
+        </div>
+        <div class="score-grid">
+          <div class="score-card">
+            <p class="score-label">Doğru</p>
+            <p id="correctCount" class="score-value">0</p>
+          </div>
+          <div class="score-card">
+            <p class="score-label">Yanlış</p>
+            <p id="wrongCount" class="score-value">0</p>
+          </div>
+        </div>
+        <div class="score-meta">
+          <p>Cevaplanan soru: <span id="answeredCount">0</span></p>
+          <p>Toplam soru: <span id="totalCount">0</span></p>
+        </div>
+      </aside>
+
+      <section class="question-area">
+        <div class="question-headline">
+          <div>
+            <p class="section-kicker">Çalışma listesi</p>
+            <h2>Sorular ve seçenekler</h2>
+          </div>
+          <div class="filters">
+            <label class="search-field">
+              <span class="sr-only">Soru ara</span>
+              <input type="search" id="searchInput" placeholder="Soru ara..." />
+            </label>
+            <select id="sourceFilter" aria-label="Kaynağa göre filtrele">
+              <option value="">Tüm kaynaklar</option>
+            </select>
+          </div>
+        </div>
+        <div id="questionList" class="question-list" aria-live="polite" aria-busy="true"></div>
+      </section>
+    </main>
+
+    <template id="questionTemplate">
+      <article class="question-card">
+        <header class="card-header">
+          <div>
+            <p class="card-kicker"></p>
+            <h3 class="card-title"></h3>
+          </div>
+          <span class="source-badge"></span>
+        </header>
+        <div class="options"></div>
+        <div class="feedback" hidden>
+          <p class="feedback-status"></p>
+          <p class="feedback-text"></p>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
+

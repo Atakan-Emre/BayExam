@@ -1,0 +1,60 @@
+1) “Bilimde doğrulanmış, genelleştirilmiş ilişki” hangi kavramdır?
+Cevap: Yasa Açıklama: Birçok deneyle değişmeden doğrulanır → yasa.
+
+2) “Araştırmacının kontrol edebildiği değişken” hangisidir?
+Cevap: Bağımsız değişken Açıklama: Deneyde manipüle edilen faktör.
+
+3) Ölçme sonuçlarının tutarlı olması hangi kavramdır?
+Cevap: Güvenirlik Açıklama: Aynı ölçme tekrarlanınca benzer sonuç verir.
+
+4) Ölçme sonuçlarının gerçeğe uygunluğu hangi kavramdır?
+Cevap: Geçerlik Açıklama: Gerçeği ölçüyorsa geçerlidir.
+
+5) Aşağıdakilerden hangisi nitel veri örneğidir?
+Cevap: Göz rengi Açıklama: Kategorik, sayısal değil.
+
+6) Bir veri setinde uç değerler varken hangi ortalama daha uygundur?
+Cevap: Medyan AçExplanation: Aşırı büyük/küçük değerlerden etkilenmez.
+
+7) Aşağıdakilerden hangisi bilimsel araştırmada etik değildir?
+Cevap: Veriyi değiştirmek Açıklama: Çarpıtma / manipülasyon en ağır etik ihlallerden.
+
+8) Literatür taramasının temel amacı nedir?
+Cevap: Konuyla ilgili mevcut bilgiyi ortaya koymak Açıklama: Yeni bilgi üretme aşaması değildir.
+
+9) Zaman, mekân, konu, örneklem gibi daraltma işlemi hangi aşamadadır?
+Cevap: Konu sınırlandırma Açıklama: Araştırma problemi netleştirilir.
+
+10) Aşağıdakilerden hangisi nicel araştırmadır?
+Cevap: Deneysel araştırma Açıklama: Sayısal veri + kontrol + manipülasyon içerir.
+
+11) “Sürekli değişken” aşağıdakilerden hangisidir?
+Cevap: Boy uzunluğu Açıklama: Kesirli değer alabilir. (Örn: 175.3 cm)
+
+12) “Süreksiz değişken” hangisidir?
+Cevap: Çocuk sayısı Açıklama: Tam sayı olmak zorunda.
+
+13) Hangisi parametre değildir?
+Cevap: Örneklem ortalaması Açıklama: Örneklem → istatistik; Evren → parametre.
+
+14) Normal dağılımda merkezî eğilim ölçüleri nasıl olur?
+Cevap: Mod = Medyan = Ortalama Açıklama: Tam simetrik olduğu için eşittir.
+
+15) “Aynı olay tekrar edildiğinde farklı sonuç çıkması” hangi hata türüdür?
+Cevap: Rastgele hata Açıklama: Nedeni bilinmez, ölçümden ölçüme değişir.
+
+16) Bir araştırmanın ilk basamağı nedir?
+Cevap: Problem/amaç belirleme Açıklama: Araştırma neyi aradığını bilmeden başlayamaz.
+
+17) Hangi ölçek türünde “sıfır noktası gerçektir”?
+Cevap: Oranlı ölçek Açıklama: Uzunluk, ağırlık, yaş… hepsi gerçek sıfır içerir.
+
+18) Hangisi sınıflayıcı ölçeğe örnektir?
+Cevap: Kan grubu Açıklama: Sıralama yoktur; kategorik.
+
+19) Hangisi sıralayıcı ölçek örneğidir?
+Cevap: Yarış derecesi (1., 2., 3.) Açıklama: Sıralama var; aralık eşit olmayabilir.
+
+20) Deneysel yöntemde neden kontrol grubu kullanılır?
+Cevap: Bağımsız değişkenin etkisini izole etmek için Açıklama: Etki gerçekten uygulamadan mı geliyor kontrol edilir.
+

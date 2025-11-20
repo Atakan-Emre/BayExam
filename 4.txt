@@ -1,0 +1,87 @@
+1) Bilimde “çok sayıda doğrulayıcı deney ve gözlem sonucu kesinleşmiş ilişki” ne olarak adlandırılır?
+A) Teori B) Yasa C) Hipotez D) Kavram E) Model
+2) Aşağıdakilerden hangisi bilimselliğin ölçütlerinden biri değildir?
+A) Gözlenebilirlik B) Ölçülebilirlik C) Denetlenebilirlik D) Güncellik E) Tekrarlanabilirlik
+3) Mantıksal düşünme yoluyla bilgi edinme hangi kavramdır?
+A) Empirizm B) Rasyonel yaklaşım C) Pozitivizm D) İdealizm E) Realizm
+4) Aşağıdakilerden hangisi nitel araştırmanın özelliğidir?
+A) Sayısal veriler B) Hipotez zorunludur C) Doğal ortam D) Manipülasyon vardır E) Deney grubu kullanılır
+5) Sayısal değerlerle ifade edilen özellikler hangi değişken türüdür?
+A) Nitel B) Süreksiz C) Nicel D) Nominal E) Sürekli
+6) “Ölçmenin tutarlılığı” aşağıdakilerden hangisini ifade eder?
+A) Geçerlik B) Güvenirlik C) Objektiflik D) Duyarlılık E) Standartlaşma
+7) Aşağıdakilerden hangisi birincil kaynaktır?
+A) Ders kitabı B) Tez C) Ansiklopedi D) İnternet forumu E) Gazete
+8) Hipotezlerin test edilmesi hangi araştırma türünde zorunludur?
+A) Betimsel B) Tarihsel C) Deneysel D) Nitel E) Etnografik
+9) Zaman–mekân–örneklem daraltmaları hangi aşamada yapılır?
+A) Veri analizi B) Konu sınırlandırma C) Hipotez oluşturma D) Literatür taraması E) Sonuç yazımı
+10) Doktora programı toplam kaç AKTS’den oluşur?
+A) 120 B) 180 C) 210 D) 240 E) 300
+11) En çok tekrar eden gözlem değerine ne ad verilir?
+A) Medyan B) Mod C) Aritmetik ortalama D) Frekans E) Varyans
+12) “Gerçek sıfır noktası olan ölçek” hangisidir?
+A) Sınıflayıcı B) Sıralayıcı C) Eşit aralıklı D) Oranlı E) Nominal
+13) Aşağıdakilerden hangisi bilimsel araştırmanın temel amaçlarından değildir?
+A) Betimleme B) Açıklama C) Yordama D) Kontrol E) Yaratıcılık
+14) Aşağıdakilerden hangisi veri toplama araçlarından biri değildir?
+A) Anket B) Deney düzeneği C) Gözlem formu D) Termometre E) Varsayım
+15) Sistematik hata hangi tür hatadır?
+A) Ölçümlerin rastgele değişmesi B) Aletin bozuk olması C) Denek kaybı D) Dikkatsizlik E) Şans faktörü
+16) Aritmetik ortalama hangi durumda uygun değildir?
+A) Uç değer varsa B) Veri sayısı büyükse C) Normal dağılım varsa D) Veriler sayısalsa E) Homojenlik yüksekse
+17) Araştırmada toplanan verilerin işlenmesi sonucu ulaşılan bilimsel çıktılar ne olarak adlandırılır?
+A) Veri B) Bulgular C) Yorum D) Hipotez E) Taslak
+18) Tezlerde benzerlik oranı en fazla kaç olmalıdır?
+A) %5 B) %10 C) %15 D) %20 E) %25
+19) Bağımsız değişkenin etkisini izole etmek için ne kullanılır?
+A) Örneklem B) Kontrol grubu C) Denek havuzu D) Rastgele atama E) Değişim katsayısı
+20) “Araştırmada veri toplamak için belgelerin taranması” ne olarak adlandırılır?
+A) Belgesel tarama B) Deney C) Anket D) Derin görüşme E) Ölçme
+
+🟦 Cevap Anahtarı (PART 1 – Sorular 1–20)
+1-B 2-D 3-B 4-C 5-C 6-B 7-B 8-C 9-B 10-D 11-B 12-D 13-E 14-E 15-B 16-A 17-B 18-C 19-B 20-A
+21) Aşağıdakilerden hangisi nicel araştırma türüdür?
+A) Olgu bilim B) Fenomenoloji C) Deneysel araştırma D) Etnografi E) Durum çalışması
+22) Aşağıdakilerden hangisi nitel veri toplama tekniğidir?
+A) Anket B) Yapılandırılmış test C) Görüşme D) Ölçme aracı E) Rastgele atama
+23) Parametrik test kullanılabilmesi için aşağıdakilerden hangisi gerekir?
+A) Veri nominal olmalı B) Örneklem küçülmeli C) Normal dağılım varsayımı sağlanmalı D) Hipotez olmamalı E) Değişken nitel olmalı
+24) Aşağıdakilerden hangisi literatür taramasının amaçlarından biri değildir?
+A) Araştırma problemine ışık tutmak B) Önceki çalışmaları incelemek C) Kaynakları karşılaştırmak D) Yeni bir teori üretmek E) Kavramları netleştirmek
+25) Ölçme sonucunda “aynı birey tekrar ölçüldüğünde benzer sonuç çıkması” neyi ifade eder?
+A) Geçerlik B) Güvenirlik C) Nesnellik D) Duyarlılık E) Tutarlılık
+26) Doktora yeterlik sınavında başarılı sayılmak için ortalama kaç olmalıdır?
+A) 50 B) 55 C) 60 D) 65 E) 70
+27) Aşağıdakilerden hangisi değişken değildir?
+A) Yaş B) Cinsiyet C) Boy uzunluğu D) Kan grubu E) Ölçek türü
+28) Aşağıdakilerden hangisi oranlı ölçeğe örnektir?
+A) Sıcaklık (°C) B) Sıralama C) Boy uzunluğu D) Sınıf derecesi E) Kan grubu
+29) “Araştırma sürecinde izlenen adımların açıklanması” hangi bölümdedir?
+A) Giriş B) Yöntem C) Bulgular D) Sonuç E) Özet
+30) Korelasyon katsayısı r = –0.80 ise ilişki nasıldır?
+A) Zayıf, pozitif B) Zayıf, negatif C) Orta, negatif D) Kuvvetli, negatif E) Hiç ilişki yok
+31) Aşağıdakilerden hangisi veri toplama hatası değildir?
+A) Anketör hatası B) Cevaplayıcı hatası C) Ölçme aracının yanlışlığı D) Kayıp veri E) Örneklem alma hatası
+32) Enstitüye sunulan tezlerde hangi kimlik bilgisi zorunludur?
+A) Publons puanı B) Google Scholar h-index C) ORCID D) RG Score E) Atıf oranı
+33) “Araştırmacının önyargılarından arındırılmış ölçme yapabilmesi” hangi özelliktir?
+A) Nesnellik B) Geçerlik C) Güvenirlik D) Duyarlılık E) Standartlık
+34) Örneklem sayısı n < 10 olduğunda genellikle hangi testler kullanılır?
+A) Parametrik B) Ki-kare C) Non-parametrik D) Regresyon E) Varyans analizi
+35) Aşağıdakilerden hangisi bilimsel etik ihlalidir?
+A) Kaynak göstermek B) Veriyi saklamak C) Sahte veri üretmek D) Deney tekrarı yapmak E) Eleştirel analiz yapmak
+36) “Araştırmanın evrenindeki tüm bireylerin ölçülmesi” ne olarak adlandırılır?
+A) Örnekleme B) Deney C) Tam sayım D) Rastgele seçim E) Sistematik örneklem
+37) Aşağıdakilerden hangisi araştırma probleminin özelliği değildir?
+A) Test edilebilir olmalı B) Açık ve anlaşılır olmalı C) Yorumlanabilir olmalı D) Bilimsel olmalı E) Çözümsüz olmalı
+38) “Aritmetik ortalamanın karelerinden hesaplanan dağılım ölçüsü” hangisidir?
+A) Mod B) Medyan C) Varyans D) Frekans E) Değişim aralığı
+39) Deneysel araştırmalarda bağımlı değişken nedir?
+A) Manipüle edilen değişken B) Sabit tutulan değişken C) Etkisi ölçülen değişken D) Rastgele atanan değişken E) Nitel değişken
+40) Literatür taramasında ilk adım aşağıdakilerden hangisidir?
+A) Kaynakların sınıflandırılması B) Araştırma probleminin belirlenmesi C) Bulguların yazılması D) Ölçme aracının hazırlanması E) Sonuçların çıkarılması
+
+🟦 Cevap Anahtarı (PART 2 – Sorular 21–40)
+21-C 22-C 23-C 24-D 25-B 26-D 27-E 28-C 29-B 30-D 31-D 32-C 33-A 34-C 35-C 36-C 37-E 38-C 39-C 40-B
+

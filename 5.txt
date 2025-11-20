@@ -1,0 +1,238 @@
+41) Aşağıdakilerden hangisi bilimsel yöntemin bir aşaması değildir?
+A) Problem belirleme B) Hipotez oluşturma C) Veri toplama D) Sonuç çıkarma E) Tahmin yürütme
+Doğru Cevap: _E)_
+
+42) Aşağıdakilerden hangisi nitel araştırmada kullanılan bir veri toplama tekniğidir?
+A) Çoktan seçmeli test B) Performans ölçeği C) Derinlemesine görüşme D) Likert ölçek E) Yazılı yoklama
+Doğru Cevap: _C)_
+
+43) “Aynı ölçme aracı farklı zamanlarda aynı sonuçları verirse” bu hangi özelliktir?
+A) Geçerlik B) Nesnellik C) Güvenirlik D) Duyarlılık E) Normallik
+Doğru Cevap: _C)_
+
+44) İstatistikte “uç değerlerden en az etkilenen merkezî eğilim ölçüsü” hangisidir?
+A) Aritmetik ortalama B) Mod C) Medyan D) Geometrik ortalama E) Harmonik ortalama
+Doğru Cevap: _C)_
+
+45) Araştırma sürecinde hipotezler hangi aşamada test edilir?
+A) Giriş B) Yöntem C) Bulgular D) Tartışma E) Özet
+Doğru Cevap: _C)_
+
+46) Aşağıdakilerden hangisi “yasa” kavramının özelliği değildir?
+A) Tekrarlanabilir B) Kesinlik taşır C) Çok sayıda gözlemle doğrulanır D) Değişmez E) Deneyle test edilemez
+Doğru Cevap: _E)_
+
+47) Nicel araştırmalarda örneklem sayısı yeterince büyük değilse hangi testler tercih edilir?
+A) Parametrik B) Ki-kare C) Non-parametrik D) Regresyon E) ANOVA
+Doğru Cevap: _C)_
+
+48) Aşağıdaki değerlerden hangisi “süreksiz (kesikli) değişken” örneğidir?
+A) Sıcaklık B) Boy uzunluğu C) Ağırlık D) Çocuk sayısı E) Kan basıncı
+Doğru Cevap: _D)_
+
+49) Aşağıdakilerden hangisi literatür taramasında “zorunlu olmayan” bir kaynaktır?
+A) Hakemli dergiler B) Tezler C) Kitaplar D) Gazete E) Bilimsel rapor
+Doğru Cevap: _D)_
+
+50) Etki büyüklüğü (effect size) istatistikte neyi ifade eder?
+A) Örneklem genişliğini B) Grubun varyansını C) Bağımsız değişkenin etkisinin gücünü D) Ortalama farkını E) Ölçme aracının güvenirliğini
+Doğru Cevap: _C)_
+
+51) Aşağıdakilerden hangisi nitel araştırmanın dezavantajıdır?
+A) Doğal ortam B) Derin bilgi sağlar C) Sayısal genelleme yapamama D) Esneklik E) Süreç odaklılık
+Doğru Cevap: _C)_
+
+52) Aşağıdakilerden hangisi bilimsel etik ihlaldir?
+A) Veriyi şeffaf paylaşmak B) Kaynak göstermek C) Deneyleri tekrar etmek D) Sahte veri üretmek E) Hakem sürecine katılmak
+Doğru Cevap: _D)_
+
+53) “Araştırma probleminin açık, anlaşılır ve test edilebilir olması” hangi niteliği ifade eder?
+A) Geçerlik B) Problemin niteliği C) Kuramsal çerçeve D) Hipotez E) Bağımlı değişken
+Doğru Cevap: _B)_
+
+54) Aşağıdaki testlerden hangisi iki bağımsız grubun ortalamalarını karşılaştırır?
+A) Ki-kare B) Mann-Whitney U C) ANOVA D) Bağımsız gruplar t-testi E) Kruskal-Wallis
+Doğru Cevap: _D)_
+
+55) “Sadece sıralama yapılabilen ölçek türü” hangisidir?
+A) Nominal B) Ordinal C) Eşit aralıklı D) Oranlı E) Temel
+Doğru Cevap: _B)_
+
+56) Aşağıdakilerden hangisi araştırmada “bağımlı değişken”dir?
+A) Kontrol edilen B) Manipüle edilen C) Ölçülen sonuç D) Sabit tutulan E) Rastgele seçilen
+Doğru Cevap: _C)_
+
+57) Enstitüde yüksek lisans mezuniyeti için minimum ulusal kredi kaçtır?
+A) 12 B) 18 C) 21 D) 24 E) 30
+Doğru Cevap: _C)_
+
+58) Aşağıdakilerden hangisi araştırma raporunda bulgu bölümünde yer alır?
+A) Yüzde – frekans tabloları B) Problem cümlesi C) Hipotez D) Kuramsal çerçeve E) Öneriler
+Doğru Cevap: _A)_
+
+59) Korelasyon katsayısı r = 0.15 ise ilişki nasıldır?
+A) Çok zayıf B) Zayıf C) Orta D) Güçlü E) Negatif güçlü
+Doğru Cevap: _B)_
+
+60) Araştırmada “evreni temsil eden küçük grup” hangi kavramdır?
+A) Evren B) Örneklem C) Denek D) Parametre E) Grup
+Doğru Cevap: _B)_
+61) Aşağıdakilerden hangisi bilimsel araştırmanın temel niteliklerinden değildir?
+A) Objektiflik B) Sistematiklik C) Tekrarlanabilirlik D) Deneysellik zorunluluğu E) Mantıksallık
+Doğru Cevap: _D)_
+
+62) Aşağıdakilerden hangisi nitel araştırmanın avantajıdır?
+A) Geniş örneklem B) Derinlemesine veri C) Kolay genelleme D) Sayısal analiz E) Standart ölçme araçları
+Doğru Cevap: _B)_
+
+63) Bilimsel bir araştırmada problem cümlesi nasıl olmalıdır?
+A) Çok uzun B) Varsayıma dayalı C) Açık ve test edilebilir D) Karmaşık E) Yoruma açık
+Doğru Cevap: _C)_
+
+64) “Araştırmacı olayları doğal ortamında inceler ve gözlemler” ifadesi hangi yöntemi tanımlar?
+A) Deney B) Tarama C) Nitel yöntem D) Tarihsel yöntem E) İçerik analizi
+Doğru Cevap: _C)_
+
+65) Aşağıdakilerden hangisi temel araştırmanın özelliğidir?
+A) Pratik bir probleme çözüm bulur B) Yeni teoriler geliştirmeyi amaçlar C) Endüstriyel ürün geliştirir D) Uygulamalı sonuçlara odaklanır E) Piyasaya ürün sunar
+Doğru Cevap: _B)_
+
+66) Boy uzunluğu hangi ölçek türüne örnektir?
+A) Nominal B) Ordinal C) Aralıklı D) Oranlı E) Sıralayıcı
+Doğru Cevap: _D)_
+
+67) Hangisi ölçme hatası değildir?
+A) Sistematik hata B) Sabit hata C) Rastgele hata D) Denek kaybı E) Alet hatası
+Doğru Cevap: _D)_ (Denek kaybı = iç geçerlilik sorunu, hata türü değil)
+
+68) Normal dağılımın özelliği hangisidir?
+A) Çarpıktır B) Çift modludur C) Simetriktir D) Mod > Medyan > Ortalama E) Uç değer çok fazladır
+Doğru Cevap: _C)_
+
+69) Aşağıdakilerden hangisi bağımsız değişkendir?
+A) Öğrencilerin başarı puanı B) Uygulanan öğretim yöntemi C) Öğrencilerin memnuniyet düzeyi D) Deneklerin yaşları E) Öğrencilerin not ortalaması
+Doğru Cevap: _B)_
+
+70) Literatür taramasının sonunda elde edilen bilgi ne sağlar?
+A) Yeni teori B) Araştırma problemine çerçeve C) İstatistiksel test D) Örneklem seçimi E) Hipotezsiz araştırma
+Doğru Cevap: _B)_
+
+71) Hangisi nitel veri değildir?
+A) Göz rengi B) Cinsiyet C) Tutum puanı D) Doğum yeri E) Üniversite bölümü
+Doğru Cevap: _C)_ (Tutum puanı nicel veridir.)
+
+72) Parametrik testler hangi varsayıma dayanır?
+A) Veriler nominaldir B) Çarpık dağılım vardır C) Normal dağılım vardır D) Hipotez yoktur E) Veri niteliktir
+Doğru Cevap: _C)_
+
+73) Araştırmada “kontrol edilen ama manipüle edilmeyen değişken” hangisidir?
+A) Bağımsız değişken B) Bağımlı değişken C) Denek değişkeni D) Ara değişken E) Kontrollü değişken
+Doğru Cevap: _E)_
+
+74) Aşağıdakilerden hangisi örnekleme yöntemidir?
+A) Tam sayım B) Sistematik örnekleme C) Veri toplama formu D) Frekans tablosu E) Deney tasarımı
+Doğru Cevap: _B)_
+
+75) Betimsel araştırmanın amacı nedir?
+A) Neden–sonuç bulmak B) Yeni teori üretmek C) Mevcut durumu tanımlamak D) Manipülasyon yapmak E) Deneysel etki ölçmek
+Doğru Cevap: _C)_
+
+76) Tez yazımında kaynak gösterilmeyen alıntı hangi etik ihlaldir?
+A) Çarpıtma B) Tekrar yayın C) Uydurma D) İntihal E) Aşırı yorum
+Doğru Cevap: _D)_
+
+77) Hangisi araştırmanın “yöntem” bölümünde yer alır?
+A) Araştırmanın önemi B) Evren ve örneklem C) Kuramsal çerçeve D) Sonuçlar E) Özet
+Doğru Cevap: _B)_
+
+78) Aşağıdakilerden hangisi bir “ölçek türü” değildir?
+A) Sınıflayıcı B) Sıralayıcı C) Aralıklı D) Oranlı E) Çeşitleyici
+Doğru Cevap: _E)_
+
+79) Araştırmacının kendi önyargılarından arındırması hangi kavramdır?
+A) Nesnellik B) Geçerlik C) Güvenirlik D) Duyarlılık E) Etkililik
+Doğru Cevap: _A)_
+
+80) iki grup ortalaması karşılaştırılacak ve normal dağılım sağlanıyorsa hangi test uygulanır?
+A) Mann-Whitney U B) Ki-Kare C) Bağımsız gruplar t-testi D) ANOVA E) Wilcoxon
+Doğru Cevap: _C)_
+81) Aşağıdakilerden hangisi bilimsel bilginin özelliğidir?
+A) Değişmez B) Dinamik ve gelişebilir C) Kesin ve mutlak D) Yoruma kapalı E) Deney gerektirmez
+Doğru Cevap: _B)_
+
+82) Aşağıdakilerden hangisi nitel araştırmanın bir veri toplama aracı değildir?
+A) Gözlem B) Görüşme C) Doküman inceleme D) Anket E) Odak grup
+Doğru Cevap: _D)_
+
+83) “Araştırma evrenindeki tüm bireylere ulaşılması” ne olarak adlandırılır?
+A) Örnekleme B) Tam sayım C) Sistematik örnekleme D) Basit rastgele örnekleme E) Küme örnekleme
+Doğru Cevap: _B)_
+
+84) Aralıklı ölçeğe örnek aşağıdakilerden hangisidir?
+A) Sıcaklık (°C) B) Boy uzunluğu C) Ağırlık D) Yaş E) Doğum yılı
+Doğru Cevap: _A)_ (°C sıfır noktası görecelidir → aralıklı ölçek.)
+
+85) Etik ihlallerden hangisi “veri uydurma” olarak tanımlanır?
+A) Çarpıtma B) Aşırma C) Uydurma D) Tekrar yayın E) Yanlış atıf
+Doğru Cevap: _C)_
+
+86) “Araştırmada ölçülmek istenen özelliği gerçekten ölçebilmek” hangi kavramdır?
+A) Güvenirlik B) Geçerlik C) Nesnellik D) Duyarlılık E) Tutarlılık
+Doğru Cevap: _B)_
+
+87) Aşağıdakilerden hangisi bilimsel yöntemin ilk aşamasıdır?
+A) Veri toplama B) Hipotez kurma C) Problem belirleme D) Yöntem geliştirme E) Literatür tarama
+Doğru Cevap: _C)_
+
+88) Aşağıdaki ifadelerden hangisi nicel araştırmanın özelliğidir?
+A) Esnek süreç B) Yorumlayıcı yaklaşım C) Büyük örneklem D) Doğal ortam E) Derinlemesine analiz
+Doğru Cevap: _C)_
+
+89) Hangisi deneysel araştırmada bulunmaz?
+A) Manipülasyon B) Kontrol grubu C) Rastgele atama D) Gözlem formu E) Nedensel ilişki
+Doğru Cevap: _D)_
+
+90) Nitel araştırmalarda verilerin analizinde en çok kullanılan yöntem hangisidir?
+A) Korelasyon B) İçerik analizi C) Regresyon D) ANOVA E) Ki-kare
+Doğru Cevap: _B)_
+
+91) Aşağıdakilerden hangisi veri türlerinden biri değildir?
+A) Sürekli B) Kesikli C) Nominal D) Mantıksal E) Ordinal
+Doğru Cevap: _D)_ ("Mantıksal veri" diye bir veri türü yoktur.)
+
+92) Değişkenler arası ilişkinin derecesini belirlemek için hangi yöntem kullanılır?
+A) Regresyon B) Korelasyon C) Ki-kare D) ANOVA E) t-testi
+Doğru Cevap: _B)_
+
+93) Hangisi araştırmada bağımlı değişken olabilir?
+A) Verilen eğitim yöntemi B) Öğrencilerin başarı puanı C) Öğretmenin deneyimi D) Kullandığı materyal E) Ders işleme süresi
+Doğru Cevap: _B)_
+
+94) ANOVA hangi amaçla kullanılır?
+A) İki grup ortalamasını karşılaştırmak B) Üç ve daha fazla grup ortalamasını karşılaştırmak C) Korelasyon katsayısı bulmak D) Regresyon katsayısı bulmak E) Uç değer tespiti
+Doğru Cevap: _B)_
+
+95) Hangisi örneklem seçimi için olasılıklı yöntemdir?
+A) Kolayda örnekleme B) Amaçlı örnekleme C) Kartopu örnekleme D) Sistematik örnekleme E) Uzman örnekleme
+Doğru Cevap: _D)_
+
+96) “Verilerin anlamlı gruplara ayrılması” hangi kavrama karşılık gelir?
+A) Sınıflandırma B) Kodlama C) Analiz D) Yorum E) Tahmin
+Doğru Cevap: _A)_
+
+97) Hangisi nitel araştırmanın dezavantajıdır?
+A) Küçük örneklem B) Derin bilgi sağlar C) Esnek süreç D) Doğal ortamda yapılması E) Anlam ortaya çıkarır
+Doğru Cevap: _A)_
+
+98) İç geçerliliği azaltan unsurlardan biri hangisidir?
+A) Deney süresi B) Örneklem büyüklüğü C) Ölçme aracı güvenirliği D) Rastgele atama E) Kontrol grubu
+Doğru Cevap: _A)_
+
+99) İki değişken arasındaki neden–sonuç ilişkisini ortaya koymak için hangi yöntem kullanılır?
+A) Betimsel yöntem B) Korelasyon C) Deneysel yöntem D) İçerik analizi E) Tarama modeli
+Doğru Cevap: _C)_
+
+100) Literatür taramasının sonunda araştırmacı ne yapmalıdır?
+A) Deney düzeni kurmalıdır B) Hipotez geliştirmelidir C) Tez yazmalıdır D) Uygulamaya geçmelidir E) Manipülasyon yapmalıdır
+Doğru Cevap: _B)_
+

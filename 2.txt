@@ -1,0 +1,50 @@
+1) Deneysel araştırma aşağıdaki sorulardan hangisine cevap arar?
+A) Gerek var mı B) Ne yapmalı C) Neden D) Nedir E) Ne idi
+Cevap: C) Neden Açıklama: Deneysel araştırma “bir değişkeni değiştirirsem neden/sonuç ilişkisi ne olur?” sorusuna odaklanır.
+
+2) Mantıksal düşünme yoluyla bilgi edinmeye ne ad verilir?
+A) Rasyonel Yaklaşım B) Bilimsel Yaklaşım C) Geleneksel Yaklaşım D) Teknolojik Yaklaşım E) Teorik Yaklaşım
+Cevap: A) Rasyonel Yaklaşım Açıklama: Rasyonel = akla, mantığa dayalı çıkarıma güvenen yaklaşım.
+
+3) Bilimsel bilgi hakkında aşağıdakilerden hangisi söylenemez?
+A) Toplanan olguların bir sınıflandırmasıdır B) Mantık kurallarına uygun olarak elde edilir C) Olgusaldır, gözlenebilir olgulara dayanır D) Dinamik değil, statiktir E) Daima sorgulanabilir
+Cevap: D) Dinamik değil, statiktir Açıklama: Bilimsel bilgi dinamiktir, yeni verilerle değişebilir. Statik olması bilimselliğe aykırı.
+
+4) Araştırma sürecinde aşağıdaki basamaklardan hangisi diğerlerinden önce gelir?
+A) Veri toplama B) Araştırmanın planlanması C) Veri analizi D) Hipotez kurma E) Amaç belirleme
+Cevap: E) Amaç belirleme Açıklama: Önce “NEYİ araştırıyorum?” belli olur, sonra plan, hipotez, veri toplama gelir.
+
+5) İyi bir literatür taraması ile ilgili aşağıdakilerden hangisi yanlıştır?
+A) Araştırma problemiyle doğrudan ilgili olmalı B) Dergiler, magazinler, gazeteler gibi belgeleri de içermelidir C) Güçlü ve zayıf yönleri değerlendirmelidir D) Bilinen–bilinmeyenleri sentezlemelidir E) Uzlaşılamayan alanları göstermelidir
+Cevap: B) Açıklama: Gazete/magazin genelde bilimsel literatür sayılmaz; odak hakemli, akademik kaynaklardır.
+
+6) Aşağıdakilerden hangisi nicel bir araştırmanın özelliği değildir?
+A) Deney, manipülasyon ve kontrol vardır B) Değişkenler kesin sınırlarda belirlenir C) Kendi bütünlüğü içinde ve doğal gelişir D) Veriler sayısal göstergelere indirgenir E) Sonuçlara ilişkin tahmin yapılır
+Cevap: C) Kendi bütünlüğü içinde ve doğal gelişir Açıklama: Bu ifade daha çok nitel araştırmanın (doğal ortam, süreç odaklı) özelliğidir.
+
+**7) “Hangi sıklıkla sinemaya gidersiniz?
+Düzenli ( ) Bazen ( ) Nadir ( ) Hiç ( )” Bu soru türü aşağıdakilerden hangisine örnektir?**
+A) Tutum B) İnanç C) Kanaat D) Davranış E) Bilgi
+Cevap: D) Davranış Açıklama: Sorduğu şey “ne sıklıkla gidiyorsun” = davranış sıklığı.
+
+8) Bir deneyde, deneyin iç geçerliliğini etkileyen faktör değildir?
+A) Zaman B) Deney öncesi ölçme C) Deney yöntemi D) Denek kaybı E) Olgunlaşma
+Cevap: A) Zaman Açıklama: Zaman genelde dış geçerlilikle (genellenebilirlik) ilgilidir; diğerleri iç geçerliliği etkiler.
+
+9) Bilimsel araştırma konusu belirlenirken aşağıdakilerin hangisine dikkat edilmelidir?
+I. Konunun özgünlüğü II. Araştırmacının ilgisi III. Veri toplama yöntemine uygunluk IV. Konunun önemi V. Araştırmacının bilimsel yeterliliği
+Seçenekler arasında: A) I, V B) II, III C) I, II, V D) I, II, IV, V E) Hepsi
+Cevap: E) Hepsi Açıklama: Konu seçimi hem bilimsel, hem pratik, hem de kişisel uyum ister.
+
+10) İki ya da daha fazla grup üzerinde yapılan uygulamaların, belli değişkenler üzerindeki etkilerini inceleyen nicel model hangisidir?
+A) Deneysel model B) Bağıntısal model C) Tarihsel model D) Betimsel model E) Nedensel-karşılaştırmalı model
+Cevap: A) Deneysel model Açıklama: Soru kökünde “üzerinde uygulama yapma” var → bu deney demektir. Nedensel–karşılaştırmalıda araştırmacı müdahale etmez, gruplar zaten oluşmuştur.
+
+11) Aşağıdakilerden hangisi değişken tiplerini nitelemez?
+A) Nitelik B) Nicelik C) Bağımlılık D) Süreklilik E) Görecelilik
+Cevap: E) Görecelilik Açıklama: Değişkenler nitel/nicel, sürekli/süreksiz, bağımlı/bağımsız diye sınıflanır. “Görecelilik” standart bir değişken türü değildir.
+
+12) Aşağıdakilerden hangisi literatür tarama sistemi içinde yer almaz?
+A) Bilimsel dergiler B) Kütüphaneler C) Uzmanlar D) Arşivler E) Üniversiteler
+Cevap: C) Uzmanlar Açıklama: Uzmanlar → kaynak kişi; ama “literatür sisteminin öğesi” denince dergiler, kütüphane, veri tabanı gibi doküman kaynakları kastedilir.
+

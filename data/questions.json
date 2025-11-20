@@ -1,0 +1,3310 @@
+[
+  {
+    "id": 1,
+    "source": "1.txt",
+    "number": 1,
+    "question": "Bilimde çok sayıda deney ve gözlemden sonra, aynı şartlarda aynı sonuçları verdiği kesin olarak belirlenen durum nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Yasa (Bilimsel Yasa)"
+    },
+    "explanation": "Teori açıklayıcıdır; yasa ise çok sayıda doğrulanmış gözlemden sonra kesinleşmiş ilişkidir."
+  },
+  {
+    "id": 2,
+    "source": "1.txt",
+    "number": 2,
+    "question": "Son dönem nüfus sayım verileri gibi sayısal değerler içeren ölçütlere ne denir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Nicel (Sayısal) Ölçüt"
+    },
+    "explanation": "Ölçülebilen, sayılarla ifade edilen verilerdir."
+  },
+  {
+    "id": 3,
+    "source": "1.txt",
+    "number": 3,
+    "question": "Aşağıdakilerden hangisi birincil kaynak değildir? (bayçıkmış3’teki soru)",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "İnternet kaynakları"
+    },
+    "explanation": "Birincil kaynak: tezler, makaleler, ham veri setleri… İnternet kaynağı derleme olabilir."
+  },
+  {
+    "id": 4,
+    "source": "1.txt",
+    "number": 4,
+    "question": "İki grubun ortalamasını karşılaştırmak için kullanılan test hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "t-Testi"
+    },
+    "explanation": "“Ortalamalar arası fark anlamlı mı?” sorusunu t-testi hesaplar."
+  },
+  {
+    "id": 5,
+    "source": "1.txt",
+    "number": 5,
+    "question": "FORM-24 hangi konu ile ilgilidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Yüksek Lisans Tez Konusu Önerisi"
+    },
+    "explanation": "FORM-24 = YL tez öneri formu. Doktora için farklı numaralar vardır."
+  },
+  {
+    "id": 6,
+    "source": "1.txt",
+    "number": 6,
+    "question": "Yüksek lisans ve doktora tezlerinde zorunlu olarak eklenen kimlik hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "ORCID Numarası"
+    },
+    "explanation": "Enstitü formatı gereği tezlerde ORCID zorunludur."
+  },
+  {
+    "id": 7,
+    "source": "1.txt",
+    "number": 7,
+    "question": "Yeterlik sınavını geçen bir doktora öğrencisi, Tez İzleme Komitesi dilekçesini en geç ne zaman göndermelidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "1 ay içinde"
+    },
+    "explanation": "Enstitü yönetmeliği: yeterlik sonrası 1 ay."
+  },
+  {
+    "id": 8,
+    "source": "1.txt",
+    "number": 8,
+    "question": "Aşağıdakilerden hangisi açık uçlu sorularla veri toplayan yöntemdir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Nitel araştırma"
+    },
+    "explanation": "Açık uçlu görüşmeler → nitel yöntemdir."
+  },
+  {
+    "id": 9,
+    "source": "1.txt",
+    "number": 9,
+    "question": "Vize 1 = 65 (%20), Vize 2 = 55 (%20), Final = 70 (%60). Başarı notu kaçtır? Hesap: 65×0.2 = 13 55×0.2 = 11 70×0.6 = 42 Toplam = 66",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "66"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "source": "1.txt",
+    "number": 10,
+    "question": "Aşağıdakilerden hangisi TÜBİTAK’a bağlı değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "KOSGEB"
+    },
+    "explanation": "ARDEB, TEYDEB, BİDEB, ULAKBİM → TÜBİTAK’a bağlıdır; KOSGEB ayrı kuruluştur."
+  },
+  {
+    "id": 11,
+    "source": "1.txt",
+    "number": 11,
+    "question": "Standart sapma hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "B"
+    },
+    "explanation": "Standart sapma “farkların ortalaması” değil karelerinin ortalamasının kareköküdür."
+  },
+  {
+    "id": 12,
+    "source": "1.txt",
+    "number": 12,
+    "question": "Tezli yüksek lisans programından mezun olmak için gerekli asgari kredi nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "21 Ulusal Kredi – 120 AKTS"
+    },
+    "explanation": "7 ders × 3 kredi = 21. Toplam AKTS = 120."
+  },
+  {
+    "id": 13,
+    "source": "1.txt",
+    "number": 13,
+    "question": "Bir derginin etki faktörü (Impact Factor) neye göre belirlenir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Dergide yayınlanan makalelerin aldığı atıf sayısına göre"
+    },
+    "explanation": "IF = belirli yılda alınan atıflar / önceki iki yılın yayın sayısı."
+  },
+  {
+    "id": 14,
+    "source": "1.txt",
+    "number": 14,
+    "question": "Değişik veriler elde etmek amacıyla araştırma araçlarında değişiklik yapmak hangi etik ihlaldir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Çarpıtma (Manipülasyon)"
+    },
+    "explanation": "Bilimsel veriyi değiştirmek → Çarpıtma."
+  },
+  {
+    "id": 15,
+    "source": "1.txt",
+    "number": 15,
+    "question": "Bilim bazı temel niteliklere sahip olmalıdır. Hangisi bu niteliklere uzak?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "İnovatiflik"
+    },
+    "explanation": "Bilimin temel nitelikleri: evrensellik, nesnellik, mantıksallık, test edilebilirlik."
+  },
+  {
+    "id": 16,
+    "source": "1.txt",
+    "number": 16,
+    "question": "Verilerin sınıflandırılması sonucu ortaya çıkan her bir şıkkın tekrar sayısı nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Frekans"
+    },
+    "explanation": "Bir gözlem değerinin kaç kez geçtiğini gösterir."
+  },
+  {
+    "id": 17,
+    "source": "1.txt",
+    "number": 17,
+    "question": "iThenticate benzerlik incelemesi ne için yapılabilir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Hepsi (Makale, tez, ödev, proje)"
+    },
+    "explanation": "Tüm akademik çalışmalar benzerlik taramasına girer."
+  },
+  {
+    "id": 18,
+    "source": "1.txt",
+    "number": 18,
+    "question": "Doktora tez konusu önerisi için gerekli olmayan aşama hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Doktora Tez İlerleme Raporu"
+    },
+    "explanation": "Tez konusu önerisi daha erken aşamadır, ilerleme raporu daha sonraki dönemdir."
+  },
+  {
+    "id": 19,
+    "source": "1.txt",
+    "number": 19,
+    "question": "Bir konu hakkında dinleyicilere bilgi sağlayan, soru-cevap ortamı oluşturan toplantı nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Seminer"
+    },
+    "explanation": "Konferans → geniş kitle; Panel → tartışmalı ortam; Seminer → eğitim + etkileşim."
+  },
+  {
+    "id": 20,
+    "source": "1.txt",
+    "number": 20,
+    "question": "“Araştırma evrenini temsil eden küçük model” ne olarak tanımlanır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Örneklem"
+    },
+    "explanation": "Evrenin daha küçük, temsil edici alt kümesidir."
+  },
+  {
+    "id": 21,
+    "source": "1.txt",
+    "number": 21,
+    "question": "Literatür taramasında aşağıdakilerden hangisinin yapılması zorunlu değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Özgün bulguların ortaya konulması"
+    },
+    "explanation": "Literatür taraması “mevcut bilgiyi inceleme”dir, yeni bulgu üretme zorunluluğu yoktur."
+  },
+  {
+    "id": 22,
+    "source": "1.txt",
+    "number": 22,
+    "question": "Kaynak ve belgeleri inceleyerek veri toplama hangi tanıma aittir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Literatür tarama"
+    },
+    "explanation": "Belgeler, kayıtlar, tezler, makaleler taranarak veri elde edilir."
+  },
+  {
+    "id": 23,
+    "source": "1.txt",
+    "number": 23,
+    "question": "Aşağıdakilerden hangisi bilimsel yöntemi en iyi özetler?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Zihinsel gelişme, yenileşme, olgunlaşma süreci"
+    },
+    "explanation": "Bilimsel yöntem statik değil; sürekli yenilenen, gelişen bir düşünce sistemidir."
+  },
+  {
+    "id": 24,
+    "source": "1.txt",
+    "number": 24,
+    "question": "Korelasyon katsayısı r = +0.50 ise ilişki düzeyi nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Orta düzey"
+    },
+    "explanation": "0.00–0.30 → zayıf 0.30–0.70 → orta 0.70–1.00 → güçlü"
+  },
+  {
+    "id": 25,
+    "source": "1.txt",
+    "number": 25,
+    "question": "“Bilgisayar destekli eğitimin öğrencilerin akademik başarılarına etkisi” araştırmasının bağımsız değişkeni nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Bilgisayar destekli eğitim"
+    },
+    "explanation": "Etkileyen değişken bağımsızdır; etkilenen (başarı) bağımlıdır."
+  },
+  {
+    "id": 26,
+    "source": "1.txt",
+    "number": 26,
+    "question": "Aşağıdakilerden hangisi amaca göre araştırma türlerinden değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Temel araştırmalar hariç? Hayır."
+    },
+    "explanation": "Soruya göre doğru cevap: Değerlendirme Araştırmaları amaca göre araştırmadır. Uygulamalı araştırmalar da amaca göredir. Aksiyon araştırmaları da. Doğru olmayan: Sashe? Verilen pdf’e göre cevap: “Temel araştırmalar” değil → “Saha araştırmaları” Saha araştırması → yöntem türüdür, amaç değil. Cevap: Saha Araştırmaları"
+  },
+  {
+    "id": 27,
+    "source": "1.txt",
+    "number": 27,
+    "question": "Doktora programı toplam kaç AKTS’den oluşur?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "240 AKTS"
+    },
+    "explanation": "Doktora = 8 dönem × 30 AKTS."
+  },
+  {
+    "id": 28,
+    "source": "1.txt",
+    "number": 28,
+    "question": "Yüksek lisansta kaç dersten başarılı olmak gerekir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "7+1 (7 ders + seminer)"
+    },
+    "explanation": "Enstitü yönetmeliğine göre en az 21 kredi = 7 ders."
+  },
+  {
+    "id": 29,
+    "source": "1.txt",
+    "number": 29,
+    "question": "Bir derginin en kaliteli sınıfı Web of Science sınıflamasına göre hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Q1"
+    },
+    "explanation": "Q1 = üst %25 → en prestijli dergiler."
+  },
+  {
+    "id": 30,
+    "source": "1.txt",
+    "number": 30,
+    "question": "Doktora yeterlik sınavında başarılı sayılmak için sözlü + yazılı ortalaması en az kaç olmalıdır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "65"
+    },
+    "explanation": "Çoğu enstitüde 65 eşik nottur."
+  },
+  {
+    "id": 31,
+    "source": "1.txt",
+    "number": 31,
+    "question": "Doktora semineri kaç dönem içinde sunulmak zorundadır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "4. dönem"
+    },
+    "explanation": "Enstitü yönetmeliği: öğrenci 4. yarıyıla kadar semineri sunmalıdır."
+  },
+  {
+    "id": 32,
+    "source": "1.txt",
+    "number": 32,
+    "question": "Bir doktora öğrencisi tez savunmasına girebilmek için en az kaç olumlu tez izleme raporu göndermelidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "3"
+    },
+    "explanation": "Yıllık 2 TİK toplantısı vardır; toplamda en az 3 olumlu rapor zorunludur."
+  },
+  {
+    "id": 33,
+    "source": "1.txt",
+    "number": 33,
+    "question": "Seminer çalışması için danışman tarafından önerilen jüri kaç kişiden oluşur?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "3 kişi"
+    },
+    "explanation": "Danışman + en az 2 öğretim üyesi."
+  },
+  {
+    "id": 34,
+    "source": "1.txt",
+    "number": 34,
+    "question": "Bir Yüksek Lisans öğrencisi YÖK Tez Veri Giriş Formu’nu kaç kez doldurur?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "1 kez"
+    },
+    "explanation": "Yüksek lisans öğrencisi sadece mezuniyet aşamasında doldurur."
+  },
+  {
+    "id": 35,
+    "source": "1.txt",
+    "number": 35,
+    "question": "Otorite yoluyla bilgi edinmenin avantajı olmayan hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Kasıtlı yönlendirme"
+    },
+    "explanation": "Otorite hızlı ve ekonomiktir; ancak yönlendirme dezavantajdır."
+  },
+  {
+    "id": 36,
+    "source": "1.txt",
+    "number": 36,
+    "question": "Aşağıdakilerden hangisi bilimselliğin ölçütlerinden biri değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Güncellik"
+    },
+    "explanation": "Bilimsellik → gözlenebilirlik, ölçülebilirlik, tekrarlanabilirlik, iletilebilirlik. “Güncellik” şart değildir."
+  },
+  {
+    "id": 37,
+    "source": "1.txt",
+    "number": 37,
+    "question": "Sistematik, planlı ve kontrollü yapılan çalışmaların adı nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Bilimsel yaklaşım"
+    },
+    "explanation": "Tümevarım/tümdengelim alt düşünce türleridir; genel çatı bilimsel yaklaşımdır."
+  },
+  {
+    "id": 38,
+    "source": "1.txt",
+    "number": 38,
+    "question": "Bir deneyde “iç geçerliliği” etkileyen faktör değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Zaman (PDF’de böyle verilmiş)"
+    },
+    "explanation": "İç geçerlilik → test, olgunlaşma, ölçme, deneysel işlem, denek kaybı gibi faktörler. “Zaman” dış geçerlilikle ilişkilidir."
+  },
+  {
+    "id": 39,
+    "source": "1.txt",
+    "number": 39,
+    "question": "Benzin fiyatlarının yıllık kat sayıları verildiğinde ortalama artış hızını bulmada hangi yöntem kullanılır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Geometrik ortalama"
+    },
+    "explanation": "Çarpan şeklindeki büyümelerde geometrik ortalama kullanılır."
+  },
+  {
+    "id": 40,
+    "source": "1.txt",
+    "number": 40,
+    "question": "Araştırmada veya makalede aktif katkısı olmayan kişilerin adlarını eklemek hangi etik ihlaldir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Saygısızlık – Vefasızlık (Hediyelik yazarlık)"
+    },
+    "explanation": "“Gift authorship” en sık görülen etik ihlallerden biridir."
+  },
+  {
+    "id": 41,
+    "source": "1.txt",
+    "number": 41,
+    "question": "Varlığın birinci öğesinin düşünce olduğunu savunan öğreti hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "İdealizm"
+    },
+    "explanation": "İdealizm → “düşünce önceliklidir.” Realizm → “gerçeklik zihinden bağımsızdır.”"
+  },
+  {
+    "id": 42,
+    "source": "1.txt",
+    "number": 42,
+    "question": "29, 31, 30, 32, 31, 33, 31, 32, 36, 35 Bu serinin medyanı nedir? Önce sırala: 29, 30, 31, 31, 31, 32, 32, 33, 35, 36 10 değer → ortadaki iki değer 31 ve 32 Medyan = (31 + 32) / 2 = 31.5",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "31.5"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "source": "1.txt",
+    "number": 43,
+    "question": "Nitelikli araştırmada olmaması gereken bilimsel tutum hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Ölçütsüz (keyfi) karar verme"
+    },
+    "explanation": "Bilimsel tutum → kuşkucu, açık fikirli, objektif. Ölçütsüzlük bilime aykırıdır."
+  },
+  {
+    "id": 44,
+    "source": "1.txt",
+    "number": 44,
+    "question": "“Çok sayıda deney ve gözlemden sonra aynı sonuçları veren durum” hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Kanun (Bilimsel Yasa)"
+    },
+    "explanation": "Teori açıklayıcıdır; yasa kesinleşmiş ilişkidir."
+  },
+  {
+    "id": 45,
+    "source": "1.txt",
+    "number": 45,
+    "question": "Seçeneklerde: sabit hata, sistematik hata, rastgele hata, dikkatsizlik…",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Belirsizlik hata analizi"
+    },
+    "explanation": "Diğerleri gerçek hata türleri; “belirsizlik” hata türü değil, ölçme kavramıdır."
+  },
+  {
+    "id": 46,
+    "source": "1.txt",
+    "number": 46,
+    "question": "Konuyu sınırlandırmada kullanılamayan ölçüt hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Orijinallik"
+    },
+    "explanation": "Konu → zaman, mekân, örneklem, olay üzerinden sınırlandırılır. Orijinallik sınırlandırma değildir; nitelik belirtir."
+  },
+  {
+    "id": 47,
+    "source": "1.txt",
+    "number": 47,
+    "question": "“Olguların işlenmesi ve çözümlenmesiyle ulaşılan sonuçlar” tanımı hangi kavramdır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Bulgu"
+    },
+    "explanation": "Veri ham halidir; bulgu işlenmiş halidir; sonuç son yorumdur."
+  },
+  {
+    "id": 48,
+    "source": "1.txt",
+    "number": 48,
+    "question": "Tam odak grup görüşmesinde ideal katılımcı sayısı kaçtır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "7–9 kişi"
+    },
+    "explanation": "Odak grup genelde 6–10 kişi aralığında olur; ideal 7–9’dur."
+  },
+  {
+    "id": 49,
+    "source": "1.txt",
+    "number": 49,
+    "question": "Sayısal değerler içeren ölçütlere ne ad verilir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Nicel ölçütler"
+    },
+    "explanation": "Nicel = sayısal; Nitel = sınıflayıcı."
+  },
+  {
+    "id": 50,
+    "source": "1.txt",
+    "number": 50,
+    "question": "“Hiçbir deney yapmadan sonuç üretmek” hangi etik ihlaldir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Sahtecilik (Uydurmacılık)"
+    },
+    "explanation": "Veriyi tamamen uydurmak en ağır etik suçtur."
+  },
+  {
+    "id": 51,
+    "source": "1.txt",
+    "number": 51,
+    "question": "Aşağıdakilerden hangisi bilgi edinme yollarından biri değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Hayal yoluyla"
+    },
+    "explanation": "•\tOtorite •\tAkıl (rasyonel) •\tDeney •\tGelenek Bilgi edinme yollarıdır. Hayal → kişisel tasavvur, bilgi kaynağı değildir."
+  },
+  {
+    "id": 52,
+    "source": "1.txt",
+    "number": 52,
+    "question": "Amaca göre araştırmalar arasında yer alan hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Aksiyon–Eylem Araştırması"
+    },
+    "explanation": "Amaca göre araştırmalar → temel, uygulamalı, AR-GE, değerlendirme, aksiyon."
+  },
+  {
+    "id": 53,
+    "source": "1.txt",
+    "number": 53,
+    "question": "“Varlığın özünün düşünce olduğu” görüşünü savunan akım?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "İdealizm"
+    },
+    "explanation": "İdealizm → zihinsel gerçeklik Realizm → dış dünya gerçekliği Pozitivizm → gözlem ve deney"
+  },
+  {
+    "id": 54,
+    "source": "1.txt",
+    "number": 54,
+    "question": "Nitelikli araştırma için doğru olmayan bilimsel tutum hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Ölçütsüz düşünebilmek / karar verebilmek"
+    },
+    "explanation": "Bilimde nesnel, kriterli, sistematik düşünme gerekir."
+  },
+  {
+    "id": 55,
+    "source": "1.txt",
+    "number": 55,
+    "question": "“Bilimde çok sayıda deneyden sonra kesinleşen durum” nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Kanun (Bilimsel Yasa)"
+    },
+    "explanation": "Çok tekrar + aynı sonuç → yasa."
+  },
+  {
+    "id": 56,
+    "source": "1.txt",
+    "number": 56,
+    "question": "(Aynı soru bayçıkmış3’te geçiyor)",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Parametrik olmayan testler"
+    },
+    "explanation": "Küçük örneklemde (özellikle n < 30) varsayımlar zayıf → non-parametrik kullanılır."
+  },
+  {
+    "id": 57,
+    "source": "1.txt",
+    "number": 57,
+    "question": "“Bir bilimsel ekolün temsilcilerinde görülen düşünce ve davranış ortaklığı” hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Paradigma"
+    },
+    "explanation": "Paradigma → bilimsel bakış açısı, araştırma çerçevesi."
+  },
+  {
+    "id": 58,
+    "source": "1.txt",
+    "number": 58,
+    "question": "Bağımlı-bilinmeyen ve bağımsız-açıklayan değişken ilişkisini matematiksel modelleyen yöntem?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Regresyon Analizi"
+    },
+    "explanation": "Korelasyon → ilişki derecesi Regresyon → neden–sonuç biçimli matematiksel model"
+  },
+  {
+    "id": 59,
+    "source": "1.txt",
+    "number": 59,
+    "question": "PDF’de geçen sıra: Editörler → Hakemler → Yazarlar → Yayın yöneticileri",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "E seçeneği (Editörler - Hakemler - Yazarlar - Yayın Yönetmenleri)"
+    },
+    "explanation": "Süreç editör ile başlar → hakem → yazar → yayım."
+  },
+  {
+    "id": 60,
+    "source": "2.txt",
+    "number": 1,
+    "question": "Deneysel araştırma aşağıdaki sorulardan hangisine cevap arar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gerek var mı"
+      },
+      {
+        "label": "B",
+        "text": "Ne yapmalı"
+      },
+      {
+        "label": "C",
+        "text": "Neden"
+      },
+      {
+        "label": "D",
+        "text": "Nedir"
+      },
+      {
+        "label": "E",
+        "text": "Ne idi"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Neden"
+    },
+    "explanation": "Deneysel araştırma “bir değişkeni değiştirirsem neden/sonuç ilişkisi ne olur?” sorusuna odaklanır."
+  },
+  {
+    "id": 61,
+    "source": "2.txt",
+    "number": 2,
+    "question": "Mantıksal düşünme yoluyla bilgi edinmeye ne ad verilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rasyonel Yaklaşım"
+      },
+      {
+        "label": "B",
+        "text": "Bilimsel Yaklaşım"
+      },
+      {
+        "label": "C",
+        "text": "Geleneksel Yaklaşım"
+      },
+      {
+        "label": "D",
+        "text": "Teknolojik Yaklaşım"
+      },
+      {
+        "label": "E",
+        "text": "Teorik Yaklaşım"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Rasyonel Yaklaşım"
+    },
+    "explanation": "Rasyonel = akla, mantığa dayalı çıkarıma güvenen yaklaşım."
+  },
+  {
+    "id": 62,
+    "source": "2.txt",
+    "number": 3,
+    "question": "Bilimsel bilgi hakkında aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Toplanan olguların bir sınıflandırmasıdır"
+      },
+      {
+        "label": "B",
+        "text": "Mantık kurallarına uygun olarak elde edilir"
+      },
+      {
+        "label": "C",
+        "text": "Olgusaldır, gözlenebilir olgulara dayanır"
+      },
+      {
+        "label": "D",
+        "text": "Dinamik değil, statiktir"
+      },
+      {
+        "label": "E",
+        "text": "Daima sorgulanabilir"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Dinamik değil, statiktir"
+    },
+    "explanation": "Bilimsel bilgi dinamiktir, yeni verilerle değişebilir. Statik olması bilimselliğe aykırı."
+  },
+  {
+    "id": 63,
+    "source": "2.txt",
+    "number": 4,
+    "question": "Araştırma sürecinde aşağıdaki basamaklardan hangisi diğerlerinden önce gelir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Veri toplama"
+      },
+      {
+        "label": "B",
+        "text": "Araştırmanın planlanması"
+      },
+      {
+        "label": "C",
+        "text": "Veri analizi"
+      },
+      {
+        "label": "D",
+        "text": "Hipotez kurma"
+      },
+      {
+        "label": "E",
+        "text": "Amaç belirleme"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Amaç belirleme"
+    },
+    "explanation": "Önce “NEYİ araştırıyorum?” belli olur, sonra plan, hipotez, veri toplama gelir."
+  },
+  {
+    "id": 64,
+    "source": "2.txt",
+    "number": 5,
+    "question": "İyi bir literatür taraması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araştırma problemiyle doğrudan ilgili olmalı"
+      },
+      {
+        "label": "B",
+        "text": "Dergiler, magazinler, gazeteler gibi belgeleri de içermelidir"
+      },
+      {
+        "label": "C",
+        "text": "Güçlü ve zayıf yönleri değerlendirmelidir"
+      },
+      {
+        "label": "D",
+        "text": "Bilinen–bilinmeyenleri sentezlemelidir"
+      },
+      {
+        "label": "E",
+        "text": "Uzlaşılamayan alanları göstermelidir"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Dergiler, magazinler, gazeteler gibi belgeleri de içermelidir"
+    },
+    "explanation": "Gazete/magazin genelde bilimsel literatür sayılmaz; odak hakemli, akademik kaynaklardır."
+  },
+  {
+    "id": 65,
+    "source": "2.txt",
+    "number": 6,
+    "question": "Aşağıdakilerden hangisi nicel bir araştırmanın özelliği değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deney, manipülasyon ve kontrol vardır"
+      },
+      {
+        "label": "B",
+        "text": "Değişkenler kesin sınırlarda belirlenir"
+      },
+      {
+        "label": "C",
+        "text": "Kendi bütünlüğü içinde ve doğal gelişir"
+      },
+      {
+        "label": "D",
+        "text": "Veriler sayısal göstergelere indirgenir"
+      },
+      {
+        "label": "E",
+        "text": "Sonuçlara ilişkin tahmin yapılır"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Kendi bütünlüğü içinde ve doğal gelişir"
+    },
+    "explanation": "Bu ifade daha çok nitel araştırmanın (doğal ortam, süreç odaklı) özelliğidir."
+  },
+  {
+    "id": 66,
+    "source": "2.txt",
+    "number": 7,
+    "question": "Düzenli ( ) Bazen ( ) Nadir ( ) Hiç ( )” Bu soru türü aşağıdakilerden hangisine örnektir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tutum"
+      },
+      {
+        "label": "B",
+        "text": "İnanç"
+      },
+      {
+        "label": "C",
+        "text": "Kanaat"
+      },
+      {
+        "label": "D",
+        "text": "Davranış"
+      },
+      {
+        "label": "E",
+        "text": "Bilgi"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Davranış"
+    },
+    "explanation": "Sorduğu şey “ne sıklıkla gidiyorsun” = davranış sıklığı."
+  },
+  {
+    "id": 67,
+    "source": "2.txt",
+    "number": 8,
+    "question": "Bir deneyde, deneyin iç geçerliliğini etkileyen faktör değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Zaman"
+      },
+      {
+        "label": "B",
+        "text": "Deney öncesi ölçme"
+      },
+      {
+        "label": "C",
+        "text": "Deney yöntemi"
+      },
+      {
+        "label": "D",
+        "text": "Denek kaybı"
+      },
+      {
+        "label": "E",
+        "text": "Olgunlaşma"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Zaman"
+    },
+    "explanation": "Zaman genelde dış geçerlilikle (genellenebilirlik) ilgilidir; diğerleri iç geçerliliği etkiler."
+  },
+  {
+    "id": 68,
+    "source": "2.txt",
+    "number": 9,
+    "question": "Bilimsel araştırma konusu belirlenirken aşağıdakilerin hangisine dikkat edilmelidir?",
+    "options": [
+      {
+        "label": "I",
+        "text": "Konunun özgünlüğü"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Hepsi"
+    },
+    "explanation": "Konu seçimi hem bilimsel, hem pratik, hem de kişisel uyum ister."
+  },
+  {
+    "id": 69,
+    "source": "2.txt",
+    "number": 10,
+    "question": "İki ya da daha fazla grup üzerinde yapılan uygulamaların, belli değişkenler üzerindeki etkilerini inceleyen nicel model hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deneysel model"
+      },
+      {
+        "label": "B",
+        "text": "Bağıntısal model"
+      },
+      {
+        "label": "C",
+        "text": "Tarihsel model"
+      },
+      {
+        "label": "D",
+        "text": "Betimsel model"
+      },
+      {
+        "label": "E",
+        "text": "Nedensel-karşılaştırmalı model"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Deneysel model"
+    },
+    "explanation": "Soru kökünde “üzerinde uygulama yapma” var → bu deney demektir. Nedensel–karşılaştırmalıda araştırmacı müdahale etmez, gruplar zaten oluşmuştur."
+  },
+  {
+    "id": 70,
+    "source": "2.txt",
+    "number": 11,
+    "question": "Aşağıdakilerden hangisi değişken tiplerini nitelemez?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nitelik"
+      },
+      {
+        "label": "B",
+        "text": "Nicelik"
+      },
+      {
+        "label": "C",
+        "text": "Bağımlılık"
+      },
+      {
+        "label": "D",
+        "text": "Süreklilik"
+      },
+      {
+        "label": "E",
+        "text": "Görecelilik"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Görecelilik"
+    },
+    "explanation": "Değişkenler nitel/nicel, sürekli/süreksiz, bağımlı/bağımsız diye sınıflanır. “Görecelilik” standart bir değişken türü değildir."
+  },
+  {
+    "id": 71,
+    "source": "2.txt",
+    "number": 12,
+    "question": "Aşağıdakilerden hangisi literatür tarama sistemi içinde yer almaz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bilimsel dergiler"
+      },
+      {
+        "label": "B",
+        "text": "Kütüphaneler"
+      },
+      {
+        "label": "C",
+        "text": "Uzmanlar"
+      },
+      {
+        "label": "D",
+        "text": "Arşivler"
+      },
+      {
+        "label": "E",
+        "text": "Üniversiteler"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Uzmanlar"
+    },
+    "explanation": "Uzmanlar → kaynak kişi; ama “literatür sisteminin öğesi” denince dergiler, kütüphane, veri tabanı gibi doküman kaynakları kastedilir."
+  },
+  {
+    "id": 72,
+    "source": "3.txt",
+    "number": 1,
+    "question": "“Bilimde doğrulanmış, genelleştirilmiş ilişki” hangi kavramdır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Yasa"
+    },
+    "explanation": "Birçok deneyle değişmeden doğrulanır → yasa."
+  },
+  {
+    "id": 73,
+    "source": "3.txt",
+    "number": 2,
+    "question": "“Araştırmacının kontrol edebildiği değişken” hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Bağımsız değişken"
+    },
+    "explanation": "Deneyde manipüle edilen faktör."
+  },
+  {
+    "id": 74,
+    "source": "3.txt",
+    "number": 3,
+    "question": "Ölçme sonuçlarının tutarlı olması hangi kavramdır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Güvenirlik"
+    },
+    "explanation": "Aynı ölçme tekrarlanınca benzer sonuç verir."
+  },
+  {
+    "id": 75,
+    "source": "3.txt",
+    "number": 4,
+    "question": "Ölçme sonuçlarının gerçeğe uygunluğu hangi kavramdır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Geçerlik"
+    },
+    "explanation": "Gerçeği ölçüyorsa geçerlidir."
+  },
+  {
+    "id": 76,
+    "source": "3.txt",
+    "number": 5,
+    "question": "Aşağıdakilerden hangisi nitel veri örneğidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Göz rengi"
+    },
+    "explanation": "Kategorik, sayısal değil."
+  },
+  {
+    "id": 77,
+    "source": "3.txt",
+    "number": 6,
+    "question": "Bir veri setinde uç değerler varken hangi ortalama daha uygundur?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Medyan"
+    },
+    "explanation": "Aşırı büyük/küçük değerlerden etkilenmez."
+  },
+  {
+    "id": 78,
+    "source": "3.txt",
+    "number": 7,
+    "question": "Aşağıdakilerden hangisi bilimsel araştırmada etik değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Veriyi değiştirmek"
+    },
+    "explanation": "Çarpıtma / manipülasyon en ağır etik ihlallerden."
+  },
+  {
+    "id": 79,
+    "source": "3.txt",
+    "number": 8,
+    "question": "Literatür taramasının temel amacı nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Konuyla ilgili mevcut bilgiyi ortaya koymak"
+    },
+    "explanation": "Yeni bilgi üretme aşaması değildir."
+  },
+  {
+    "id": 80,
+    "source": "3.txt",
+    "number": 9,
+    "question": "Zaman, mekân, konu, örneklem gibi daraltma işlemi hangi aşamadadır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Konu sınırlandırma"
+    },
+    "explanation": "Araştırma problemi netleştirilir."
+  },
+  {
+    "id": 81,
+    "source": "3.txt",
+    "number": 10,
+    "question": "Aşağıdakilerden hangisi nicel araştırmadır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Deneysel araştırma"
+    },
+    "explanation": "Sayısal veri + kontrol + manipülasyon içerir."
+  },
+  {
+    "id": 82,
+    "source": "3.txt",
+    "number": 11,
+    "question": "“Sürekli değişken” aşağıdakilerden hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Boy uzunluğu"
+    },
+    "explanation": "Kesirli değer alabilir. (Örn: 175.3 cm)"
+  },
+  {
+    "id": 83,
+    "source": "3.txt",
+    "number": 12,
+    "question": "“Süreksiz değişken” hangisidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Çocuk sayısı"
+    },
+    "explanation": "Tam sayı olmak zorunda."
+  },
+  {
+    "id": 84,
+    "source": "3.txt",
+    "number": 13,
+    "question": "Hangisi parametre değildir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Örneklem ortalaması"
+    },
+    "explanation": "Örneklem → istatistik; Evren → parametre."
+  },
+  {
+    "id": 85,
+    "source": "3.txt",
+    "number": 14,
+    "question": "Normal dağılımda merkezî eğilim ölçüleri nasıl olur?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Mod = Medyan = Ortalama"
+    },
+    "explanation": "Tam simetrik olduğu için eşittir."
+  },
+  {
+    "id": 86,
+    "source": "3.txt",
+    "number": 15,
+    "question": "“Aynı olay tekrar edildiğinde farklı sonuç çıkması” hangi hata türüdür?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Rastgele hata"
+    },
+    "explanation": "Nedeni bilinmez, ölçümden ölçüme değişir."
+  },
+  {
+    "id": 87,
+    "source": "3.txt",
+    "number": 16,
+    "question": "Bir araştırmanın ilk basamağı nedir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Problem/amaç belirleme"
+    },
+    "explanation": "Araştırma neyi aradığını bilmeden başlayamaz."
+  },
+  {
+    "id": 88,
+    "source": "3.txt",
+    "number": 17,
+    "question": "Hangi ölçek türünde “sıfır noktası gerçektir”?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Oranlı ölçek"
+    },
+    "explanation": "Uzunluk, ağırlık, yaş… hepsi gerçek sıfır içerir."
+  },
+  {
+    "id": 89,
+    "source": "3.txt",
+    "number": 18,
+    "question": "Hangisi sınıflayıcı ölçeğe örnektir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Kan grubu"
+    },
+    "explanation": "Sıralama yoktur; kategorik."
+  },
+  {
+    "id": 90,
+    "source": "3.txt",
+    "number": 19,
+    "question": "Hangisi sıralayıcı ölçek örneğidir?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Yarış derecesi (1., 2., 3.)"
+    },
+    "explanation": "Sıralama var; aralık eşit olmayabilir."
+  },
+  {
+    "id": 91,
+    "source": "3.txt",
+    "number": 20,
+    "question": "Deneysel yöntemde neden kontrol grubu kullanılır?",
+    "options": [],
+    "answer": {
+      "label": "",
+      "text": "Bağımsız değişkenin etkisini izole etmek için"
+    },
+    "explanation": "Etki gerçekten uygulamadan mı geliyor kontrol edilir."
+  },
+  {
+    "id": 92,
+    "source": "5.txt",
+    "number": 41,
+    "question": "Aşağıdakilerden hangisi bilimsel yöntemin bir aşaması değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Problem belirleme"
+      },
+      {
+        "label": "B",
+        "text": "Hipotez oluşturma"
+      },
+      {
+        "label": "C",
+        "text": "Veri toplama"
+      },
+      {
+        "label": "D",
+        "text": "Sonuç çıkarma"
+      },
+      {
+        "label": "E",
+        "text": "Tahmin yürütme"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Tahmin yürütme"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "source": "5.txt",
+    "number": 42,
+    "question": "Aşağıdakilerden hangisi nitel araştırmada kullanılan bir veri toplama tekniğidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çoktan seçmeli test"
+      },
+      {
+        "label": "B",
+        "text": "Performans ölçeği"
+      },
+      {
+        "label": "C",
+        "text": "Derinlemesine görüşme"
+      },
+      {
+        "label": "D",
+        "text": "Likert ölçek"
+      },
+      {
+        "label": "E",
+        "text": "Yazılı yoklama"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Derinlemesine görüşme"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "source": "5.txt",
+    "number": 43,
+    "question": "“Aynı ölçme aracı farklı zamanlarda aynı sonuçları verirse” bu hangi özelliktir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Geçerlik"
+      },
+      {
+        "label": "B",
+        "text": "Nesnellik"
+      },
+      {
+        "label": "C",
+        "text": "Güvenirlik"
+      },
+      {
+        "label": "D",
+        "text": "Duyarlılık"
+      },
+      {
+        "label": "E",
+        "text": "Normallik"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Güvenirlik"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "source": "5.txt",
+    "number": 44,
+    "question": "İstatistikte “uç değerlerden en az etkilenen merkezî eğilim ölçüsü” hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aritmetik ortalama"
+      },
+      {
+        "label": "B",
+        "text": "Mod"
+      },
+      {
+        "label": "C",
+        "text": "Medyan"
+      },
+      {
+        "label": "D",
+        "text": "Geometrik ortalama"
+      },
+      {
+        "label": "E",
+        "text": "Harmonik ortalama"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Medyan"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "source": "5.txt",
+    "number": 45,
+    "question": "Araştırma sürecinde hipotezler hangi aşamada test edilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giriş"
+      },
+      {
+        "label": "B",
+        "text": "Yöntem"
+      },
+      {
+        "label": "C",
+        "text": "Bulgular"
+      },
+      {
+        "label": "D",
+        "text": "Tartışma"
+      },
+      {
+        "label": "E",
+        "text": "Özet"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Bulgular"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "source": "5.txt",
+    "number": 46,
+    "question": "Aşağıdakilerden hangisi “yasa” kavramının özelliği değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tekrarlanabilir"
+      },
+      {
+        "label": "B",
+        "text": "Kesinlik taşır"
+      },
+      {
+        "label": "C",
+        "text": "Çok sayıda gözlemle doğrulanır"
+      },
+      {
+        "label": "D",
+        "text": "Değişmez"
+      },
+      {
+        "label": "E",
+        "text": "Deneyle test edilemez"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Deneyle test edilemez"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "source": "5.txt",
+    "number": 47,
+    "question": "Nicel araştırmalarda örneklem sayısı yeterince büyük değilse hangi testler tercih edilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Parametrik"
+      },
+      {
+        "label": "B",
+        "text": "Ki-kare"
+      },
+      {
+        "label": "C",
+        "text": "Non-parametrik"
+      },
+      {
+        "label": "D",
+        "text": "Regresyon"
+      },
+      {
+        "label": "E",
+        "text": "ANOVA"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Non-parametrik"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "source": "5.txt",
+    "number": 48,
+    "question": "Aşağıdaki değerlerden hangisi “süreksiz (kesikli) değişken” örneğidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sıcaklık"
+      },
+      {
+        "label": "B",
+        "text": "Boy uzunluğu"
+      },
+      {
+        "label": "C",
+        "text": "Ağırlık"
+      },
+      {
+        "label": "D",
+        "text": "Çocuk sayısı"
+      },
+      {
+        "label": "E",
+        "text": "Kan basıncı"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Çocuk sayısı"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "source": "5.txt",
+    "number": 49,
+    "question": "Aşağıdakilerden hangisi literatür taramasında “zorunlu olmayan” bir kaynaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hakemli dergiler"
+      },
+      {
+        "label": "B",
+        "text": "Tezler"
+      },
+      {
+        "label": "C",
+        "text": "Kitaplar"
+      },
+      {
+        "label": "D",
+        "text": "Gazete"
+      },
+      {
+        "label": "E",
+        "text": "Bilimsel rapor"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Gazete"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "source": "5.txt",
+    "number": 50,
+    "question": "Etki büyüklüğü (effect size) istatistikte neyi ifade eder?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Örneklem genişliğini"
+      },
+      {
+        "label": "B",
+        "text": "Grubun varyansını"
+      },
+      {
+        "label": "C",
+        "text": "Bağımsız değişkenin etkisinin gücünü"
+      },
+      {
+        "label": "D",
+        "text": "Ortalama farkını"
+      },
+      {
+        "label": "E",
+        "text": "Ölçme aracının güvenirliğini"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Bağımsız değişkenin etkisinin gücünü"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "source": "5.txt",
+    "number": 51,
+    "question": "Aşağıdakilerden hangisi nitel araştırmanın dezavantajıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doğal ortam"
+      },
+      {
+        "label": "B",
+        "text": "Derin bilgi sağlar"
+      },
+      {
+        "label": "C",
+        "text": "Sayısal genelleme yapamama"
+      },
+      {
+        "label": "D",
+        "text": "Esneklik"
+      },
+      {
+        "label": "E",
+        "text": "Süreç odaklılık"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Sayısal genelleme yapamama"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "source": "5.txt",
+    "number": 52,
+    "question": "Aşağıdakilerden hangisi bilimsel etik ihlaldir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Veriyi şeffaf paylaşmak"
+      },
+      {
+        "label": "B",
+        "text": "Kaynak göstermek"
+      },
+      {
+        "label": "C",
+        "text": "Deneyleri tekrar etmek"
+      },
+      {
+        "label": "D",
+        "text": "Sahte veri üretmek"
+      },
+      {
+        "label": "E",
+        "text": "Hakem sürecine katılmak"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Sahte veri üretmek"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "source": "5.txt",
+    "number": 53,
+    "question": "“Araştırma probleminin açık, anlaşılır ve test edilebilir olması” hangi niteliği ifade eder?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Geçerlik"
+      },
+      {
+        "label": "B",
+        "text": "Problemin niteliği"
+      },
+      {
+        "label": "C",
+        "text": "Kuramsal çerçeve"
+      },
+      {
+        "label": "D",
+        "text": "Hipotez"
+      },
+      {
+        "label": "E",
+        "text": "Bağımlı değişken"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Problemin niteliği"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "source": "5.txt",
+    "number": 54,
+    "question": "Aşağıdaki testlerden hangisi iki bağımsız grubun ortalamalarını karşılaştırır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ki-kare"
+      },
+      {
+        "label": "B",
+        "text": "Mann-Whitney U"
+      },
+      {
+        "label": "C",
+        "text": "ANOVA"
+      },
+      {
+        "label": "D",
+        "text": "Bağımsız gruplar t-testi"
+      },
+      {
+        "label": "E",
+        "text": "Kruskal-Wallis"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Bağımsız gruplar t-testi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "source": "5.txt",
+    "number": 55,
+    "question": "“Sadece sıralama yapılabilen ölçek türü” hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nominal"
+      },
+      {
+        "label": "B",
+        "text": "Ordinal"
+      },
+      {
+        "label": "C",
+        "text": "Eşit aralıklı"
+      },
+      {
+        "label": "D",
+        "text": "Oranlı"
+      },
+      {
+        "label": "E",
+        "text": "Temel"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Ordinal"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "source": "5.txt",
+    "number": 56,
+    "question": "Aşağıdakilerden hangisi araştırmada “bağımlı değişken”dir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kontrol edilen"
+      },
+      {
+        "label": "B",
+        "text": "Manipüle edilen"
+      },
+      {
+        "label": "C",
+        "text": "Ölçülen sonuç"
+      },
+      {
+        "label": "D",
+        "text": "Sabit tutulan"
+      },
+      {
+        "label": "E",
+        "text": "Rastgele seçilen"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Ölçülen sonuç"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "source": "5.txt",
+    "number": 57,
+    "question": "Enstitüde yüksek lisans mezuniyeti için minimum ulusal kredi kaçtır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12"
+      },
+      {
+        "label": "B",
+        "text": "18"
+      },
+      {
+        "label": "C",
+        "text": "21"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      },
+      {
+        "label": "E",
+        "text": "30"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "21"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "source": "5.txt",
+    "number": 58,
+    "question": "Aşağıdakilerden hangisi araştırma raporunda bulgu bölümünde yer alır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yüzde – frekans tabloları"
+      },
+      {
+        "label": "B",
+        "text": "Problem cümlesi"
+      },
+      {
+        "label": "C",
+        "text": "Hipotez"
+      },
+      {
+        "label": "D",
+        "text": "Kuramsal çerçeve"
+      },
+      {
+        "label": "E",
+        "text": "Öneriler"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Yüzde – frekans tabloları"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "source": "5.txt",
+    "number": 59,
+    "question": "Korelasyon katsayısı r = 0.15 ise ilişki nasıldır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çok zayıf"
+      },
+      {
+        "label": "B",
+        "text": "Zayıf"
+      },
+      {
+        "label": "C",
+        "text": "Orta"
+      },
+      {
+        "label": "D",
+        "text": "Güçlü"
+      },
+      {
+        "label": "E",
+        "text": "Negatif güçlü"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Zayıf"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "source": "5.txt",
+    "number": 60,
+    "question": "Araştırmada “evreni temsil eden küçük grup” hangi kavramdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Evren"
+      },
+      {
+        "label": "B",
+        "text": "Örneklem"
+      },
+      {
+        "label": "C",
+        "text": "Denek"
+      },
+      {
+        "label": "D",
+        "text": "Parametre"
+      },
+      {
+        "label": "E",
+        "text": "Grup"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Örneklem"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "source": "5.txt",
+    "number": 61,
+    "question": "Aşağıdakilerden hangisi bilimsel araştırmanın temel niteliklerinden değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Objektiflik"
+      },
+      {
+        "label": "B",
+        "text": "Sistematiklik"
+      },
+      {
+        "label": "C",
+        "text": "Tekrarlanabilirlik"
+      },
+      {
+        "label": "D",
+        "text": "Deneysellik zorunluluğu"
+      },
+      {
+        "label": "E",
+        "text": "Mantıksallık"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Deneysellik zorunluluğu"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "source": "5.txt",
+    "number": 62,
+    "question": "Aşağıdakilerden hangisi nitel araştırmanın avantajıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Geniş örneklem"
+      },
+      {
+        "label": "B",
+        "text": "Derinlemesine veri"
+      },
+      {
+        "label": "C",
+        "text": "Kolay genelleme"
+      },
+      {
+        "label": "D",
+        "text": "Sayısal analiz"
+      },
+      {
+        "label": "E",
+        "text": "Standart ölçme araçları"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Derinlemesine veri"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "source": "5.txt",
+    "number": 63,
+    "question": "Bilimsel bir araştırmada problem cümlesi nasıl olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çok uzun"
+      },
+      {
+        "label": "B",
+        "text": "Varsayıma dayalı"
+      },
+      {
+        "label": "C",
+        "text": "Açık ve test edilebilir"
+      },
+      {
+        "label": "D",
+        "text": "Karmaşık"
+      },
+      {
+        "label": "E",
+        "text": "Yoruma açık"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Açık ve test edilebilir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "source": "5.txt",
+    "number": 64,
+    "question": "“Araştırmacı olayları doğal ortamında inceler ve gözlemler” ifadesi hangi yöntemi tanımlar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deney"
+      },
+      {
+        "label": "B",
+        "text": "Tarama"
+      },
+      {
+        "label": "C",
+        "text": "Nitel yöntem"
+      },
+      {
+        "label": "D",
+        "text": "Tarihsel yöntem"
+      },
+      {
+        "label": "E",
+        "text": "İçerik analizi"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Nitel yöntem"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "source": "5.txt",
+    "number": 65,
+    "question": "Aşağıdakilerden hangisi temel araştırmanın özelliğidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pratik bir probleme çözüm bulur"
+      },
+      {
+        "label": "B",
+        "text": "Yeni teoriler geliştirmeyi amaçlar"
+      },
+      {
+        "label": "C",
+        "text": "Endüstriyel ürün geliştirir"
+      },
+      {
+        "label": "D",
+        "text": "Uygulamalı sonuçlara odaklanır"
+      },
+      {
+        "label": "E",
+        "text": "Piyasaya ürün sunar"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Yeni teoriler geliştirmeyi amaçlar"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "source": "5.txt",
+    "number": 66,
+    "question": "Boy uzunluğu hangi ölçek türüne örnektir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nominal"
+      },
+      {
+        "label": "B",
+        "text": "Ordinal"
+      },
+      {
+        "label": "C",
+        "text": "Aralıklı"
+      },
+      {
+        "label": "D",
+        "text": "Oranlı"
+      },
+      {
+        "label": "E",
+        "text": "Sıralayıcı"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Oranlı"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "source": "5.txt",
+    "number": 67,
+    "question": "Hangisi ölçme hatası değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sistematik hata"
+      },
+      {
+        "label": "B",
+        "text": "Sabit hata"
+      },
+      {
+        "label": "C",
+        "text": "Rastgele hata"
+      },
+      {
+        "label": "D",
+        "text": "Denek kaybı"
+      },
+      {
+        "label": "E",
+        "text": "Alet hatası"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Denek kaybı"
+    },
+    "explanation": "(Denek kaybı = iç geçerlilik sorunu, hata türü değil)"
+  },
+  {
+    "id": 119,
+    "source": "5.txt",
+    "number": 68,
+    "question": "Normal dağılımın özelliği hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çarpıktır"
+      },
+      {
+        "label": "B",
+        "text": "Çift modludur"
+      },
+      {
+        "label": "C",
+        "text": "Simetriktir"
+      },
+      {
+        "label": "D",
+        "text": "Mod > Medyan > Ortalama"
+      },
+      {
+        "label": "E",
+        "text": "Uç değer çok fazladır"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Simetriktir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "source": "5.txt",
+    "number": 69,
+    "question": "Aşağıdakilerden hangisi bağımsız değişkendir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Öğrencilerin başarı puanı"
+      },
+      {
+        "label": "B",
+        "text": "Uygulanan öğretim yöntemi"
+      },
+      {
+        "label": "C",
+        "text": "Öğrencilerin memnuniyet düzeyi"
+      },
+      {
+        "label": "D",
+        "text": "Deneklerin yaşları"
+      },
+      {
+        "label": "E",
+        "text": "Öğrencilerin not ortalaması"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Uygulanan öğretim yöntemi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "source": "5.txt",
+    "number": 70,
+    "question": "Literatür taramasının sonunda elde edilen bilgi ne sağlar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yeni teori"
+      },
+      {
+        "label": "B",
+        "text": "Araştırma problemine çerçeve"
+      },
+      {
+        "label": "C",
+        "text": "İstatistiksel test"
+      },
+      {
+        "label": "D",
+        "text": "Örneklem seçimi"
+      },
+      {
+        "label": "E",
+        "text": "Hipotezsiz araştırma"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Araştırma problemine çerçeve"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "source": "5.txt",
+    "number": 71,
+    "question": "Hangisi nitel veri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Göz rengi"
+      },
+      {
+        "label": "B",
+        "text": "Cinsiyet"
+      },
+      {
+        "label": "C",
+        "text": "Tutum puanı"
+      },
+      {
+        "label": "D",
+        "text": "Doğum yeri"
+      },
+      {
+        "label": "E",
+        "text": "Üniversite bölümü"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Tutum puanı"
+    },
+    "explanation": "(Tutum puanı nicel veridir.)"
+  },
+  {
+    "id": 123,
+    "source": "5.txt",
+    "number": 72,
+    "question": "Parametrik testler hangi varsayıma dayanır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Veriler nominaldir"
+      },
+      {
+        "label": "B",
+        "text": "Çarpık dağılım vardır"
+      },
+      {
+        "label": "C",
+        "text": "Normal dağılım vardır"
+      },
+      {
+        "label": "D",
+        "text": "Hipotez yoktur"
+      },
+      {
+        "label": "E",
+        "text": "Veri niteliktir"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Normal dağılım vardır"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "source": "5.txt",
+    "number": 73,
+    "question": "Araştırmada “kontrol edilen ama manipüle edilmeyen değişken” hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bağımsız değişken"
+      },
+      {
+        "label": "B",
+        "text": "Bağımlı değişken"
+      },
+      {
+        "label": "C",
+        "text": "Denek değişkeni"
+      },
+      {
+        "label": "D",
+        "text": "Ara değişken"
+      },
+      {
+        "label": "E",
+        "text": "Kontrollü değişken"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Kontrollü değişken"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "source": "5.txt",
+    "number": 74,
+    "question": "Aşağıdakilerden hangisi örnekleme yöntemidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tam sayım"
+      },
+      {
+        "label": "B",
+        "text": "Sistematik örnekleme"
+      },
+      {
+        "label": "C",
+        "text": "Veri toplama formu"
+      },
+      {
+        "label": "D",
+        "text": "Frekans tablosu"
+      },
+      {
+        "label": "E",
+        "text": "Deney tasarımı"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Sistematik örnekleme"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "source": "5.txt",
+    "number": 75,
+    "question": "Betimsel araştırmanın amacı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Neden–sonuç bulmak"
+      },
+      {
+        "label": "B",
+        "text": "Yeni teori üretmek"
+      },
+      {
+        "label": "C",
+        "text": "Mevcut durumu tanımlamak"
+      },
+      {
+        "label": "D",
+        "text": "Manipülasyon yapmak"
+      },
+      {
+        "label": "E",
+        "text": "Deneysel etki ölçmek"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Mevcut durumu tanımlamak"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "source": "5.txt",
+    "number": 76,
+    "question": "Tez yazımında kaynak gösterilmeyen alıntı hangi etik ihlaldir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çarpıtma"
+      },
+      {
+        "label": "B",
+        "text": "Tekrar yayın"
+      },
+      {
+        "label": "C",
+        "text": "Uydurma"
+      },
+      {
+        "label": "D",
+        "text": "İntihal"
+      },
+      {
+        "label": "E",
+        "text": "Aşırı yorum"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "İntihal"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "source": "5.txt",
+    "number": 77,
+    "question": "Hangisi araştırmanın “yöntem” bölümünde yer alır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araştırmanın önemi"
+      },
+      {
+        "label": "B",
+        "text": "Evren ve örneklem"
+      },
+      {
+        "label": "C",
+        "text": "Kuramsal çerçeve"
+      },
+      {
+        "label": "D",
+        "text": "Sonuçlar"
+      },
+      {
+        "label": "E",
+        "text": "Özet"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Evren ve örneklem"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "source": "5.txt",
+    "number": 78,
+    "question": "Aşağıdakilerden hangisi bir “ölçek türü” değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sınıflayıcı"
+      },
+      {
+        "label": "B",
+        "text": "Sıralayıcı"
+      },
+      {
+        "label": "C",
+        "text": "Aralıklı"
+      },
+      {
+        "label": "D",
+        "text": "Oranlı"
+      },
+      {
+        "label": "E",
+        "text": "Çeşitleyici"
+      }
+    ],
+    "answer": {
+      "label": "E",
+      "text": "Çeşitleyici"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "source": "5.txt",
+    "number": 79,
+    "question": "Araştırmacının kendi önyargılarından arındırması hangi kavramdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nesnellik"
+      },
+      {
+        "label": "B",
+        "text": "Geçerlik"
+      },
+      {
+        "label": "C",
+        "text": "Güvenirlik"
+      },
+      {
+        "label": "D",
+        "text": "Duyarlılık"
+      },
+      {
+        "label": "E",
+        "text": "Etkililik"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Nesnellik"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "source": "5.txt",
+    "number": 80,
+    "question": "iki grup ortalaması karşılaştırılacak ve normal dağılım sağlanıyorsa hangi test uygulanır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mann-Whitney U"
+      },
+      {
+        "label": "B",
+        "text": "Ki-Kare"
+      },
+      {
+        "label": "C",
+        "text": "Bağımsız gruplar t-testi"
+      },
+      {
+        "label": "D",
+        "text": "ANOVA"
+      },
+      {
+        "label": "E",
+        "text": "Wilcoxon"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Bağımsız gruplar t-testi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "source": "5.txt",
+    "number": 81,
+    "question": "Aşağıdakilerden hangisi bilimsel bilginin özelliğidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Değişmez"
+      },
+      {
+        "label": "B",
+        "text": "Dinamik ve gelişebilir"
+      },
+      {
+        "label": "C",
+        "text": "Kesin ve mutlak"
+      },
+      {
+        "label": "D",
+        "text": "Yoruma kapalı"
+      },
+      {
+        "label": "E",
+        "text": "Deney gerektirmez"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Dinamik ve gelişebilir"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "source": "5.txt",
+    "number": 82,
+    "question": "Aşağıdakilerden hangisi nitel araştırmanın bir veri toplama aracı değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gözlem"
+      },
+      {
+        "label": "B",
+        "text": "Görüşme"
+      },
+      {
+        "label": "C",
+        "text": "Doküman inceleme"
+      },
+      {
+        "label": "D",
+        "text": "Anket"
+      },
+      {
+        "label": "E",
+        "text": "Odak grup"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Anket"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "source": "5.txt",
+    "number": 83,
+    "question": "“Araştırma evrenindeki tüm bireylere ulaşılması” ne olarak adlandırılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Örnekleme"
+      },
+      {
+        "label": "B",
+        "text": "Tam sayım"
+      },
+      {
+        "label": "C",
+        "text": "Sistematik örnekleme"
+      },
+      {
+        "label": "D",
+        "text": "Basit rastgele örnekleme"
+      },
+      {
+        "label": "E",
+        "text": "Küme örnekleme"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Tam sayım"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "source": "5.txt",
+    "number": 84,
+    "question": "Aralıklı ölçeğe örnek aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sıcaklık (°C)"
+      },
+      {
+        "label": "B",
+        "text": "Boy uzunluğu"
+      },
+      {
+        "label": "C",
+        "text": "Ağırlık"
+      },
+      {
+        "label": "D",
+        "text": "Yaş"
+      },
+      {
+        "label": "E",
+        "text": "Doğum yılı"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Sıcaklık (°C)"
+    },
+    "explanation": "(°C sıfır noktası görecelidir → aralıklı ölçek.)"
+  },
+  {
+    "id": 136,
+    "source": "5.txt",
+    "number": 85,
+    "question": "Etik ihlallerden hangisi “veri uydurma” olarak tanımlanır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Çarpıtma"
+      },
+      {
+        "label": "B",
+        "text": "Aşırma"
+      },
+      {
+        "label": "C",
+        "text": "Uydurma"
+      },
+      {
+        "label": "D",
+        "text": "Tekrar yayın"
+      },
+      {
+        "label": "E",
+        "text": "Yanlış atıf"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Uydurma"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "source": "5.txt",
+    "number": 86,
+    "question": "“Araştırmada ölçülmek istenen özelliği gerçekten ölçebilmek” hangi kavramdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Güvenirlik"
+      },
+      {
+        "label": "B",
+        "text": "Geçerlik"
+      },
+      {
+        "label": "C",
+        "text": "Nesnellik"
+      },
+      {
+        "label": "D",
+        "text": "Duyarlılık"
+      },
+      {
+        "label": "E",
+        "text": "Tutarlılık"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Geçerlik"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "source": "5.txt",
+    "number": 87,
+    "question": "Aşağıdakilerden hangisi bilimsel yöntemin ilk aşamasıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Veri toplama"
+      },
+      {
+        "label": "B",
+        "text": "Hipotez kurma"
+      },
+      {
+        "label": "C",
+        "text": "Problem belirleme"
+      },
+      {
+        "label": "D",
+        "text": "Yöntem geliştirme"
+      },
+      {
+        "label": "E",
+        "text": "Literatür tarama"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Problem belirleme"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "source": "5.txt",
+    "number": 88,
+    "question": "Aşağıdaki ifadelerden hangisi nicel araştırmanın özelliğidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Esnek süreç"
+      },
+      {
+        "label": "B",
+        "text": "Yorumlayıcı yaklaşım"
+      },
+      {
+        "label": "C",
+        "text": "Büyük örneklem"
+      },
+      {
+        "label": "D",
+        "text": "Doğal ortam"
+      },
+      {
+        "label": "E",
+        "text": "Derinlemesine analiz"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Büyük örneklem"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "source": "5.txt",
+    "number": 89,
+    "question": "Hangisi deneysel araştırmada bulunmaz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Manipülasyon"
+      },
+      {
+        "label": "B",
+        "text": "Kontrol grubu"
+      },
+      {
+        "label": "C",
+        "text": "Rastgele atama"
+      },
+      {
+        "label": "D",
+        "text": "Gözlem formu"
+      },
+      {
+        "label": "E",
+        "text": "Nedensel ilişki"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Gözlem formu"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "source": "5.txt",
+    "number": 90,
+    "question": "Nitel araştırmalarda verilerin analizinde en çok kullanılan yöntem hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Korelasyon"
+      },
+      {
+        "label": "B",
+        "text": "İçerik analizi"
+      },
+      {
+        "label": "C",
+        "text": "Regresyon"
+      },
+      {
+        "label": "D",
+        "text": "ANOVA"
+      },
+      {
+        "label": "E",
+        "text": "Ki-kare"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "İçerik analizi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "source": "5.txt",
+    "number": 91,
+    "question": "Aşağıdakilerden hangisi veri türlerinden biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sürekli"
+      },
+      {
+        "label": "B",
+        "text": "Kesikli"
+      },
+      {
+        "label": "C",
+        "text": "Nominal"
+      },
+      {
+        "label": "D",
+        "text": "Mantıksal"
+      },
+      {
+        "label": "E",
+        "text": "Ordinal"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Mantıksal"
+    },
+    "explanation": "(\"Mantıksal veri\" diye bir veri türü yoktur.)"
+  },
+  {
+    "id": 143,
+    "source": "5.txt",
+    "number": 92,
+    "question": "Değişkenler arası ilişkinin derecesini belirlemek için hangi yöntem kullanılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Regresyon"
+      },
+      {
+        "label": "B",
+        "text": "Korelasyon"
+      },
+      {
+        "label": "C",
+        "text": "Ki-kare"
+      },
+      {
+        "label": "D",
+        "text": "ANOVA"
+      },
+      {
+        "label": "E",
+        "text": "t-testi"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Korelasyon"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "source": "5.txt",
+    "number": 93,
+    "question": "Hangisi araştırmada bağımlı değişken olabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Verilen eğitim yöntemi"
+      },
+      {
+        "label": "B",
+        "text": "Öğrencilerin başarı puanı"
+      },
+      {
+        "label": "C",
+        "text": "Öğretmenin deneyimi"
+      },
+      {
+        "label": "D",
+        "text": "Kullandığı materyal"
+      },
+      {
+        "label": "E",
+        "text": "Ders işleme süresi"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Öğrencilerin başarı puanı"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "source": "5.txt",
+    "number": 94,
+    "question": "ANOVA hangi amaçla kullanılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "İki grup ortalamasını karşılaştırmak"
+      },
+      {
+        "label": "B",
+        "text": "Üç ve daha fazla grup ortalamasını karşılaştırmak"
+      },
+      {
+        "label": "C",
+        "text": "Korelasyon katsayısı bulmak"
+      },
+      {
+        "label": "D",
+        "text": "Regresyon katsayısı bulmak"
+      },
+      {
+        "label": "E",
+        "text": "Uç değer tespiti"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Üç ve daha fazla grup ortalamasını karşılaştırmak"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "source": "5.txt",
+    "number": 95,
+    "question": "Hangisi örneklem seçimi için olasılıklı yöntemdir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kolayda örnekleme"
+      },
+      {
+        "label": "B",
+        "text": "Amaçlı örnekleme"
+      },
+      {
+        "label": "C",
+        "text": "Kartopu örnekleme"
+      },
+      {
+        "label": "D",
+        "text": "Sistematik örnekleme"
+      },
+      {
+        "label": "E",
+        "text": "Uzman örnekleme"
+      }
+    ],
+    "answer": {
+      "label": "D",
+      "text": "Sistematik örnekleme"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "source": "5.txt",
+    "number": 96,
+    "question": "“Verilerin anlamlı gruplara ayrılması” hangi kavrama karşılık gelir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sınıflandırma"
+      },
+      {
+        "label": "B",
+        "text": "Kodlama"
+      },
+      {
+        "label": "C",
+        "text": "Analiz"
+      },
+      {
+        "label": "D",
+        "text": "Yorum"
+      },
+      {
+        "label": "E",
+        "text": "Tahmin"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Sınıflandırma"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "source": "5.txt",
+    "number": 97,
+    "question": "Hangisi nitel araştırmanın dezavantajıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Küçük örneklem"
+      },
+      {
+        "label": "B",
+        "text": "Derin bilgi sağlar"
+      },
+      {
+        "label": "C",
+        "text": "Esnek süreç"
+      },
+      {
+        "label": "D",
+        "text": "Doğal ortamda yapılması"
+      },
+      {
+        "label": "E",
+        "text": "Anlam ortaya çıkarır"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Küçük örneklem"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "source": "5.txt",
+    "number": 98,
+    "question": "İç geçerliliği azaltan unsurlardan biri hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deney süresi"
+      },
+      {
+        "label": "B",
+        "text": "Örneklem büyüklüğü"
+      },
+      {
+        "label": "C",
+        "text": "Ölçme aracı güvenirliği"
+      },
+      {
+        "label": "D",
+        "text": "Rastgele atama"
+      },
+      {
+        "label": "E",
+        "text": "Kontrol grubu"
+      }
+    ],
+    "answer": {
+      "label": "A",
+      "text": "Deney süresi"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "source": "5.txt",
+    "number": 99,
+    "question": "İki değişken arasındaki neden–sonuç ilişkisini ortaya koymak için hangi yöntem kullanılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Betimsel yöntem"
+      },
+      {
+        "label": "B",
+        "text": "Korelasyon"
+      },
+      {
+        "label": "C",
+        "text": "Deneysel yöntem"
+      },
+      {
+        "label": "D",
+        "text": "İçerik analizi"
+      },
+      {
+        "label": "E",
+        "text": "Tarama modeli"
+      }
+    ],
+    "answer": {
+      "label": "C",
+      "text": "Deneysel yöntem"
+    },
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "source": "5.txt",
+    "number": 100,
+    "question": "Literatür taramasının sonunda araştırmacı ne yapmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deney düzeni kurmalıdır"
+      },
+      {
+        "label": "B",
+        "text": "Hipotez geliştirmelidir"
+      },
+      {
+        "label": "C",
+        "text": "Tez yazmalıdır"
+      },
+      {
+        "label": "D",
+        "text": "Uygulamaya geçmelidir"
+      },
+      {
+        "label": "E",
+        "text": "Manipülasyon yapmalıdır"
+      }
+    ],
+    "answer": {
+      "label": "B",
+      "text": "Hipotez geliştirmelidir"
+    },
+    "explanation": ""
+  }
+]
